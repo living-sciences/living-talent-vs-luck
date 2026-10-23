@@ -1,0 +1,13 @@
+domain,stat,value,ci_lo,ci_hi,n,note
+chess,persistence_top100_mean_rho,0.8702931737393744,,,100,11 consecutive-Jan pairs 2015-2026
+chess,persistence_2015->2016,0.8881166272445076,,,83,top-100
+chess,persistence_2016->2017,0.8765266660192234,,,86,top-100
+chess,persistence_2017->2018,0.8313431829262018,,,84,top-100
+chess,persistence_2018->2019,0.8617064665031499,,,79,top-100
+chess,persistence_2019->2020,0.8289398023751249,,,86,top-100
+chess,persistence_2020->2021,0.9302119026906737,,,93,top-100
+chess,persistence_2021->2022,0.8993915087000283,,,87,top-100
+chess,persistence_2022->2023,0.8880760634501064,,,87,top-100
+chess,persistence_2023->2024,0.8458178256145166,,,90,top-100
+chess,persistence_2024->2025,0.859260097388649,,,81,top-100
+chess,persistence_2025->2026,0.8638347682209386,,,86,top-100

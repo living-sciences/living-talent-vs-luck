@@ -1,0 +1,29 @@
+{
+  "prepared": "2026-10-22",
+  "note": "Phase 2a preview values; EMBARGOED for study 001 until its own estimates are written to results/. Computed by the prep script in this folder on the staged assets.",
+  "tennis": {
+    "players_ge200_stat_matches_1991_2025": 333,
+    "skill_proxy": "career share of total points won (tour-level G/M/A/F matches with stats, 1991-2025)",
+    "pwin_mean": 0.502, "pwin_sd": 0.0119, "pwin_skew": 0.748,
+    "top_success": {"name": "Roger Federer", "titles": 103, "skill_percentile": 0.994},
+    "top_skill": {"name": "Novak Djokovic", "pwin": 0.5447, "titles": 101},
+    "spearman_pwin_vs_titles": 0.792,
+    "titles_top1pct_share": 0.126, "titles_top20pct_share": 0.639,
+    "top100_yearend_points_y2y_spearman_mean_2011_2025": 0.645
+  },
+  "chess": {
+    "jan25_rated": 486934, "jan26_rated": 531422,
+    "top100_y2y_spearman_jan25_jan26": 0.886, "top100_retained": 100,
+    "rating_mean": 1759.0, "rating_sd": 225.6, "rating_skew": 0.569
+  },
+  "baseball": {
+    "team_wpct_y2y_corr_1961_2025": 0.50,
+    "var_obs_wpct_2015_2025": 0.00653, "var_luck_binomial_162": 0.00154, "season_luck_share": 0.236,
+    "salary_2016_top20pct_share": 0.656, "salary_2016_top1pct_share": 0.061, "salary_2016_n": 852
+  },
+  "science": {"sample_n": 5000, "citations_top20pct_share": 0.928, "citations_top1pct_share": 0.278, "zero_cited_frac": 0.573},
+  "imdb": {"movies_ge1000_votes": 49346, "votes_top20pct_share": 0.883, "votes_top1pct_share": 0.309,
+           "most_voted_quality_percentile": 0.999, "spearman_rating_votes": 0.205},
+  "tvl_model_reference": {"winner_talent_mean": 0.667, "winner_talent_percentile_of_N(0.6,0.1)": 0.749,
+    "capital_top20pct_share": 0.80, "P_winner_talent_gt_0.8": 0.03}
+}

@@ -1,0 +1,596 @@
+{{short description|Hall of Fame of professional poker}}
+{{Use mdy dates|date=December 2018}}
+{{Infobox company
+| name        = Poker Hall of Fame
+| logo        = [[File:Pokerhalloffame low resolution.jpg|150px]]
+| owner       = [[Caesars Entertainment Corporation|Caesars Entertainment]]
+| founder     = Binion's Horseshoe
+| founded     = 1979
+| hq_location = Horseshoe Las Vegas
+| key_people  = [[Jack Binion]], Creator
+| industry    = [[Poker]]
+| website     = [http://www.worldseriesofpoker.com/pokerhalloffame/index.asp Hall of Fame]
+}}
+
+The '''Poker Hall of Fame''' is the [[hall of fame]] of professional [[poker]] in the United States. Founded in [[Las Vegas Valley|Las Vegas]], it was created in 1979 by [[Benny Binion]], the owner of the [[Horseshoe Casino]], to preserve the names and legacies of the world's greatest poker players and to serve as a tourist attraction to his casino.<ref name = "tourism">{{cite web|url=http://www.pokernews.com/wsop/hall-of-fame/|title=Poker Hall of Fame|access-date=June 20, 2009|publisher=Poker News}}</ref>
+
+Binion was known for the creative ways in which he marketed his casino. In 1949, he convinced [[Johnny Moss]] and [[Nick Dandolos|Nick "The Greek" Dandolos]] to play high-stakes poker [[heads up poker|heads up]] where the public could watch them.<ref name = "MrMoss" /> In 1970, he invited a group of poker players to compete in what would be the first [[World Series of Poker]] (WSOP). When Harrah's Entertainment, later known as [[Caesars Entertainment Corporation|Caesars Entertainment]], acquired the rights to the WSOP in 2004, it also assumed ownership of the Poker Hall of Fame.<ref name ="WSOP History" />  Currently, membership in the Poker Hall of Fame is handled directly by the WSOP.<ref name = "WSOPHall">{{cite web|url=http://www.wsop.com/pokerhalloffame/index.asp|title=WSOP Poker Hall of Fame|access-date=November 3, 2011|publisher=World Series of Poker}}</ref>
+
+As of 2026, 64 people have been inducted into the Poker Hall of Fame, 33 of whom are still living.<ref>{{cite web|url=http://www.pokernewsreport.com/poker-hall-of-fame-stats-and-facts-5501|title=Poker Hall of Fame Stats and Facts|date=October 30, 2011|publisher=Poker News Report|access-date=December 5, 2011}}</ref><ref>{{cite news|url=https://www.espn.com/poker/story/_/id/8525208/eric-drache-brian-sailor-roberts-inducted-poker-hall-fame |title=Drache and Roberts to enter HOF |first=Andrew |last=Feldman |work=[[ESPN.com]] |date=October 19, 2012 |access-date=October 21, 2012}}</ref><ref>{{cite web|url=https://www.wsop.com/news/jason-koon-inducted-into-the-poker-hall-of-fame/|title=Jason Koon Inducted into the Poker Hall of Fame|publisher=World Series of Poker|date=August 2026|access-date=August 7, 2026}}</ref>
+
+In July 2023, an exhibit devoted to the Poker Hall of Fame opened in the Horseshoe Las Vegas, owned by Caesar’s Entertainment. The exhibit acknowledges poker’s most legendary players with a Gallery of Champions, WSOP bracelets and rings.<ref>{{Cite web |last=Holden |first=Dominic  |date=July 14, 2024 |title=PATRIK ANTONIUS ANNOUNCED AS 2024 POKER HALL OF FAME INDUCTEE |url=https://www.wsop.com/news/2024/Jul/14023/PATRIK-ANTONIUS-ANNOUNCED-AS-2024--POKER-HALL-OF-FAME-INDUCTEE.html |access-date=July 14, 2024 |publisher=WSOP.com}}</ref>
+
+== Requirements ==
+Before the 2009 World Series of Poker, then-WSOP Commissioner [[Jeffrey Pollack]] announced that the process for becoming a member into the Poker Hall of Fame would undergo a slight modification. Starting in 2009, the Poker Hall of Fame started accepting nominations from the public.  This move was intended to increase interest in the Hall. Almost immediately after this decision was announced, [[Party Poker]] started an online campaign to get its representative and [[World Poker Tour]] commentator [[Mike Sexton]] elected to the Hall.<ref name= "Mike">{{cite web|url=http://www.cardplayer.com/poker-news/6828-nomination-process-for-the-poker-hall-of-fame-open|title=Nomination Process for the Poker Hall of Fame Open|last=Murphy|first=Stephen|date=May 29, 2009|access-date=June 13, 2009|publisher=CardPlayer Magazine}}</ref><ref>{{cite web|url=http://www.tightpoker.com/news/mike-sexton-deserves-place-in-pokers-hall-of-fame-1074/|title=Mike Sexton Deserves Place In Poker's Hall of Fame|date=May 27, 2009|access-date=June 13, 2009|last=Zusman|first=Joe|work=Tight Poker |publisher=PartyPoker}}</ref><ref>{{cite web|url=http://www.pokerpages.com/poker-news/news/partypoker-pushes-for-mike-sextons-induction-to-poker-hall-of-fame-31685.htm|title=PartyPoker Pushes for Mike Sexton's Induction to Poker Hall of Fame|date=May 28, 2009|publisher=Poker Pages|access-date=June 20, 2009|url-status=dead|archive-url=https://web.archive.org/web/20090531081331/http://www.pokerpages.com/poker-news/news/partypoker-pushes-for-mike-sextons-induction-to-poker-hall-of-fame-31685.htm|archive-date=May 31, 2009}}</ref>  Other poker sites, namely [[PokerStars]]' [[Tom McEvoy]], followed suit by pushing their own poker professionals.<ref>{{cite web|url=http://www.pokernewsdaily.com/pokerstars-pushes-tom-mcevoy-for-poker-hall-of-fame-3061/|title=PokerStars Pushes Tom McEvoy for Poker Hall of Fame|last=Jenkins|first=Tom|date=June 22, 2009|access-date=August 6, 2009|publisher=PokerDailyNews}}</ref>  The requirements for the Poker Hall of Fame are as follows:
+*''A gambler must have played poker against acknowledged top competition,''
+*''Played for high stakes,''
+*''Played consistently well, gained the respect of peers,''
+*''And stood the test of time.''
+*''Or, for non-players, contributed to the overall growth and success of the game of poker, with indelible positive and lasting results.''<ref name ="WSOP History">{{cite web|url=http://www.worldseriesofpoker.com/pokerhalloffame/index.asp|title=A Brief History of the Poker Hall of Fame|publisher=Harrah's Entertainment|access-date=June 13, 2009}}</ref><ref name = "shapiro">{{cite web|url=http://www.cardplayer.com/magazine/article/16937|title=Barbara and the Poker Hall of Fame|date=August 15, 2007|access-date=March 3, 2008|last=Shapiro|first=Max|publisher=CardPlayer Magazine}}</ref>
+
+In 2009, 23-year-old online poker professional [[Tom Dwan]] was a finalist for the Poker Hall of Fame because of public balloting. As a result, a new age requirement was added in 2011. This rule, known as the "Chip Reese Rule", established a minimum age of 40 to be inducted into the Hall of Fame. This new requirement eliminated some players who were regular nominees over the previous years, such as [[Phil Ivey]] and [[Daniel Negreanu]] (both of whom were eventually inducted upon reaching the age threshold).<ref>{{cite web|url=http://www.pocketfives.com/articles/2011-poker-hall-fame-nominations-now-open-wsop-rolls-586591/|title=2011 Poker Hall of Fame nomination now open as WSOP rolls on|author=P5 Staff|publisher=Pocket Fives|date=July 5, 2011|access-date=October 28, 2011}}</ref>
+
+==Award==
+Admission into the Poker Hall of Fame is considered one of the greatest honors in poker.<ref>{{cite web|url=http://www.pokerpages.com/articles/archives/west07.htm|title=Baxter, Cloutier Admitted to Poker Hall of Fame|publisher=Poker Pages|last=West|first=Justin|access-date=June 20, 2009|url-status=dead|archive-url=https://web.archive.org/web/20090923182732/http://www.pokerpages.com/articles/archives/west07.htm|archive-date=September 23, 2009}}</ref> In his acceptance speech, [[T. J. Cloutier]] declared, "It's one of two things I've always wanted to win."<ref>{{cite web|url=http://www.pokerlistings.com/player-interviews/the-press-conference-part-1-this-years-poker-hall-of-famers|title=The Press Conference Part 1: This Year's Poker Hall of Famers|publisher=Poker Listing|date = August 1, 2006|access-date=March 3, 2008}}</ref>  [[Barbara Enright]], the first woman inducted into the Hall, considers her induction to be a "lifetime achievement honor."<ref>{{cite web|url=http://pokerworks.com/poker-news/2007/07/05/hellmuth-enright-join-poker-hall-of-fame.html|title=Hellmuth, Enright join Poker Hall of Fame|last=Tuscaloosa |first=Johnny|date=May 27, 2007|access-date=March 3, 2008|publisher= Poker Works}}</ref>
+
+Before being acquired by Harrah's Casino, [[R.S. Owens & Company]] was commissioned to design an award for Poker Hall of Famers.  The award was an eight-inch-tall piece of glass with a hand of cards sandblasted at the bottom, the winner's name, and the words "Poker Hall of Fame" in a circle. The circle had a gold emblem bonded to the glass and had the Binion's Horseshoe Casino logo in it. There was a gold plated base with three gold-plated stacks of chips.<ref>{{cite web|url=http://www.rsowens.com/galleries/custom/product.asp?ITEM_ID=2013|archive-url=https://archive.today/20120910110844/http://www.rsowens.com/galleries/custom/product.asp?ITEM_ID=2013|url-status=dead|archive-date=September 10, 2012|title=Poker Hall of Fame Custom Award|publisher=R.S. Owens|access-date=March 3, 2008}}</ref>
+
+==Membership==
+{|class="wikitable"
+|style="background: #E9E9E9;" | †
+|Denotes player who is deceased.
+|}
+
+{| class="wikitable sortable" width="100%"
+! class="unsortable"| Image
+! Year
+! Nationality
+! Name<ref>{{cite web|url=http://www.worldseriesofpoker.com/pokerhalloffame/index.asp|title=A Brief History of the Poker Hall of Fame|publisher=Harrah's Entertainment|access-date=June 20, 2009}}</ref><br>''Nickname''
+! WSOP Winnings
+! [[World Series of Poker bracelet|WSOP bracelets]]
+! class="unsortable"| Notes
+|-
+| [[File:JMoss.jpg|75px]]
+|align="center"| 1979
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Johnny|Moss}}†<ref name = "mcoss">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17691&pagecolor=FFFFFF |work=World Series of Poker|title=Johnny Moss |access-date=January 21, 2009|publisher=Harrahs Entertainment}}</ref><br> ''The Grand Old Man of Poker''<ref name = "mossname">{{cite web|url=http://world-series-poker.co.uk/bracelets.html |title=All-Time List of World Series of Poker Bracelet Winners|work=World Series of Poker|access-date=January 16, 2009|publisher=Harrah's Entertainment}}</ref>
+|align="center"| ${{nts|834,422}}
+| [[1970 World Series of Poker]] Championship<br>[[1971 World Series of Poker|1971]] $5,000 No Limit Hold'em World Championship<br>[[1971 World Series of Poker|1971]] Limit Ace to 5 Draw<br>[[1974 World Series of Poker|1974]] $10,000 No Limit Hold'em World Championship<br>{{nowrap|[[1975 World Series of Poker|1975]] $1,000 Seven Card Stud}}<br>[[1976 World Series of Poker|1976]] $500 Seven Card Stud<br>[[1979 World Series of Poker|1979]] $5,000 Seven Card Stud<br>[[1981 World Series of Poker|1981]] $1,000 Seven Card Stud Hi-Lo<br>[[1988 World Series of Poker|1988]] $1,500 Ace to Five Draw
+|align="center"| The first World Series of Poker was not a freeze-out tournament, but rather a game with a set start and stop time.  [[Benny Binion]] took a secret ballot that asked the players who the best player was.  According to poker lore, everybody said that they were the best player.  Binion then asked who the second-best player was, and Johnny Moss won.<ref>{{cite web|url=http://www.pokernews.com/wsop/history/ |title=The History of the World Series of Poker|access-date=June 20, 2009|publisher=Poker Works}}</ref>
+|-
+|
+|align="center"| 1979
+|align="center"| {{flag|GRE}}
+|align="center"| {{sortname|Nick|Dandolos|Nick Dandolos}}†<br> ''Nick the Greek''
+|align="center"|  $0
+| ''None''
+|align="center"| According to poker lore, in the summer of 1949, in Nevada, Nick the Greek and [[Johnny Moss]] played in a five-month-long poker marathon at Binion's Horseshoe Casino. Nick the Greek reportedly lost about $2&nbsp;million to Moss and on losing the final hand stood up and said, "Mr. Moss, I have to let you go." This heads-up match, which became a tourist attraction, is often cited as the earliest inspiration behind the [[World Series of Poker]].<ref name = "MrMoss">{{cite web|url=http://espn.go.com/eoe/wsop/history.html|archive-url=https://web.archive.org/web/20040528154728/http://espn.go.com/eoe/wsop/history.html|url-status=dead|archive-date=May 28, 2004|title=World Series of Poker History|access-date=June 11, 2009|publisher=ESPN}}</ref>
+|-
+|align="center"| —
+|align="center"| 1979
+|align="center"| {{flag|USA}}
+|align="center"| {{nowrap|{{sortname|Felton|McCorquodale|Corky McCorquodale}}†}}<br> ''Corky''
+|align="center"| $0
+| ''None''
+|align="center"| McCorquodale is credited with introducing the game of Texas Hold'em to Las Vegas in 1963.<ref name = "Quest">{{cite web|url=http://www.cardplayer.com/cardplayer-magazines/65673-phil-hellmuth-20-14/articles/16870-the-quest-for-immortality-the-poker-hall-of-fame|title=The Quest for Immortality: The Poker Hall of Fame|last=Peters|first=Tim|publisher=Cardplayer Magazine|date=July 18, 2007|access-date=June 11, 2009}}</ref>
+|-
+|align="center"| —
+|align="center"| 1979
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Red|Winn}}†
+|align="center"| $0
+| ''None''
+|align="center"| —
+|-
+|align="center"| —
+|align="center"| 1979
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Sid|Wyman}}†
+|align="center"| $0
+| ''None''
+|align="center"| Wyman was a noted poker player and owner of several Vegas casinos: [[Sands Hotel and Casino|Sands]], [[Riviera (hotel and casino)|Riviera]], Royal Nevada and [[The Dunes]].
+|-
+| [[image:Wild Bill.jpg|75px]]
+|align="center"| 1979
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|James Butler|Hickok|Wild Bill Hickok}}†<br>''Wild Bill Hickok''
+|align="center"| $0
+| ''None''
+|align="center"| Hickok was one of the best-known poker players in the world before the 20th century. He is one of three Poker Hall of Famers to die while playing poker (along with [[Tom Abdo]] and [[Jack Straus]]).<ref name = "shapiro"/>  Legend has it that when he was shot in the back in 1876, he was holding two aces and two eights.  The hand has since been called the [[dead man's hand]].<ref name="hall">{{cite web|url=http://www.pokerpages.com/pokerinfo/hallofame/ |title=Poker Hall of Fame |publisher=PokerPage |access-date=July 11, 2009 |url-status=dead |archive-url=https://web.archive.org/web/20090125045458/http://www.pokerpages.com/pokerinfo/hallofame/ |archive-date=January 25, 2009 }}</ref>
+|-
+| [[image:Edmond Hoyle.jpg|75px]]
+|align="center"| 1979
+|align="center"| {{flag|GBR}}
+|align="center"| {{sortname|Edmond|Hoyle}}†
+|align="center"| $0
+| ''None''
+|align="center"| After writing a book on the game of [[whist]], the phrase "according to Hoyle" become synonymous in card games with following the rules.<ref name = "hall" />
+|-
+|align="center"| —
+|align="center"| 1980
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Blondie|Forbes}}†
+|align="center"| $0
+| ''None''
+|align="center"| Forbes is credited with creating the game of Texas Hold'em.<ref name = "Quest" />
+|-
+|align="center"| —
+|align="center"| 1981
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Bill|Boyd|Bill Boyd (poker player)}}†
+|align="center"| ${{nts|80000}}
+|[[1971 World Series of Poker|1971]] $10,000 [[Betting (poker)|Limit]] [[Five-card stud|Five Card Stud]]<br>[[1972 World Series of Poker|1972]] $10,000 Five Card Stud<br>[[1973 World Series of Poker|1973]] $10,000 Limit Five Card Stud<br>[[1974 World Series of Poker|1974]] $5,000 Five Card Stud
+|align="center"| Boyd was the Director of Operations at the [[Golden Nugget Las Vegas|Golden Nugget]] from 1946 to 1982.  Boyd is credited with establishing [[Robert Turner (poker player)|Robert Turner's]] game [[Omaha hold 'em]] as a casino staple.<ref>{{cite web|url=http://www.cardplayer.com/cardplayer-magazines/65671-erick-lindgren-20-12/articles/16829-all-about-omaha-origins|title=All About Omaha Origins|publisher=Cardplayer Magazine|last=Ciaffone|first=Bob|date=July 27, 2007|access-date=June 11, 2009}}</ref>
+|-
+|align="center"| —
+|align="center"| 1982
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Tom|Abdo}}†
+|align="center"| $0
+| ''None''
+|align="center"| Abdo is one of three Poker Hall of Famers to die while playing poker (along with Wild Bill Hickok and Jack Straus).<ref name = "shapiro"/>  He died from a heart attack.  According to legend, after suffering the heart attack, he asked another player to count his chips and to save his seat.<ref name = "hall" />
+|-
+| align="center"|—
+|align="center"| 1983
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Joe|Bernstein |Joe Bernstein (poker player)}}†
+|align="center"| ${{nts|21000}}
+|[[1973 World Series of Poker|1973]] $10,000 [[Betting (poker)|Limit]]  Ace to Five Draw
+|align="center"| —
+|-
+|align="center"|  —
+|align="center"| 1984
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Murph|Harrold}}†
+|align="center"| $0
+| ''None''
+|align="center"| —
+|-
+| align="center"| —
+|align="center"| 1985
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Red|Hodges}}†
+|align="center"| $0
+| ''None''
+|align="center"| —
+|-
+| align="center"| —
+|align="center"| 1986
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Henry|Green|Henry Green (poker player)}}†
+|align="center"| $0
+| ''None''
+|align="center"| —
+|-
+| [[image:PuggyPearson.jpg|75px]]
+|align="center"| 1987
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Walter Clyde|Pearson|Puggy Pearson}}†<br> ''Puggy''
+|align="center"| ${{nts|265580}}
+|[[1971 World Series of Poker|1971]] Limit Seven Card Stud<br>[[1973 World Series of Poker|1973]] $10,000 No Limit Hold'em World Championship<br>1973 $1,000 No Limit Hold'em <br>1973 $4,000 Limit Seven Card Stud
+|align="center"| Pearson is credited with coming up with the concept of a freeze-out tournament.<ref>{{cite web|url=http://www.pokerlistings.com/poker-player_puggy-pearson|title=Puggy Pearson|work= Player Profiles|publisher= Poker Listing|access-date=June 11, 2009}}</ref>
+|-
+| [[image:Doyle Brunson.jpg|75px]]
+|align="center"| 1988
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Doyle|Brunson}}†<br> ''Texas Dolly''
+|align="center"| ${{nts|2994116}}
+| [[1976 World Series of Poker|1976]] $10,000 No Limit Hold'em World Championship<br> 1977 $5,000 Deuce to Seven Draw<br>[[1977 World Series of Poker|1977]] $10,000 No Limit Hold'em World Championship <br>1977 $1,000 Seven Card Stud Split<br>[[1978 World Series of Poker|1978]] $5,000 Seven Card Stud <br>[[1979 World Series of Poker|1979]] $600 Mixed Doubles (with [[Starla Brodie]]) <br>[[1991 World Series of Poker|1991]] $2,500 No Limit Hold'em<br>[[1998 World Series of Poker|1998]] $1,500 Seven Card [[Razz (poker)|Razz]]<br>[[2003 World Series of Poker|2003]] $2,000 H.O.R.S.E.<br>[[2005 World Series of Poker|2005]] $5,000 No Limit Shorthanded Texas Hold'em
+|align="center"| Brunson wrote ''[[Super/System]]'', widely considered to be the most influential book ever written on poker.<ref>{{cite magazine|url=http://www.bluffmagazine.com/magazine/Bluff%92s-Holiday-GIFT-GUIDE-2005-Bluff-Staff-312.htm|archive-url=https://archive.today/20120720001308/http://www.bluffmagazine.com/magazine/Bluff%92s-Holiday-GIFT-GUIDE-2005-Bluff-Staff-312.htm|url-status=dead|archive-date=July 20, 2012|title=Bluff's Holiday Gift Guide 2005|magazine=Bluff Magazine|access-date=June 11, 2009}}</ref>
+|-
+| [[image:JackStraus.jpg|75px]]
+|align="center"| 1988
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Jack|Straus}}†<br> ''Treetop''
+|align="center"| ${{nts|597000}}
+|[[1973 World Series of Poker|1973]] $3,000 Deuce to Seven [[Draw (poker)|Draw]] <br>[[1982 World Series of Poker|1982]] $10,000 Championship Event - [[Texas hold 'em|No Limit Hold'em]]
+|align="center"| Straus' 1982 WSOP tournament victory is considered to be one of the greatest comebacks in poker history.  At one point, Straus had one chip remaining, and came back to win. This victory is considered to be the origin of the poker saying, "A chip and a chair", meaning that as long as a player has not been eliminated from the tournament, he or she still has a chance.  Modern lore indicates that this happened at the final table, but the 1983 book ''The Biggest Game in Town'' implies this occurred on the first day of the tournament.<ref>{{cite web|url=http://betting.betfair.com/wsop/news/a-chip-and-a-chair-170708.html/|title=A chip and a chair!|work=betfair.com|access-date=January 20, 2009|publisher=Betfair|url-status=dead|archive-url=https://web.archive.org/web/20080811003218/http://betting.betfair.com/wsop/news/a-chip-and-a-chair-170708.html|archive-date=August 11, 2008}}</ref>  Straus is one of three Hall of Famers to die while playing poker (along with Wild Bill Hickok and Tom Abdo).<ref name = "shapiro"/>
+|-
+| align="center"| —
+|align="center"| 1989
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Fred|Ferris|Sarge Ferris}}†<br> ''Sarge''
+|align="center"| ${{nts|150000}}
+|[[1980 World Series of Poker|1980]] $10,000 Deuce to Seven Draw
+|align="center"| Ferris gained notoriety when the IRS seized $46,000 from him on April 22, 1983, while he was playing high-stakes poker at the Horseshoe.<ref name = "hall" />
+|-
+| [[File:BennyBinion.jpg|75px]]
+|align="center"| 1990
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Benny|Binion}}†
+|align="center"| $0
+| ''None''
+|align="center"| Founder of the Horseshoe Casino and the WSOP
+|-
+| [[image:Chip Reese 2.jpg|75px]]
+|align="center"| 1991
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|David|Reese|Chip Reese}}†<br> ''Chip''
+|align="center"| ${{nts|2246089}}
+|[[1978 World Series of Poker|1978]] $1,000 Seven Card Stud Split<br>[[1982 World Series of Poker|1982]] $5,000 Limit 7 Card Stud<br>[[2006 World Series of Poker|2006]] $50,000 [[H.O.R.S.E.]] World Championship
+|align="center"| Despite winning three bracelets, Reese was best known for his cash-game play.  At 40 years old, he was the youngest person to be enshirined in the Poker Hall of Fame.<ref name = "hall" />
+|-
+| [[File:AmarilloSlim.jpg|75px]]
+|align="center"| 1992
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Thomas|Preston|Amarillo Slim}}†<br> ''Amarillo Slim''
+|align="center"| ${{nts|437958}}
+|[[1972 World Series of Poker|1972]] $10,000 No Limit Hold'em World Championship<br>[[1974 World Series of Poker|1974]] $1,000 No Limit Hold'em <br>[[1985 World Series of Poker|1985]] $5,000 Pot Limit Omaha<br> [[1990 World Series of Poker|1990]] $5,000 Pot Limit Omaha
+|align="center"| After winning the WSOP in 1972, Slim sought to change the image of poker by appearing on national television and radio programs.<ref name = "hall" /> Slim hosted the [[Super Bowl of Poker]], considered the second most prestigious tournament at the time.<ref>{{cite web|url=http://www.pokernews.com/news/2009/03/poker-vaults-amarillo-slim-super-bowl-poker-part-2-1227.htm|title=From the Poker Vaults: Amarillo Slim's Super Bowl of Poker, Part II|publisher=PokerNews|last=Reback|first=Storms|date=March 12, 2009|access-date=June 13, 2009}}</ref>
+|-
+|align="center"| —
+|align="center"| 1993
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Jack|Keller|Jack Keller (poker player)}}†<br> ''Gentleman Jack Keller''
+|align="center"| ${{nts|1583845}}
+|[[1984 World Series of Poker|1984]] $5,000 Seven Card Stud <br>1984 $10,000 No Limit Hold'em World Championship <br>[[1993 World Series of Poker|1993]] $1,500 Omaha Limit
+|align="center"| —
+|-
+| align="center"| —
+|align="center"| 1995
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Julius Oral|Popwell|Little Man Popwell}}†<br> ''Little Man''
+|align="center"| $0
+| ''None''
+|align="center"| —
+|-
+|align="center"| —
+|align="center"| 1997
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Roger |Moore|Roger Moore (poker player)}}†
+|align="center"| ${{nts|372698}}
+|[[1994 World Series of Poker|1994]] $5,000 Limit 7 Card Stud
+|align="center"| —
+|-
+| [[File:Stu ungar.jpg|75px]]
+|align="center"| 2001
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Stu|Ungar}}†<br> ''The Kid''
+|align="center"| ${{nts|2081478}}
+|[[1980 World Series of Poker|1980]] $10,000 No Limit Hold'em World Championship<br>[[1981 World Series of Poker|1981]] $10,000 No Limit Hold'em World Championship<br>1981 $10,000 Deuce to Seven Draw<br>[[1983 World Series of Poker|1983]] $5,000 Seven Card Stud<br>[[1997 World Series of Poker|1997]] $10,000 No Limit Hold'em World Championship
+|align="center"| Ungar won back-to-back WSOP Main Event bracelets in 1980 and 1981, and won the event again in 1997. He and [[Johnny Moss]] are the only players to have won the main event three times.
+|-
+| [[File:Lyle Berman.jpg|75px]]
+|align="center"| 2002
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Lyle|Berman}}
+|align="center"| ${{nts|1619407}}
+|[[1989 World Series of Poker|1989]] $1,500 [[Betting (poker)|Limit]] [[Omaha hold'em|Omaha]]<br>[[1992 World Series of Poker|1992]] $2,500 [[Betting (poker)|No Limit]] [[Hold'em]]<br>[[1994 World Series of Poker|1994]] $5,000 No Limit [[Draw (poker)|Deuce to Seven Draw]]
+|align="center"| —
+|-
+| [[File:Johnny Chan.jpg|75px]]
+|align="center"| 2002
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Johnny|Chan}}<br> ''Orient Express''<br>''The Great Wall of China''<ref name = "hall" />
+|align="center"| ${{nts|4635014}}
+|[[1985 World Series of Poker|1985]] $1,000 Limit Hold'em<br>[[1987 World Series of Poker|1987]] $10,000 No Limit Hold'em World Championship<br>[[1988 World Series of Poker|1988]] $10,000 No Limit Hold'em World Championship<br>[[1994 World Series of Poker|1994]] $1,500 Seven Card Stud<br>[[1997 World Series of Poker|1997]] $5,000 Deuce to Seven Draw<br>[[2000 World Series of Poker|2000]] $1,500 Pot Limit Omaha<br>[[2002 World Series of Poker|2002]] $2,500 No Limit Hold'em Gold Bracelet Match Play<br>[[2003 World Series of Poker|2003]] $5,000 No Limit Hold'em<br>[[2003 World Series of Poker|2003]] $5,000 Pot Limit Omaha<br>[[2005 World Series of Poker|2005]] $2,500 Pot Limit Hold'em
+|align="center"| —
+|-
+| [[File:BobbyBaldwin.jpg|75px]]
+|align="center"| 2003
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Bobby|Baldwin}}<br>''The Owl''
+|align="center"| ${{nts|2100311}}
+|[[1977 World Series of Poker|1977]] $5,000 Seven Card Stud<br>[[1977 World Series of Poker|1977]] $10,000 Deuce to Seven Draw<br>[[1978 World Series of Poker|1978]] $10,000 No Limit Hold'em World Championship <br>[[1979 World Series of Poker|1979]] $10,000 Deuce to Seven Draw
+|align="center"| Baldwin has worked with several casinos in various capacities due to his poker expertise.<ref name = "hall" />
+|-
+| [[File:Berry Johnston 2007 cropped.jpg|75px]]
+|align="center"| 2004
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Berry|Johnston}}
+|align="center"| ${{nts|2116110}}
+|[[1983 World Series of Poker|1983]] $2,500 Match Play<br>[[1986 World Series of Poker|1986]] $10,000 No Limit [[Texas hold 'em|Hold'em]] World Championship<br>1990 $2,500 Limit Hold'em<br>[[1995 World Series of Poker|1995]] $1,500 Limit [[Omaha hold 'em|Omaha]]<br>[[2001 World Series of Poker|2001]] $1,500 [[Razz (poker)|Razz]]
+|align="center"| At the time of his induction into the Hall of Fame, Johnston had the most WSOP cashes of any poker player.  Having cashed in at least one event every year from 1982 to 2010, Berry holds the record for longest streaks at 29 years.<ref>{{cite web|url=http://www.wsop.com/news/2011/Jul/3494/CELEBRATION-693-PLAYERS-IN-THE-MONEY.html|title=CELEBRATION! 693 PLAYERS IN THE MONEY!|last=Dalla|first=Nolan|date=July 15, 2011|access-date=October 27, 2011}}</ref>
+|-
+| [[File:Jackbinion.jpg|75px]]
+|align="center"| 2005
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Jack|Binion}}
+|align="center"| $0
+| ''None''
+|align="center"| Binion was the first host of the WSOP in 1970 and successor to the Horseshoe legacy after the death of his father, [[Benny Binion]].<ref name = "hall" />
+|-
+| [[image:Crandell Addington 2005 (cropped).jpg|75px]]
+|align="center"| 2005
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Crandell |Addington}}†<br>''Dandy''
+|align="center"| ${{nts|105650}}
+| ''None''
+|align="center"| —
+|-
+| [[image:TJ Cloutier.jpg|75px]]
+|align="center"| 2006
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|T. J.|Cloutier}}
+|align="center"| ${{nts|4683940}}
+| [[1987 World Series of Poker|1987]] $1,000 Limit [[Omaha Hold'em|Omaha Hi]]<br>[[1994 World Series of Poker|1994]] $1,500 Limit Omaha 8 or Better<br> 1994 $2,500 Pot Limit [[Texas Hold'em|Hold'em]]<br>[[1998 World Series of Poker|1998]] $2,500 Pot Limit Omaha Hi<br>[[2004 World Series of Poker|2004]] $1,500 Seven Card [[Razz (poker)|Razz]]<br>[[2005 World Series of Poker|2005]] $5,000 No Limit Hold'em
+|align="center"| Cloutier is the only person to have won bracelets in all three types (Pot Limit High, Limit High, and Limit 8-or-Better High-low split) of [[Omaha hold 'em|Omaha]].<ref name = "hall" />
+|-
+| [[image:Billybaxter.jpg|75px]]
+|align="center"| 2006
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Billy|Baxter|Billy Baxter (poker player)}}
+|align="center"| ${{nts|1210920}}
+|[[1975 World Series of Poker|1975]] $1,000 [[Deuce-to-seven low|Deuce to Seven]]<br>[[1978 World Series of Poker|1978]] $10,000 Deuce to Seven Draw<br> [[1982 World Series of Poker|1982]] $10,000 Deuce to Seven Draw <br> [[1982 World Series of Poker|1982]] $2,500 [[Ace-to-five low|Ace to Five Draw]]<br> [[1987 World Series of Poker|1987]] $5,000 Deuce to Seven Draw<br>[[1993 World Series of Poker|1993]] $5,000 Deuce to Seven Draw <br>[[2002 World Series of Poker|2002]] $1,500 [[Razz (poker)|Razz]]
+|align="center"| In the case of [[Baxter v. United States]],  Baxter fought the [[Internal Revenue Service]] and won the right to count poker winnings as earned income.<ref name = "case">''Baxter v. United States'', 633 F. Supp. 912, 86-1 U.S. Tax Cas. (CCH) paragr. 9284 (D. Nev. 1986).</ref> Because of the ruling, poker winnings are taxed at a lower rate than other forms of gambling.
+|-
+|align="center"| [[File:Barbara Enright.jpg|75px]]
+|align="center"| 2007
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Barbara |Enright}}
+|align="center"| ${{nts|457544}}
+|[[1986 World Series of Poker|1986]] $500 Women's [[Seven-Card Stud|Seven Card Stud]]<br> [[1994 World Series of Poker|1994]] $1,000 Women's Seven Card Stud<br> [[1996 World Series of Poker|1996]] $2,500 [[betting (poker)|Pot Limit]] Hold'em
+|align="center"| Enright was the first woman to have advanced to the final table of the WSOP Main Event.  She was the first woman to win three WSOP bracelets and the first to win an open event.<ref name = "hall" />
+|-
+| [[image:Phil Hellmuth.jpg|75px]]
+|align="center"| 2007
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Phil|Hellmuth}}<br> ''The Poker Brat''
+|align="center"| ${{nts|14046072}}
+| [[1989 World Series of Poker|1989]] $10,000 No Limit Hold'em World Championship<br> [[1992 World Series of Poker|1992]] $5,000 Limit Hold'em <br> [[1993 World Series of Poker|1993]] $1,500 No Limit Hold'em <br> 1993 $2,500 No Limit Hold'em <br> 1993 $5,000 Limit Hold'em <br> [[1997 World Series of Poker|1997]] $3,000 Pot Limit Hold'em <br>[[2001 World Series of Poker|2001]] $2,000 No Limit Hold'em <br>[[2003 World Series of Poker|2003]] $2,500 Limit Hold'em <br> 2003 $3,000 No Limit Hold'em <br> [[2006 World Series of Poker|2006]] $1,000 No Limit Hold'em with rebuys <br> [[2007 World Series of Poker|2007]] $1,500 No Limit Hold'em <br> [[2012 World Series of Poker|2012]] $2,500 Seven Card Razz <br> [[2012 World Series of Poker Europe|2012]] $10,400 WSOPE Main Event <br> [[2015 World Series of Poker|2015]] $10,000 Seven-Card Razz <br> [[2018 World Series of Poker|2018]] $5,000 No Limit Hold'em<br>[[2021 World Series of Poker|2021]] $1,500 No Limit 2-7 Lowball Draw <br> [[2023 World Series of Poker|2023]] $10,000 Super Turbo Bounty No-Limit Hold'em
+|align="center"| In 1989, at age 24, Hellmuth became the youngest person to win the WSOP main event.  He held this distinction until 2008, when 22-year-old [[Peter Eastgate]] captured the title, and subsequently by 21-year-old [[Joe Cada]] in 2009.<ref name="PokerPNP">{{cite web |url=http://www.pokerplayernewspaper.com/viewarticle.php?id=2960 |archive-url=https://web.archive.org/web/20090422000813/http://www.pokerplayernewspaper.com/viewarticle.php?id=2960 |url-status=dead |archive-date=April 22, 2009 |title=Peter Eastgate Wins the 2008 World Series of Poker |access-date=November 11, 2008 |last=Dalla |first=Nolan |date=November 11, 2008 |publisher=Poker Player Newspaper }}</ref>  Hellmuth holds the records for most WSOP bracelets (17), WSOP cashes (186), and most WSOP final tables (64).<ref>{{cite web|url=http://www.pokerlistings.com/hellmuth-gunning-for-number-12-41829|title=Hellmuth gunning for number 12|publisher=Pokerlisting.com|date=March 6, 2009|access-date=June 21, 2009|last=Derbyshire |first=Martin}}</ref><ref>{{Cite web |last=Wise |first=Gary |author-link=Gary Wise |date=October 6, 2008 |title=Hellmuth's legacy? |url=https://www.espn.com/espn/poker/columns/story?columnist=wise_gary&id=3629313 |access-date=July 29, 2009 |website=ESPN |publisher=Walt Disney Corp}}</ref>
+|-
+| [[File:Dewey Tomko.jpg|75px]]
+|align="center"| 2008
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Dewey|Tomko}}
+|align="center"| ${{nts|2725128}}
+|[[1979 World Series of Poker|1979]] $1,000 No Limit Hold'em<br>[[1984 World Series of Poker|1984]] $5,000 Pot Limit Omaha<br>[[1984 World Series of Poker|1984]] $10,000 Deuce to Seven Draw
+|align="center"| Tomko has won over $4.9 million in tournament poker.<ref>{{cite web|url=http://pokerdb.thehendonmob.com/player.php?a=r&n=230|title=Dewey Tomko|work=HendonMob|publisher=Full Tilt Poker|access-date=June 11, 2009}}</ref>  Tomko has played in every WSOP since 1974, the longest streak ever.<ref name = "hall" />
+|-
+|align="center"| —
+|align="center"| 2008
+|align="center"| {{flag|POL}}
+|align="center"| {{sortname|Henry|Orenstein}}†
+|align="center"| ${{nts|232519}}
+| [[1996 World Series of Poker|1996]] $5,000 Seven Card Stud
+|align="center"| Orenstein is the patent holder of the [[hole cam]], which allows audiences to see player's hole cards.<ref>{{cite web|url=https://patents.google.com/patent/US5451054|title=Patent number: 5451054|access-date=June 11, 2009|publisher=GooglePatents}}</ref> At the time of his induction, he was a producer of ''[[Poker Superstars Invitational Tournament]]'' and ''[[High Stakes Poker]].''<ref>{{cite web|url=http://www.goldenwestcasino.net/southern-california-casino-blog/henry-orenstein|title=The Prolific Henry Orenstein|work=Golden West Casino|access-date=November 3, 2011|url-status=dead|archive-url=https://web.archive.org/web/20120425132248/http://www.goldenwestcasino.net/southern-california-casino-blog/henry-orenstein|archive-date=April 25, 2012}}</ref>
+|-
+| [[File:Mike Sexton 2019.jpg|75px]] 
+|align="center"| 2009
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Mike|Sexton}}†
+|align="center"| ${{nts|2613457}}
+| [[1989 World Series of Poker|1989]] $1,500 Seven Card Stud Split
+|align="center"| Sexton has live tournament winnings in excess of $3 million.<ref>{{cite web|url=http://www.pokerwizards.net/Mike_Sexton.html|title=Mike Sexton|work=Poker Wizards|access-date=November 3, 2011|url-status=dead|archive-url=https://web.archive.org/web/20111006165244/http://www.pokerwizards.net/Mike_Sexton.html|archive-date=October 6, 2011}}</ref> He has made 21 final tables at the WSOP, including a bracelet in Seven Card Stud 8/OB in 1989.<ref>{{cite web|url=http://www.wptpoker.com/promotions/mike-sexton-heads-up-challenge.html|title=Defeat Mike Sexton in Paris and Win a $7,500 WPT Amnéville Package!|work=WPTPoker.com|access-date=November 3, 2011|url-status=dead|archive-url=https://web.archive.org/web/20110924085630/http://www.wptpoker.com/promotions/mike-sexton-heads-up-challenge.html|archive-date=September 24, 2011}}</ref> Sexton has been a commentator on the [[World Poker Tour]] since season one.<ref>{{cite web|url=http://www.worldpokertour.com/Shared/Television/Hosts/Mike_Sexton.aspx|title=Mike Sexton|work=World Poker Tour|access-date=November 3, 2011|url-status=dead|archive-url=https://web.archive.org/web/20121209074311/http://www.worldpokertour.com/Shared/Television/Hosts/Mike_Sexton.aspx|archive-date=December 9, 2012}}</ref> 
+|-
+| [[File:Dan-HarringtonWSOP.jpg|75px]]
+|align="center"| 2010
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Dan|Harrington}}<br>''Action Dan''
+|align="center"| ${{nts|3534237}}
+|[[1995 World Series of Poker|1995]] $2,500 No Limit Hold'em <br> [[1995 World Series of Poker|1995]] $10,000 No Limit Hold'em World Championship <br>
+|align="center"| Harrington has co-authored the ''[[Harrington on Hold 'em]]'' and ''Harrington on Cash Games'' series of books. He is also the 1995 WSOP Main Event champion.<ref>{{cite web| url=http://www.pokerlistings.com/poker-player_dan-harrington|title=About Dan Harrington|work=PokerListings|access-date=November 3, 2011}}</ref>
+|-
+| [[File:EricSeidel.jpg|75px]]
+|align="center"| 2010
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Erik|Seidel}}<br>''Sly''
+|align="center"| ${{nts|5352474}}
+|[[1992 World Series of Poker|1992]] $2,500 Limit Hold'em <br> [[1993 World Series of Poker|1993]] $2,500 Omaha 8 or better <br> [[1994 World Series of Poker|1994]] $5,000 Limit Hold'em <br> [[1998 World Series of Poker|1998]] $5,000 Deuce to Seven Draw <br> [[2001 World Series of Poker|2001]] $3,000 No Limit Hold'em <br> [[2003 World Series of Poker|2003]] $1,500 Pot Limit Omaha <br> [[2005 World Series of Poker|2005]] $2,000 No Limit Hold'em <br> [[2007 World Series of Poker|2007]] $5,000 World Championship No-Limit Deuce to Seven Draw Lowball w/rebuys <br> [[2021 World Series of Poker Online|2021 O]] $10,000 Super Million$ High Roller
+|align="center"| Seidel has captured nine WSOP bracelets. Seidel was runner-up in the 1988 World Series of Poker main event to Johnny Chan. The final hand was featured in the 1998 film, [[Rounders (1998 film)|Rounders]].<ref>{{cite web| url=http://www.pokerlistings.com/poker-player_erik-seidel?show=bio#pp-bio|title=About Erik Seidel|work=PokerListings|access-date=November 11, 2010}}</ref>
+|-
+| [[File:BarryGreenstein.jpg|75px]] 
+|align="center"| 2011
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Barry|Greenstein}}<br>''The Robin Hood of Poker''
+|align="center"| ${{nts|3159631}}
+| [[2004 World Series of Poker|2004]] $5,000 No Limit Deuce to Seven Draw<br>[[2005 World Series of Poker|2005]] $1,500 Pot Limit Omaha<br>[[2008 World Series of Poker|2008]] $1,500 Razz
+|align="center"| "The Robin Hood of Poker" is known for giving his tournament winnings to charities and a signed copy of [[Ace on the River|his autobiography]] to any player who eliminates him from a tournament.<ref>{{cite web|url=http://www.pokerlistings.com/poker-player_barry-greenstein|title=About Barry Greenstein|work=PokerListings|access-date=November 2, 2011|archive-url=https://web.archive.org/web/20111126120029/http://www.pokerlistings.com/poker-player_barry-greenstein|archive-date=November 26, 2011|url-status=dead}}</ref> 
+|-
+| [[File:Linda-johnson-poker.jpg|75px]] 
+|align="center"| 2011
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Linda|Johnson|Linda Johnson (poker player)}}<br>''The First Lady of Poker''
+|align="center"| ${{nts|169508}}
+| [[1997 World Series of Poker|1997]] $1,500 Seven Card Razz
+|align="center"| "The First Lady of Poker" was a publisher of [[Card Player|Card Player Magazine]] and was instrumental in the formation of the Tournament Director's Association (TDA).<ref>{{cite magazine|url=http://www.cardplayer.com/poker-news/12223-barry-greenstein-and-linda-johnson-to-be-inducted-into-poker-hall-of-fame|title=Barry Greenstein and Linda Johnson to be inducted into Poker Hall of Fame|last=Pempus|first=Brian|date=October 27, 2011|access-date=November 2, 2011|magazine=Card Player}}</ref><ref>{{cite web|url=http://www.pokertda.com/about-the-poker-tda/meet-the-board/linda-johnson/|title=Linda Johnson (poker player)|access-date=November 2, 2011|publisher=Tournament Directors Association}}</ref>  At the time of her election, she served on the TDA Board of Directors and was heavily involved with the [[World Poker Tour]] as both a public relations director and tournament announcer.<ref>{{cite web|url=http://www.worldpokertour.com/Shared/Players/Bios/L/Linda_Johnson.aspx|title=Linda Johnson (poker player)|access-date=November 2, 2011|publisher=World Poker Tour|url-status=dead|archive-url=https://web.archive.org/web/20111207132744/http://www.worldpokertour.com/Shared/Players/Bios/L/Linda_Johnson.aspx|archive-date=December 7, 2011}}</ref> 
+|-
+|align="center"| —
+|align="center"| 2012
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Eric|Drache}}
+|align="center"| ${{nts|289513}}
+|''None''
+|align="center"| Drache was the World Series of Poker's tournament director (1973 to 1988). He is also credited with the concept of [[satellite tournament]]s.
+|-
+| [[image:SailorRoberts.jpg|75px]]
+|align="center"| 2012
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Bryan|Roberts|Sailor Roberts}}†<br> ''Sailor''
+|align="center"| ${{nts|266650}}
+|[[1974 World Series of Poker|1974]] $5,000 No-Limit Deuce to Seven Draw<br>[[1975 World Series of Poker|1975]] $10,000 No Limit Hold'em World Championship.
+|align="center"| Roberts was the winner of the 1975 WSOP Main Event.
+|-
+| [[image:Tom McEvoy.jpg|75px]]
+|align="center"| 2013
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Tom|McEvoy|Tom McEvoy}}
+|align="center"| ${{nts|1347328}}
+|[[1983 World Series of Poker|1983]] $1,000 Limit Hold'em<br>[[1983 World Series of Poker|1983]] $10,000 No Limit Hold'em World Championship<br>[[1986 World Series of Poker|1986]] $1,000 Limit Razz<br>[[1992 World Series of Poker|1992]] $1,500 Limit Omaha
+|align="center"| McEvoy has won 4 WSOP bracelets, including the 1983 Main Event. He was the first player to win that event after earning a seat through a satellite. He has also written over a dozen books on poker. McEvoy was instrumental in the effort to have smoking banned in card rooms
+|-
+| [[image:ScottyNguyen.jpg|75px]]
+|align="center"| 2013
+|align="center"| {{flag|VIE}}
+|align="center"| {{sortname|Scotty|Nguyen|Scotty Nguyen}}<br> ''The Prince of Poker''
+|align="center"| ${{nts|5355271}}
+|[[1997 World Series of Poker|1997]] $2,000 Limit Omaha Hi-Lo<br>[[1998 World Series of Poker|1998]] $10,000 No Limit Hold'em World Championship<br>[[2001 World Series of Poker|2001]] $2,500 Pot Limit Omaha<br>[[2001 World Series of Poker|2001]] $5,000 Limit Omaha Hi-Lo<br>[[2008 World Series of Poker|2008]] $50,000 World Championship H.O.R.S.E.
+|align="center"| Nguyen was the winner of the 1998 WSOP Main Event and the 2008 $50,000 H.O.R.S.E. Championship, the only player to win both titles. He has made 9 World Poker Tour final tables with one title, making him one of four players to have a WPT title and WSOP Main Event bracelet. Altogether, Nguyen has accumulated over $11,000,000 in tournament winnings.
+|-
+| [[image:Jack McClelland.jpg|75px]]
+|align="center"| 2014
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Jack|McClelland|Jack McClelland (tournament director)}}   
+|align="center"| ${{nts|107,396}}
+| ''None''
+|align="center"| McClelland has had a career in poker operations for more than forty years. He was the WSOP tournament director in the 1980s, and was the manager of the [[Bellagio Casino|Bellagio]] poker room from 2002 to 2013.
+|-
+| [[image:Daniel_Negreanu_2007.jpg|75px]]
+|align="center"| 2014
+|align="center"| {{flag|CAN}}
+|align="center"| {{sortname|Daniel|Negreanu|Daniel Negreanu}}<br>''Kid Poker''
+|align="center"| ${{nts|22005911}}
+|[[1998 World Series of Poker|1998]] $2,000 Pot Limit Hold'em<br>[[2003 World Series of Poker|2003]] $2,000 Limit S.H.O.E.<br>[[2004 World Series of Poker|2004]] $2,000 Limit Hold'em<br>[[2008 World Series of Poker|2008]] $2,000 Limit Hold'em<br>[[2013 World Series of Poker Asia Pacific|2013 WSOP APAC]] $10,000 No Limit Hold'em Main Event<br>[[2013 World Series of Poker Europe|2013 WSOPE]] €25,600 High Roller No Limit Hold'em <br> [[2024 World Series of Poker|2024]] $50,000 Poker Players Championship
+|align="center"| Since turning professional at the age of 22, Negreanu has become one of the most successful and recognizable players in poker. He has won 8 WSOP bracelets, once occupied 1st place on the all-time WSOP money list, and is a 2-time WSOP Player of the Year winner. He has also won 2 WPT titles, was player of the year in season 3, and is 2nd on the WPT career money list. With total live tournament earnings of over $56 million, Negreanu has the third most career winnings in poker history. [[Global Poker Index]] named Negreanu the player of the decade from 2004 to 2013.
+|-
+| [[image:Jennifer_Harman.jpg|75px]]
+|align="center"| 2015
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Jennifer|Harman|Jennifer Harman}}
+|align="center"| ${{nts|1477156}}
+| [[2000 World Series of Poker|2000]] $5,000 No Limit Deuce to Seven Lowball<br>[[2002 World Series of Poker|2002]] $5,000 Limit Hold'em
+|align="center"| Harman was the first woman to win more than one WSOP bracelets in open events. She has made 12 WSOP final tables, two WPT final tables, and has nearly $2.8 million in live tournament winnings. A fixture at high stakes cash games, Harman is the only woman who regularly plays in the [[Big Game (poker)|Big Game]] at the [[Bellagio (hotel and casino)|Bellagio]].
+|-
+| [[image:John_Juanda_2008.jpg|75px]]
+|align="center"| 2015
+|align="center"| {{flag|IDN}}
+|align="center"| {{sortname|John|Juanda|John Juanda}}<br>''JJ, Luckbox''
+|align="center"| ${{nts|5714127}}
+| [[2002 World Series of Poker|2002]] $1,500 Limit Triple Draw<br>[[2003 World Series of Poker|2003]] $2,500 Limit Seven Card Stud<br>2003 $2,500 Pot Limit Omaha w/Rebuys<br>[[2008 World Series of Poker Europe|2008 WSOPE]] £10,000 WSOP Europe Main Event<br>[[2011 World Series of Poker|2011]] $10,000 2-7 Draw Lowball Championship
+|align="center"| Juanda has over $25 million in tournament winnings, including 5 WSOP bracelets, an EPT title, and 6 WPT final tables. 
+|-
+| [[image:Todd_Brunson.jpg|75px]]
+|align="center"| 2016
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Todd|Brunson|Todd Brunson}}
+|align="center"| ${{nts|1827862}}
+| [[2005 World Series of Poker|2005]] $2,500 Omaha Hi/Lo<br>
+|align="center"| — 
+|-
+| [[image:Carlos_Mortensen_2007.jpg|75px]]
+|align="center"| 2016
+|align="center"| {{flag|ECU}}
+|align="center"| {{sortname|Carlos|Mortensen|Carlos Mortensen}}<br>''El Matador''
+|align="center"| ${{nts|3242868}}
+| [[2001 World Series of Poker|2001]] $10,000 No Limit Hold'em World Championship<br>[[2003 World Series of Poker|2003]] $5,000 Limit Hold'em<br>
+|align="center"| Mortensen was the winner of the 2001 WSOP Main Event.
+|-
+| [[image:Daveulliott3.jpg|75px]]
+|align="center"| 2017
+|align="center"| {{flag|GBR}}
+|align="center"| {{sortname|David|Ulliott|David Ulliott}}†<br>''Devilfish''
+|align="center"| ${{nts|1708075}}
+| [[1997 World Series of Poker|1997]] $2,000 Pot Limit Hold'em
+|align="center"| —
+|-
+| [[image:Phil Ivey2.JPG|75px]]
+|align="center"| 2017
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Phil|Ivey|Phil Ivey}}<br>''The [[Tiger Woods]] of Poker'', ''No Home Jerome''
+|align="center"| ${{nts|6547112}}
+| [[2000 World Series of Poker|2000]] $2,500 Pot-Limit Omaha<br>[[2002 World Series of Poker|2002]] $1,500 Limit Seven Card Stud<br>2002 $2,500 Limit Seven Card Stud Hi-Lo<br>2002 $2,000 Limit S.H.O.E.<br>[[2005 World Series of Poker|2005]] $5,000 Pot-Limit Omaha<br>[[2009 World Series of Poker|2009]] $2,500 No-Limit 2-7 Lowball Draw<br>2009 $2,500 Omaha/Seven Card Stud Hi-Lo 8 or Better<br>[[2010 World Series of Poker|2010]] $3,000 H.O.R.S.E.<br>[[2013 World Series of Poker|2013]] WSOP APAC $2,200 Mixed Event (8-Game)<br>[[2014 World Series of Poker|2014]] $1,500 8-Game Mix <br>[[2024 World Series of Poker|2024]] $10,000 Limit 2-7 Lowball Triple Draw Championship
+|align="center"| Ivey is 2nd in WSOP bracelet wins with 11, behind Phil Hellmuth (17). Ivey has won over $45 million in tournament play.
+|-
+|
+|align="center"| 2018
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Mori|Eskandani|Mori Eskandani}}
+|align="center"| ${{nts|245,319}}
+| ''None''
+|align="center"| Eskandani is the President of [[PokerGO]] after beginning his career as a television producer who has produced programs such as the [[World Series of Poker]], [[Poker After Dark]], and [[High Stakes Poker]].
+|-
+| [[image:John Hennigan.jpg|75px]]
+|align="center"| 2018
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|John|Hennigan|John Hennigan (poker player)|John Hennigan}}<br>''World''
+|align="center"| ${{nts|5532732}}
+| [[2002 World Series of Poker|2002]] $2,000 Limit Seven Card Stud Hi-Lo<br>[[2004 World Series of Poker|2004]] $5,000 Limit Hold'em<br>[[2014 World Series of Poker|2014]] $50,000 Poker Players Championship<br>[[2016 World Series of Poker|2016]] $10,000 Limit 2-7 Lowball Triple Draw Championship<br>[[2018 World Series of Poker|2018]] $10,000 H.O.R.S.E.<br>[[2019 World Series of Poker|2019]] $10,000 Seven Card Stud
+|align="center"| Hennigan has won six [[World Series of Poker]] bracelets, including the [[The Poker Players Championship|Poker Players Championship]] in 2014. He also won a [[World Poker Tour]] title in 2007. He has more than $8 million in tournament winnings, including $5.5 million at the WSOP.
+|-
+| [[image:Chris Moneymaker 2006.jpg|75px]]
+|align="center"| 2019
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Chris|Moneymaker|Chris Moneymaker}}
+|align="center"| ${{nts|2552930}}
+| [[2003 World Series of Poker|2003]] $10,000 No Limit Hold'em Main Event
+|align="center"| Moneymaker's win at the 2003 WSOP Main Event, after earning his seat in a $86 online satellite, is often credited with beginning the [[poker boom]].
+|-
+| [[image:David Oppenheim(cropped).jpg|75px]]
+|align="center"| 2019
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|David|Oppenheim|David Oppenheim (poker player)|David Oppenheim}}<br>
+|align="center"| ${{nts|1110786}}
+| ''None''
+|align="center"| Oppenheim is regarded as one of the best all-round cash game players in the world and can often be found playing in the biggest mixed games in Las Vegas.
+|-
+| [[image:Huck seed.jpg|75px]]
+|align="center"| 2020
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Huck|Seed}}
+|align="center"| ${{nts|3653465}}
+| [[1994 World Series of Poker|1994]] $2,500 Pot Limit Omaha<br>[[1996 World Series of Poker|1996]] $10,000 No Limit Hold'em Main Event<br>[[2000 World Series of Poker|2000]] $1,500 Razz<br>[[2003 World Series of Poker|2003]] $5,000 Razz
+|align="center"| Seed is a four-time WSOP bracelet winner, including the 1996 Main Event. He also won the WSOP Tournament of Champions in 2010, and the [[National Heads-Up Poker Championship]] in 2009. He is also notorious for his numerous prop bets.<ref>{{cite web|last=Faulk|first=Natalie|title=Huck Seed: The King of Prop Bets|url=https://upswingpoker.com/huck-seed-king-prop-bets/|publisher=UpSwing Poker|date=December 10, 2018|access-date=December 30, 2020}}</ref>
+|-
+| [[image:Eli Elezra 2018.jpg|75px]]
+|align="center"| 2021
+|align="center"| {{flag|ISR}}
+|align="center"| {{sortname|Eli|Elezra}}
+|align="center"| $2,636,538
+|[[2007 World Series of Poker|2007]] $3,000 World Championship Seven Card Stud Hi-Low<br>[[2013 World Series of Poker|2013]] $2,500 2–7 Triple Draw Lowball (Limit)<br>[[2015 World Series of Poker|2015]] $1,500 Seven Card Stud<br>[[2019 World Series of Poker|2019]] $1,500 Seven Card Stud<br>[[2022 World Series of Poker|2022]] $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship
+|align="center"| Elezra has won five [[World Series of Poker]] bracelets, including three in Seven Card Stud variants. He also won a [[World Poker Tour]] title in 2004. Elezra has more than $4.6 million in tournament winnings, including $2.6 million at the WSOP.
+|-
+| [[image:Layne_Flack_Bay_101_Shooting_Star_2008.jpg|75px]]
+|align="center"| 2022
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Layne|Flack|Layne Flack}}†<br> ''Back to Back''
+|align="center"| $2,869,570
+|[[1999 World Series of Poker|1999]] $3,000 Pot Limit Hold-Em<br>[[2002 World Series of Poker|2002]] $2,000 No Limit Hold-Em<br>2002 $1,500 No Limit Hold-Em<br>[[2003 World Series of Poker|2003]] $2,500 Omaha Hi-Lo Split<br>2003 $1,500 Limit Hold-Em Shootout<br>[[2008 World Series of Poker|2008]] $1,500 Pot Limit Omaha w/Rebuys
+|align="center"| Flack won six [[World Series of Poker]] bracelets, winning four of them within a two-year span. He also won a [[World Poker Tour]] title in 2003. Flack had more than $5 million in tournament winnings, including $2.8m at the WSOP.
+|-
+| [[image:Brian Rast 2018.jpg|75px]]
+|align="center"| 2023
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Brian|Rast}}
+|align="center"| $8,921,094
+|[[2011 World Series of Poker|2011]] $1,500 Pot-Limit Hold'em<br>[[2011 World Series of Poker|2011]] $50,000 Poker Players Championship<br>[[2016 World Series of Poker|2016]] $50,000 Poker Players Championship<br>[[2018 World Series of Poker|2018]] $10,000 No-Limit 2-7 Lowball Draw Championship<br>[[2021 World Series of Poker|2021]] $3,000 6-Handed No-Limit Hold'em<br>[[2023 World Series of Poker|2023]] $50,000 Poker Players Championship
+|Rast won the prestigious $50,000 [[Poker Player's Championship]] three times and has won six WSOP bracelets in total.
+|-
+| [[image:Patrik Antonius 2008.jpg|75px]]
+|align="center"| 2024
+|align="center"| {{flag|FIN}}
+|align="center"| {{sortname|Patrik|Antonius}}<ref name="t624">{{cite web | last=Shillibier | first=Will | title=Patrik Antonius Inducted into Poker Hall of Fame | website=PokerNews | date=2024-07-14 | url=https://www.pokernews.com/news/2024/07/patrik-antonius-inducted-into-poker-hall-of-fame-46552.htm | access-date=2024-11-12}}</ref>
+|align="center"| $1,002,516
+|
+|Antonius is a cash game player and heads-up specialist who became one of the most recognizable faces in televised poker after first appearing on [[High Stakes Poker]] in 2007.
+|-
+| [[image:Nick_Schulman_2018.jpg|75px]]
+|align="center"| 2025
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Nick|Schulman}}
+|align="center"| $10,203,706
+|[[2009 World Series of Poker|2009]] $10,000 No-Limit 2-7 Lowball Draw Championship<br>[[2012 World Series of Poker|2012]] $10,000 No-Limit 2-7 Lowball Draw Championship<br>[[2019 World Series of Poker|2019]] $10,000 Pot-Limit Omaha Hi-Lo 8 or Better<br>[[2023 World Series of Poker|2023]] $1,500 Seven Card Stud<br>[[2024 World Series of Poker|2024]] $25,000 High Roller No-Limit Hold'em (8-Handed)<br>[[2024 World Series of Poker Paradise|2024P]] $5,000 The Closer No-Limit Hold'em Bounty Turbo<br>[[2025 World Series of Poker|2025]] $10,000 No-Limit 2-7 Lowball Draw Championship
+|
+|align="center"|
+|-
+| [[File:Michael_Mizrachi_2019.jpg|75px]]
+|align="center"| 2025
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Michael|Mizrachi}}<br>''The Grinder''
+|align="center"| $29,013,562
+| [[2010 World Series of Poker|2010]] $50,000 [[The Poker Players Championship|Poker Players Championship]]<br>[[2011 World Series of Poker Europe|2011 WSOPE]] €10,400 Split-Format No-Limit Hold'em<br>[[2012 World Series of Poker|2012]] $50,000 Poker Players Championship<br>[[2018 World Series of Poker|2018]] $50,000 Poker Players Championship<br>[[2019 World Series of Poker|2019]] $1,500 Seven-Card Stud Hi/Lo 8 or Better<br>[[2024 World Series of Poker Online|2024 WSOPO]] No-Limit Hold'em Crazy 8's Encore<br>[[2025 World Series of Poker|2025]] $50,000 Poker Players Championship<br>2025 $10,000 No Limit Hold'em Main Event
+| Mizrachi was inducted outside the normal voting process immediately after winning the 2025 Main Event, having become the first player ever to win the Poker Players Championship and Main Event in the same year. The Main Event win was his eighth total bracelet, including four in the Poker Players Championship.<ref>{{cite web |url=https://www.pokernews.com/tours/wsop/2025-wsop/event-81-10000-wsop-main-event/ |title=Michael "The Grinder" Mizrachi Ascends to Legendary Status With the 2025 WSOP Main Event Title |first=David |last=Salituro |website=Poker News |date=July 16, 2025 |access-date=July 16, 2025}}</ref>
+|-
+| [[File:Jason Koon partypoker Millions 2018.jpg|75px]]
+|align="center"|2026
+|align="center"| {{flag|USA}}
+|align="center"| {{sortname|Jason|Koon}}
+|align"center"| $10,404,298
+| [[2021 World Series of Poker|2021]] $25,000 Heads-Up No-Limit Hold'em Championship<br>[[2025 World Series of Poker|2025]] $50,000 No-Limit Hold'em High Roller
+| Elected in his first year of eligibility, Koon ranks third on the all-time money list with more than $77 million in live tournament earnings. He's won two WSOP bracelets and a record 12 [[Triton Poker Series]] titles.
+|}
+
+==See also==
+*[[World Poker Tour Walk of Fame]]
+
+==References==
+{{Reflist}}
+
+{{Poker Hall of Fame}}
+{{Major poker tournaments}}
+{{featured list}}
+
+[[Category:Poker players]]
+[[Category:Halls of fame in Nevada]]
+[[Category:Entertainment halls of fame]]
+[[Category:Sports halls of fame]]

@@ -1,0 +1,493 @@
+{
+  "tennis": {
+    "domain": "tennis",
+    "stat_list": [
+      "top20_share",
+      "winner_skill_pct",
+      "P_top_decile",
+      "y2y_persist"
+    ],
+    "fitted_alpha": 1.0,
+    "fitted_pL": 65,
+    "L2_min": 64.91495838296676,
+    "neighbourhood_1SE": [
+      [
+        1.0,
+        65
+      ]
+    ],
+    "joint_3SE_fit_exists": false,
+    "breaking_statistics_at_best": [
+      "top20_share",
+      "winner_skill_pct",
+      "P_top_decile",
+      "y2y_persist"
+    ],
+    "structurally_unreachable_statistics": [
+      "winner_skill_pct",
+      "P_top_decile",
+      "y2y_persist"
+    ],
+    "per_statistic": {
+      "top20_share": {
+        "target": 0.6392324093816631,
+        "se": 0.027358556475503677,
+        "model_stat": "top20_capital_share",
+        "model_at_best": 0.8133889037370682,
+        "z_at_best": 6.365704802859076,
+        "min_abs_z_over_grid": 0.29977921625911275
+      },
+      "winner_skill_pct": {
+        "target": 0.9940119760479041,
+        "se": 0.004200859300040536,
+        "model_stat": "winner_pct_emp",
+        "model_at_best": 0.72729,
+        "z_at_best": -63.492242181339044,
+        "min_abs_z_over_grid": 63.492242181339044
+      },
+      "P_top_decile": {
+        "target": 0.6666666666666666,
+        "se": 0.07730506921286696,
+        "model_stat": "P_winner_top_decile",
+        "model_at_best": 0.33,
+        "z_at_best": -4.355039974669999,
+        "min_abs_z_over_grid": 3.966967105639999
+      },
+      "y2y_persist": {
+        "target": 0.6783862135811252,
+        "se": 0.025669886569293417,
+        "model_stat": "persist_y2y_top100",
+        "model_at_best": 0.9633085802106274,
+        "z_at_best": 11.09947898914089,
+        "min_abs_z_over_grid": 10.86116851751692
+      }
+    },
+    "falsification": "The TvL family (single alpha-dial, p_L in {20,35,50,65,80}) CANNOT jointly reproduce tennis's signature triple within 3 SE. Breaks: top20_share (model best 0.813 vs 0.639, +6.4 SE), winner_skill_pct (model best 0.727 vs 0.994, -63.5 SE; unreachable in EVERY cell), P_top_decile (model best 0.330 vs 0.667, -4.4 SE; unreachable in EVERY cell), y2y_persist (model best 0.963 vs 0.678, +11.1 SE; unreachable in EVERY cell)"
+  },
+  "chess": {
+    "domain": "chess",
+    "stat_list": [
+      "y2y_persist"
+    ],
+    "fitted_alpha": 0.4,
+    "fitted_pL": 50,
+    "L2_min": 9.784167488957387,
+    "neighbourhood_1SE": [
+      [
+        0.0,
+        20
+      ],
+      [
+        0.0,
+        35
+      ],
+      [
+        0.0,
+        50
+      ],
+      [
+        0.0,
+        65
+      ],
+      [
+        0.0,
+        80
+      ],
+      [
+        0.1,
+        20
+      ],
+      [
+        0.1,
+        35
+      ],
+      [
+        0.1,
+        50
+      ],
+      [
+        0.1,
+        65
+      ],
+      [
+        0.1,
+        80
+      ],
+      [
+        0.2,
+        20
+      ],
+      [
+        0.2,
+        35
+      ],
+      [
+        0.2,
+        50
+      ],
+      [
+        0.2,
+        65
+      ],
+      [
+        0.2,
+        80
+      ],
+      [
+        0.3,
+        20
+      ],
+      [
+        0.3,
+        35
+      ],
+      [
+        0.3,
+        50
+      ],
+      [
+        0.3,
+        65
+      ],
+      [
+        0.3,
+        80
+      ],
+      [
+        0.4,
+        20
+      ],
+      [
+        0.4,
+        35
+      ],
+      [
+        0.4,
+        50
+      ],
+      [
+        0.4,
+        65
+      ],
+      [
+        0.4,
+        80
+      ],
+      [
+        0.5,
+        20
+      ],
+      [
+        0.5,
+        35
+      ],
+      [
+        0.5,
+        50
+      ],
+      [
+        0.5,
+        65
+      ],
+      [
+        0.5,
+        80
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.6,
+        35
+      ],
+      [
+        0.6,
+        50
+      ],
+      [
+        0.6,
+        65
+      ],
+      [
+        0.6,
+        80
+      ],
+      [
+        0.7,
+        20
+      ],
+      [
+        0.7,
+        35
+      ],
+      [
+        0.7,
+        50
+      ],
+      [
+        0.7,
+        65
+      ],
+      [
+        0.7,
+        80
+      ],
+      [
+        0.8,
+        20
+      ],
+      [
+        0.8,
+        35
+      ],
+      [
+        0.8,
+        50
+      ],
+      [
+        0.8,
+        65
+      ],
+      [
+        0.8,
+        80
+      ],
+      [
+        0.9,
+        20
+      ],
+      [
+        0.9,
+        35
+      ],
+      [
+        0.9,
+        50
+      ],
+      [
+        0.9,
+        65
+      ],
+      [
+        0.9,
+        80
+      ],
+      [
+        1.0,
+        20
+      ],
+      [
+        1.0,
+        35
+      ],
+      [
+        1.0,
+        50
+      ],
+      [
+        1.0,
+        65
+      ],
+      [
+        1.0,
+        80
+      ]
+    ],
+    "joint_3SE_fit_exists": false,
+    "breaking_statistics_at_best": [
+      "y2y_persist"
+    ],
+    "structurally_unreachable_statistics": [
+      "y2y_persist"
+    ],
+    "per_statistic": {
+      "y2y_persist": {
+        "target": 0.8702931737393744,
+        "se": 0.008881491838162588,
+        "model_stat": "persist_y2y_top100",
+        "model_at_best": 0.9571911774357652,
+        "z_at_best": 9.784167488957387,
+        "min_abs_z_over_grid": 9.784167488957387
+      }
+    },
+    "falsification": "The TvL family (single alpha-dial, p_L in {20,35,50,65,80}) CANNOT jointly reproduce chess's signature triple within 3 SE. Breaks: y2y_persist (model best 0.957 vs 0.870, +9.8 SE; unreachable in EVERY cell)"
+  },
+  "movies": {
+    "domain": "movies",
+    "stat_list": [
+      "top20_share",
+      "top1_share",
+      "winner_skill_pct",
+      "P_top_decile"
+    ],
+    "fitted_alpha": 1.0,
+    "fitted_pL": 65,
+    "L2_min": 459.7558304558259,
+    "neighbourhood_1SE": [
+      [
+        1.0,
+        65
+      ]
+    ],
+    "joint_3SE_fit_exists": false,
+    "breaking_statistics_at_best": [
+      "top20_share",
+      "top1_share",
+      "winner_skill_pct",
+      "P_top_decile"
+    ],
+    "structurally_unreachable_statistics": [
+      "top20_share",
+      "winner_skill_pct"
+    ],
+    "per_statistic": {
+      "top20_share": {
+        "target": 0.883136834836948,
+        "se": 0.0019134745695019307,
+        "model_stat": "top20_capital_share",
+        "model_at_best": 0.8133889037370682,
+        "z_at_best": -36.45093183445597,
+        "min_abs_z_over_grid": 26.803565250734845
+      },
+      "top1_share": {
+        "target": 0.3092878655228564,
+        "se": 0.0062514319235972985,
+        "model_stat": "top1_capital_share",
+        "model_at_best": 0.39468924432992936,
+        "z_at_best": 13.661090747018791,
+        "min_abs_z_over_grid": 0.12854986489887152
+      },
+      "winner_skill_pct": {
+        "target": 0.9993920479876789,
+        "se": 0.0005946510646150035,
+        "model_stat": "winner_pct_emp",
+        "model_at_best": 0.72729,
+        "z_at_best": -457.58271392963303,
+        "min_abs_z_over_grid": 457.58271392963303
+      },
+      "P_top_decile": {
+        "target": 0.20445795339412362,
+        "se": 0.0057410323654969835,
+        "model_stat": "P_winner_top_decile",
+        "model_at_best": 0.33,
+        "z_at_best": 21.86750371943054,
+        "min_abs_z_over_grid": 0.7765072743563427
+      }
+    },
+    "falsification": "The TvL family (single alpha-dial, p_L in {20,35,50,65,80}) CANNOT jointly reproduce movies's signature triple within 3 SE. Breaks: top20_share (model best 0.813 vs 0.883, -36.5 SE; unreachable in EVERY cell), top1_share (model best 0.395 vs 0.309, +13.7 SE), winner_skill_pct (model best 0.727 vs 0.999, -457.6 SE; unreachable in EVERY cell), P_top_decile (model best 0.330 vs 0.204, +21.9 SE)"
+  },
+  "baseball": {
+    "domain": "baseball",
+    "stat_list": [
+      "top20_share",
+      "top1_share",
+      "winner_skill_pct",
+      "P_top_decile",
+      "OPS_persist"
+    ],
+    "fitted_alpha": 0.3,
+    "fitted_pL": 20,
+    "L2_min": 37.94207246626638,
+    "neighbourhood_1SE": [
+      [
+        0.0,
+        20
+      ],
+      [
+        0.1,
+        20
+      ],
+      [
+        0.2,
+        20
+      ],
+      [
+        0.3,
+        20
+      ],
+      [
+        0.4,
+        20
+      ],
+      [
+        0.5,
+        20
+      ],
+      [
+        0.6,
+        20
+      ],
+      [
+        0.7,
+        20
+      ],
+      [
+        0.8,
+        20
+      ],
+      [
+        0.9,
+        20
+      ],
+      [
+        1.0,
+        20
+      ]
+    ],
+    "joint_3SE_fit_exists": false,
+    "breaking_statistics_at_best": [
+      "top1_share",
+      "winner_skill_pct",
+      "P_top_decile",
+      "OPS_persist"
+    ],
+    "structurally_unreachable_statistics": [
+      "top1_share",
+      "OPS_persist"
+    ],
+    "per_statistic": {
+      "top20_share": {
+        "target": 0.6374614451235651,
+        "se": 0.0076523290666720735,
+        "model_stat": "top20_capital_share",
+        "model_at_best": 0.6475078439712525,
+        "z_at_best": 1.3128550484638943,
+        "min_abs_z_over_grid": 1.3031968162135237
+      },
+      "top1_share": {
+        "target": 0.08191348961772538,
+        "se": 0.0051873528353192176,
+        "model_stat": "top1_capital_share",
+        "model_at_best": 0.21732966549694538,
+        "z_at_best": 26.105063638087152,
+        "min_abs_z_over_grid": 26.105063638087152
+      },
+      "winner_skill_pct": {
+        "target": 1.0,
+        "se": 0.15390008867458208,
+        "model_stat": "winner_pct_emp",
+        "model_at_best": 0.53131,
+        "z_at_best": -3.0454173485957727,
+        "min_abs_z_over_grid": 1.7719937808264592
+      },
+      "P_top_decile": {
+        "target": 0.4186046511627907,
+        "se": 0.0752321673512361,
+        "model_stat": "P_winner_top_decile",
+        "model_at_best": 0.12,
+        "z_at_best": -3.969108716072162,
+        "min_abs_z_over_grid": 0.7789839536216396
+      },
+      "OPS_persist": {
+        "target": 0.4932569961947976,
+        "se": 0.017335128488775057,
+        "model_stat": "persist_y2y_top100",
+        "model_at_best": 0.9620671214389067,
+        "z_at_best": 27.043937144606442,
+        "min_abs_z_over_grid": 26.762661813633336
+      }
+    },
+    "falsification": "The TvL family (single alpha-dial, p_L in {20,35,50,65,80}) CANNOT jointly reproduce baseball's signature triple within 3 SE. Breaks: top1_share (model best 0.217 vs 0.082, +26.1 SE; unreachable in EVERY cell), winner_skill_pct (model best 0.531 vs 1.000, -3.0 SE), P_top_decile (model best 0.120 vs 0.419, -4.0 SE), OPS_persist (model best 0.962 vs 0.493, +27.0 SE; unreachable in EVERY cell)"
+  }
+}

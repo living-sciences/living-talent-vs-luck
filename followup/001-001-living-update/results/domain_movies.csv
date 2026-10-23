@@ -1,0 +1,17 @@
+domain,stat,value,ci_lo,ci_hi,n,note
+movies,votes_decile_0_spearman,-0.031521905273031094,,,4942,validity
+movies,votes_decile_1_spearman,-0.005880559471212458,,,4930,validity
+movies,votes_decile_2_spearman,0.01428363639178319,,,4939,validity
+movies,votes_decile_3_spearman,-0.003864915271818672,,,4938,validity
+movies,votes_decile_4_spearman,0.023742966737128057,,,4928,validity
+movies,votes_decile_5_spearman,0.023692464496862516,,,4933,validity
+movies,votes_decile_6_spearman,0.038537802266333326,,,4932,validity
+movies,votes_decile_7_spearman,0.02318632790452442,,,4935,validity
+movies,votes_decile_8_spearman,0.011677224025637353,,,4934,validity
+movies,votes_decile_9_spearman,0.340288064419199,,,4935,validity
+movies,median_abs_rho_validity,0.02343939620069347,,,49346,PASS<=0.2
+movies,winner_skill_pct,0.9993920479876789,0.9972234324970616,0.9995544218376362,49346,VALID
+movies,top10_median_skill_pct,0.9974060714140964,,,49346,
+movies,P_top_decile_cond,0.20445795339412362,,,49346,
+movies,votes_top20_share,0.883136834836948,,,49346,
+movies,votes_top1_share,0.3092878655228564,,,49346,

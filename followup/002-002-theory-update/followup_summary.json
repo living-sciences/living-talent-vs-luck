@@ -1,0 +1,51 @@
+{
+  "instruction_summary": "Fit the TvL engine (original + one pre-declared talent-leverage dial alpha) to each real domain's measured signature triple from study 001, reconcile the fitted luck weights with the 2018-2026 literature, confront the Section-3 funding claim with the real funding-lottery record, answer the reader, and issue next-tick predictions.",
+  "completed": true,
+  "steps": [
+    {"description": "Rebuilt venv (torch/numpy/scipy/pandas/matplotlib/pyreadr/pypdf); confirmed 4x RTX A6000 CUDA", "command": "uv venv /workspace/.venv && uv pip install numpy scipy pandas matplotlib torch pyreadr pypdf", "exit_code": 0, "outputs": ["/workspace/.venv"]},
+    {"description": "Wrote the alpha-dial wrapper around staged tvl.py; gate 4 bit-identity at alpha=1 (max abs diff 0.0)", "command": "python3 -I tvl_alpha.py", "exit_code": 0, "outputs": ["workspace/code/tvl_alpha.py", "results/gates_002.json"]},
+    {"description": "Assembled per-domain target statistics + standardization SEs (001 CI / pair-bootstrap / share-bootstrap on reconstructed 001 vectors / binomial-proportion); reconstructions match 001 <1e-6", "command": "python3 domain_targets.py", "exit_code": 0, "outputs": ["results/domain_targets.json"]},
+    {"description": "Ran the 11 alpha x 5 p_L x 100 = 5500-run calibration grid (CRN per p_L), chunked one alpha per call", "command": "for a in 0.0..1.0: python3 t1_grid.py --alpha $a", "exit_code": 0, "outputs": ["results/calibration_grid.csv", "workspace/checkpoints/alpha_*.done"]},
+    {"description": "Per-domain nearest-cell fit + pre-declared 3-SE joint falsification test", "command": "python3 t1_fit.py", "exit_code": 0, "outputs": ["results/domain_fits.csv", "results/domain_fits.json"]},
+    {"description": "T2 reconciliation table (same-construct comparisons; Csurilla flagged untraceable)", "command": "python3 t2_reconciliation.py", "exit_code": 0, "outputs": ["results/reconciliation.csv", "results/reconciliation.json"]},
+    {"description": "T3 funding frontier: egalitarian vs elitarian efficiency across alpha (11 x 3 strategies x 200 runs), verdict vocabulary", "command": "python3 t3_funding.py", "exit_code": 0, "outputs": ["results/funding_comparison.csv", "results/funding_verdict.json"]},
+    {"description": "T5 next-tick predictions (tennis persistence, chess-tennis gap, 2027 WSOP repeat-champion null)", "command": "python3 t5_predictions.py", "exit_code": 0, "outputs": ["results/predictions.json"]},
+    {"description": "All four validation gates (001 completed+gated; anchor reproduces tvl_reference exactly; literature traceable; alpha=1 bit-identical)", "command": "python3 gates.py", "exit_code": 0, "outputs": ["results/gates_002.json"]},
+    {"description": "Figures: fit map, funding frontier, structural-gap summary", "command": "python3 make_figs.py", "exit_code": 0, "outputs": ["results/fig_fit_map.png", "results/fig_funding_frontier.png", "results/fig_structural_gap.png"]}
+  ],
+  "key_results": {
+    "T1_joint_3SE_fit": "FAILS for all four fitted domains (tennis, chess, movies, baseball); poker & MusicLab excluded",
+    "fitted_alpha_pL": {"tennis": "(1.0,65)", "movies": "(1.0,65)", "chess": "(0.4,50)", "baseball": "(0.3,20)"},
+    "structural_failure_1_winner_skill": "model winner skill percentile reachable only in [0.485,0.727]; real >= 0.99 (tennis 0.994, movies 0.999) -> unreachable",
+    "structural_failure_2_persistence": "model y2y top-100 persistence pinned in [0.957,0.964]; real 0.49-0.87 (chess 0.87 > tennis 0.68 > baseball 0.49) -> unreachable",
+    "funding_flip_alpha": "none (no flip in [0,1]); egalitarian efficiency ~9x elitarian at every alpha",
+    "P4_verdict_word": "untested but consistent",
+    "anchor_gate2": "bit-identical 1000-run reproduction of 001 baseline, diff 0.00e+00",
+    "predictions": ["tennis 2026 persistence: model [0.962,0.964] vs empirical ~0.68", "chess Jan27 - tennis 2026 persistence >= 0.10 (model ~0)", "2027 WSOP repeat champions = 0 (E_0=0.0038)"]
+  },
+  "comparison_to_original": [
+    {"quantity": "winner skill percentile (model)", "original": "0.696 (baseline alpha=1,pL=50)", "followup": "reachable range 0.485-0.727 over all 55 grid cells", "source_file": "001 results/tvl_reference.csv", "note": "no alpha reaches the real >=0.99 (tennis 0.994, movies 0.999); structural failure 1"},
+    {"quantity": "y2y top-100 persistence (model)", "original": "0.959 (baseline)", "followup": "0.957-0.964 across whole grid (pinned)", "source_file": "001 results/tvl_reference.csv", "note": "far above real 0.49-0.87; cannot reproduce the chess>tennis>baseball ladder; structural failure 2"},
+    {"quantity": "success top-20% share (model)", "original": "0.771 (baseline)", "followup": "0.647-0.832 across grid", "source_file": "001 results/tvl_reference.csv", "note": "movies 0.883 exceeds the model ceiling; tennis/baseball 0.64 reachable"},
+    {"quantity": "success top-1% share (model)", "original": "0.347 (anchor cell)", "followup": "0.217-0.425 across grid", "source_file": "002 results/calibration_grid.csv (alpha=1,pL=50)", "note": "baseball salary top-1% 0.082 is below the model floor"},
+    {"quantity": "anchor reproduction of baseline", "original": "winner-pct 0.69642, P(top-decile) 0.269, top20 0.77066, persistence 0.95902", "followup": "identical (diff 0.00e+00)", "source_file": "001 results/tvl_reference.csv", "note": "gate 2 via bit-identical alpha=1 path"},
+    {"quantity": "funding egalitarian vs elitarian ordering", "original": "001 shipped only the model-side p_L ladder; no funding verdict (deferred to 002)", "followup": "egalitarian beats elitarian at every alpha in [0,1] (no flip); efficiency ~9x", "source_file": "001 results/findings.md (P4 bounded)", "note": "P4 verdict: untested but consistent; real system Matthew (Bol 2018), no outcome RCT"}
+  ],
+  "artifacts": [
+    "results/calibration_grid.csv", "results/domain_targets.json", "results/domain_fits.csv", "results/domain_fits.json",
+    "results/reconciliation.csv", "results/reconciliation.json", "results/funding_comparison.csv", "results/funding_verdict.json",
+    "results/predictions.json", "results/gates_002.json", "results/model.md",
+    "results/fig_fit_map.png", "results/fig_funding_frontier.png", "results/fig_structural_gap.png"
+  ],
+  "deviations": [
+    "T1 joint 3-SE fit FAILS for all four fitted domains; this is the pre-declared falsification outcome (a finding against the TvL family's sufficiency), not an execution failure.",
+    "Fitted alpha values are nearest cells of FAILED fits, not calibrated parameters.",
+    "Csurilla et al. 2023 (named in T2 spec) is absent from the staged literature/PROVENANCE.md; included direction-only with no cited number (gate-3-clean).",
+    "Poker and MusicLab excluded from the T1 fit (TvL-A5 demotion; 001 gated ELSE branch).",
+    "Grid uses common random numbers (one seed per p_L across alpha, 100 replicates/cell) for variance reduction; the anchor cell still reproduces 001 within MC CI and the dedicated bit-identical 1000-run reproduction matches exactly.",
+    "Share standardization SEs bootstrapped on success vectors reconstructed via 001's own filters (reconstructions match 001 <1e-6); P(top-decile) SEs without a 001 CI use the binomial-proportion SE.",
+    "Engine substitution (shared-data/tvl-engine not staged -> faithful replication engine) inherited from 001; alpha=1 bit-identity confirms soundness.",
+    "[003 audit-conformance 002-1a, inherited from 001-2] Truncation deviation: Spec 5 Block A G2 says 'no truncation' but 001's G2 run (and 002's inheriting grid/anchor) used truncate_talent=True for construct-consistency with the staged QA distcheck anchor bands (computed with truncation ON; clips ~3e-5 of draws, immaterial); carried through unchanged, alpha=1 bit-identical to 001 baseline."
+  ],
+  "remaining": []
+}

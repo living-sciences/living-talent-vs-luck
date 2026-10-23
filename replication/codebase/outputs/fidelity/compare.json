@@ -1,0 +1,52 @@
+{
+  "config": {
+    "N": 1000,
+    "N_E": 500,
+    "I": 80,
+    "m_T": 0.6,
+    "sigma_T": 0.1,
+    "p_L": 50
+  },
+  "netlogo": {
+    "mean_lucky": 1.607,
+    "mean_unlucky": 1.405,
+    "max_lucky": 12,
+    "max_unlucky": 11,
+    "success_log2_quantiles": [
+      -10.0,
+      -3.0,
+      -1.25,
+      0.0,
+      1.0,
+      2.0,
+      10.0
+    ],
+    "frac_neutral": 0.164,
+    "C_max": 10240.0,
+    "C_min": 0.009765625
+  },
+  "reimpl_single": {
+    "mean_lucky": 1.488,
+    "mean_unlucky": 1.452,
+    "max_lucky": 10,
+    "max_unlucky": 9,
+    "success_log2_quantiles": [
+      -9.0,
+      -4.0,
+      -2.0,
+      0.0,
+      1.0,
+      2.0,
+      6.0
+    ],
+    "frac_neutral": 0.174,
+    "C_max": 640.0,
+    "C_min": 0.01953125
+  },
+  "reimpl_ensemble40": {
+    "mean_lucky": 1.5220749378204346,
+    "mean_unlucky": 1.5326499938964844,
+    "max_lucky": 17.0,
+    "max_unlucky": 17.0
+  }
+}

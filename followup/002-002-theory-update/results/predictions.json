@@ -1,0 +1,64 @@
+{
+  "predictions": [
+    {
+      "id": "P1_tennis_2026_persistence",
+      "statement": "Tennis year-end 2026 top-100 points-rank y2y Spearman persistence.",
+      "model_prediction": "model (fitted cell alpha=1.0,pL=65) band [0.962, 0.964] (~0.96, essentially pinned)",
+      "empirical_prediction": "empirical continuation ~0.678 (2011-2025 range [0.488,0.831])",
+      "sign": "model OVER-predicts persistence vs the empirical series",
+      "magnitude": "gap ~0.28 (model 0.963 vs empirical mean 0.678)",
+      "interval": {
+        "model_band": [
+          0.962,
+          0.964
+        ],
+        "empirical_2011_2025": [
+          0.488,
+          0.831
+        ]
+      },
+      "falsifies_model_if": "2026 year-end top-100 persistence lands in [0.49,0.83] (as the trend implies) rather than the model band [0.962, 0.964]",
+      "test_data": "ATP year-end 2026 top-100 rankings (shared-data/tennis/atp_rankings_current.csv once the 2026 season closes)"
+    },
+    {
+      "id": "P2_chess_minus_tennis_persistence_gap",
+      "statement": "Chess Jan-2027 top-100 persistence minus tennis year-end-2026 top-100 persistence.",
+      "model_prediction": "model gap ~-0.006 (both pinned near 0.96 -> NO ordering)",
+      "empirical_prediction": "empirical gap ~0.192 (chess 0.870 - tennis 0.678)",
+      "sign": "chess > tennis (empirical ladder); model predicts ~0",
+      "magnitude": ">= 0.1 (observed 2015-2026 gap 0.19)",
+      "interval": {
+        "predicted_gap_lower_bound": 0.1,
+        "observed_gap": 0.192,
+        "model_gap": -0.006
+      },
+      "falsifies_model_if": "the gap stays >= 0.10 (it does empirically); the model's point-free structure predicts ~0, so a persistent gap further falsifies the model's persistence channel",
+      "test_data": "FIDE January 2027 standard list (top-100) vs ATP year-end 2026 top-100"
+    },
+    {
+      "id": "P3_wsop_2027_repeat_champion",
+      "statement": "2027 WSOP Main-Event repeat-champion count under the no-skill null (001 power-statement machinery extended one year).",
+      "model_prediction": "no-skill null E_0 = 0.0038 = D(37)/n(9735); repeat count ~ Binomial(1, 0.0038)",
+      "empirical_prediction": "0 repeat champions (observed count 1990-2026 is 0)",
+      "sign": "count stays at the no-skill-null expectation",
+      "magnitude": "E_0 = 0.0038 expected repeats in 2027",
+      "interval": {
+        "E0": 0.0038,
+        "binomial_95_null_interval_count": [
+          0,
+          0
+        ],
+        "field_assumed_n2027": 9735,
+        "field_pm20pct_band": [
+          7788,
+          11682
+        ],
+        "distinct_prior_champions_D": 37
+      },
+      "falsifies_model_if": "a repeat 2027 champion appears AND field size is materially < the modern ~8-10k (so recurrence would carry power); at n~9.7k the test has essentially no power, as 001 found",
+      "test_data": "2027 WSOP Main-Event champion + entrant count (next year's poker_events row)",
+      "note": "replaces the previously planned bracelet permutation-null prediction (TvL-A5 demotion: no permutation null computable from staged data; bracelet concentration descriptive-only)."
+    }
+  ],
+  "P4_musiclab": "P4 (MusicLab winner-quality percentile band) is NOT issued: 001 took the honest-exclusion ELSE branch (shared-data/entertainment/musiclab absent), so no FULL branch ran. Condition unmet."
+}

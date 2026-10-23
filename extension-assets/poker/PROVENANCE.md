@@ -1,0 +1,6 @@
+# Provenance — poker leg (thin by design; see recency-research.md §5)
+
+- `wsop_main_article.wikitext` (revid 1379271818), `wsop_main_event_champions.wikitext` (revid 1368075126), `wsop_bracelet.wikitext` (revid 1362552102), `poker_hall_of_fame.wikitext` (revid 1377366948) — English Wikipedia wikitext fetched via the MediaWiki API 2026-10-22, revision ids pinned in `wikipedia_revids.json`. License CC BY-SA 4.0 (attribution + sharealike for derived text; data/facts extracted are unproblematic).
+- **Extraction rule (binding):** the year/champion/entries/prize tables must be extracted by reading the staged wikitext (agent-read, row-by-row, with a 5-row manual spot-check against the rendered page), never by a quick regex over the raw markup — a naive regex found 0 rows on this format (verified 2026-10-22).
+- **The Hendon Mob (comprehensive live-tournament results): NOT staged, scraping is ToS-gated — standing human gate.** A licensed bulk pull would unlock a proper multi-event poker persistence analysis; without it the poker leg is bounded to Main-Event/bracelet recurrence plus published results (Levitt & Miles 2014: WSOP 2010, a-priori-skilled players' ROI > +30% vs −15% for others).
+- WSOP.com results pages exist but are not staged (ToS/scrape-gray; the Wikipedia tables carry the needed champions/entrant counts with citations).

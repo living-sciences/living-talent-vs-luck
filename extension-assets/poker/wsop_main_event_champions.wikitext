@@ -1,0 +1,1425 @@
+{{Short description|None}}
+{{Outdated as of}}
+{{Use mdy dates|date=June 2025}}
+[[File:JoeCada.jpg|right|thumb|[[Joe Cada]] won the WSOP Main Event in 2009.]]
+The [[World Series of Poker]] (WSOP) is "the oldest, largest, most prestigious, and most media-hyped gaming competition in the world".<ref name ="ESPNhistory">{{cite web|url=http://espn.go.com/eoe/wsop/history.html|archive-url=https://web.archive.org/web/20040528154728/http://espn.go.com/eoe/wsop/history.html|url-status=dead|archive-date=May 28, 2004| title= World Series of Poker History|work=ESPN.com|date=July 28, 2006|publisher=ESPN|access-date=2009-01-20}}</ref> It has been held annually since 1970 in [[Las Vegas, Nevada|Las Vegas]]. Since 1972, the Main Event of the WSOP has been the $10,000 [[Buying in (poker)|buy-in]] [[Betting in poker#No limit|no-limit]] [[Texas hold 'em|Texas Hold 'Em]] tournament. The winner of the WSOP Main Event receives a [[World Series of Poker bracelet]], millions of dollars (with the exact amount based on the number of entrants), and the right to be considered the year's World Champion of Poker.<ref>{{cite web|url=http://www.businesswire.com/portal/site/google/?ndmViewId=news_view&newsId=20060809005375&newsLang=en|title=Final Table Set at World Series of Poker Main Event; Nine to Compete at Rio for $12 Million and Title of World Champion| date= August 9, 2006| access-date= January 22, 2009|publisher= Business Wire}}</ref> From 2008 to 2016, the nine players who made it to the [[Glossary of poker terms#final table|final table]] of the Main Event were called the [[November Nine]], a reference to the fact that the final table was completed in November, months after the Main Event's preliminary rounds were completed.
+
+Until 2005, the WSOP was held at [[Binion's Horseshoe]]. In 2005, the event moved to the [[Rio All Suite Hotel and Casino]].<ref>{{Cite web |last=Dalla |first=Nolan |title=From Moss to Gold: A Brief History of the World Series of Poker |url=http://www.worldseriesofpoker.com/wsop/history.asp |access-date=2009-01-23 |website=World Series of Poker |publisher=Harrah's Entertainment}}</ref> The 2005 Main Event was not played completely at the Rio. The final three tables, which comprised the final 27 players, played the conclusion of the event at Binion's Horseshoe. All the Main Events that followed the 2005 event were played completely at the Rio through 2019, as well as in 2021. Consequently, this made [[Joe Hachem]] the final player to win the Main Event at the original home of the World Series of Poker.
+
+==Milestones==
+[[Johnny Moss]] was the first person to win the WSOP. Since then only Moss and [[Stu Ungar]] have won the Main Event three times; Ungar is the only one to have won three times in the freeze-out format. Moss, Ungar, [[Doyle Brunson]] and [[Johnny Chan]] are the only people who have won the Main Event two years in a row. Johnny Chan's second victory in 1988 was featured on the 1998 film ''[[Rounders (film)|Rounders]]''.<ref>{{cite web|url=http://www.pokernews.com/news/2008/08/sextons-corner-59-johnny-chan-part-4.htm|title=Sexton's Corner, Vol.59, Johnny Chan, Legend of Legends: Part 4, "The Golden Touch"| work= pokernews.com|last=Sexton|first=Tom|date=August 25, 2008|access-date=2009-01-23}}</ref> Peter Eastgate was the youngest person to win the Main Event when he won it in 2008, at 22 years of age.<ref name = "petername" /> He held that record for one year, when 21-year-old Joe Cada became the youngest Main Event champion.
+
+==World Series of Poker Main Event==
+{{update section|date=September 2018}}
+[[File:Wsop2007.jpg|right|thumb|The 2007 Main Event WSOP Bracelet]]
+
+{|class="wikitable" 
+|style="background-color:#FFFF99; width:6em;"|
+|Elected to the [[Poker Hall of Fame]].
+|-
+|style="background: #E9E9E9;" | †
+|Denotes player who is deceased.
+|-
+|style="background: #E9E9E9;" | Hand
+| The two hole cards the winner held on the final hand.
+|-
+|style="background: #E9E9E9;" | Prize (US$)
+| WSOP Main Event prize money.
+|-
+|style="background: #E9E9E9;" | Entrants
+| The number of players in that year's Main Event.
+|-
+|style="background: #E9E9E9;" | Winnings
+| Lifetime winnings in WSOP and WSOP Circuit events as of April 15, 2013.
+|-
+|style="background: #E9E9E9;" | Bracelets
+| WSOP victories are counted in terms of bracelets, as of April 15, 2013.
+
+|}
+{{table alignment}}
+{| class="wikitable col6right col7right col8right sortable"
+! class="unsortable"| Image
+! Year
+! Winner
+! class="unsortable"| Nickname
+! class="unsortable"| Hand <ref>{{cite web |title=All WSOP Final Hands Videos and Comments |url=http://www.pokerjunkie.com/wsop-main-event-final-hands |website=pokerjunkie.com |access-date=February 2, 2021}}</ref>
+! Prize (US$)
+! Entrants<ref name = "bracelet">{{cite web|url=http://www.worldseriesofpoker.com/players/bracelet-winners-by-year.asp?byr=2005|title =  Championships by Year |work= World Series of Poker Bracelet Winners |access-date=2009-01-23|publisher=Harrah's Casinos}}</ref>
+! Total tournament<br />earnings (US$)
+! [[World Series of Poker bracelet|WSOP bracelets]]
+! Runner-up
+! class="unsortable"| Ref.
+|-
+| [[Image:JMoss.jpg|75px]]
+|align="center"| [[1970 World Series of Poker|1970]]{{efn|name=firstWSOP|The first World Series of Poker was not a freeze out tournament, but rather a game with a set start and stop time.  [[Benny Binion]] took a secret ballot that asked the players who the best player was.  According to poker lore, everybody said that they were the best player.  Binion then asked who the second-best player was, and Johnny Moss won.<ref>{{cite web|url=http://www.pokerroom.com/newsroom/news/592/ |title=A History of the WSOP: The Champions |date=June 13, 2007 |access-date=2007-07-17 |work=The Poker Room |url-status=dead|archive-url=https://web.archive.org/web/20071110130623/http://www.pokerroom.com/newsroom/news/592/ |archive-date=2007-11-10 }}</ref>}}
+|align="center" bgcolor="#FFFF99"| {{sortname|Johnny|Moss}}†
+|align="center"| The Grand Old Man of Poker<ref name = "mossname">{{cite web|url=http://world-series-poker.co.uk/bracelets.html |title=All-Time List of World Series of Poker Bracelet Winners|work=World Series of Poker|access-date=2009-01-16|publisher=Harrah's Casino}}</ref>
+| {{N/A}}
+| {{N/A}}
+|align="center"| {{nts|7}}
+| {{nts|824922}}
+|align="center"| 9
+|align="center"|N/A
+|align="center"|<ref name = "moss">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17691&pagecolor=FFFFFF |work=World Series of Poker|title=Johnny Moss |access-date=2009-01-21|publisher=Harrahs Casino}}</ref>
+|-
+| [[Image:JMoss.jpg|75px]]
+|align="center"| [[1971 World Series of Poker|1971]]
+|align="center" bgcolor="#FFFF99"|{{sortname|Johnny|Moss}}†
+|align="center"| The Grand Old Man of Poker
+|align="center"|{{cards|6c|6s}}
+| {{nts|30000}}
+|align="center"| {{nts|6}}
+| {{nts|824922}}
+|align="center"| 9
+|align="center" bgcolor="#FFFF99"| {{sortname|Jack|Straus}}†
+|align="center"|<ref name = "moss" />
+|-
+| [[Image:AmarilloSlim.jpg|75px]]
+|align="center"| [[1972 World Series of Poker|1972]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Thomas|Preston|Amarillo Slim}}†
+|align="center"| Amarillo Slim<ref>{{cite web|url=http://amarilloslim.org/default.aspx|title=Amarillo Slim Preston&nbsp;— The Worlds Greatest Gambler!|work=The Official Site Of Amarillo Slim Preston|access-date=2009-01-16|publisher=Amarilloslim.org|url-status=usurped|archive-url=https://web.archive.org/web/20060706011848/http://amarilloslim.org/default.aspx|archive-date=2006-07-06}}</ref>
+|align="center"|{{cards|Kh|Jd}}
+| {{nts|80000}}
+|align="center"| {{nts|8}}
+| {{nts|436055}}
+|align="center"| 4
+|align="center" bgcolor="#FFFF99"| {{sortname|Walter|Pearson|Puggy Pearson}}†
+|align="center"|<ref>{{cite web|url=http://www.pokerpages.com/players/profiles/3805/thomas-preston.htm |work=World Series of Poker |title=Thomas Preston |access-date=2009-01-21 |publisher=Harrah's Casino |url-status=dead|archive-url=https://web.archive.org/web/20080922023420/http://www.pokerpages.com/players/profiles/3805/thomas-preston.htm |archive-date=2008-09-22 }}</ref>
+|-
+| [[Image:PuggyPearson.jpg|75px]]
+|align="center"| [[1973 World Series of Poker|1973]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Walter|Pearson|Puggy Pearson}}†
+|align="center"| Puggy<ref>{{cite web|url=http://www.pokernews.com/news/2006/4/legend-poker-puggy-pearson.htm|title=Legend of Poker: Walter Clyde 'Puggy' Pearson 1929-2006|work=Pokernews.co|last= Caldwell|first=John|date= April 13, 2006|access-date=2009-01-16|publisher=Poker News}}</ref>
+|align="center"|{{cards|A♠|7♠}}
+| {{nts|130000}}
+|align="center"| {{nts|13}}
+| {{nts|245740}}
+|align="center"| 4
+|align="center" bgcolor="#FFFF99"| {{sortname|Johnny|Moss}}†
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17879&pagecolor=FFFFFF|work=World Series of Poker|title=Puggy Pearson |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:JMoss.jpg|75px]]
+|align="center"| [[1974 World Series of Poker|1974]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Johnny|Moss}}†
+|align="center"| The Grand Old Man of Poker
+|align="center"|{{cards|3♥|3♠}}
+| {{nts|160000}}
+|align="center"| {{nts|16}}
+| {{nts|824922}}
+|align="center"| 9
+|align="center" bgcolor="#FFFF99"| {{sortname|Crandell|Addington}}†
+|align="center"| <ref name = "moss" />
+|-
+| [[Image:SailorRoberts.jpg|75px]]
+|align="center"| [[1975 World Series of Poker|1975]]
+|align="center" bgcolor="FFFF99"| {{sortname|Brian|Roberts|Sailor Roberts}}†
+|align="center"| Sailor<ref>{{cite web|url=http://pokerworks.com/poker-news/2008/01/30/where-are-they-now-brian-sailor-roberts.html|title=Where Are They Now: Brian "Sailor" Roberts|last= Monroe|first=Billy|date= January 30, 2008|access-date=2009-01-16|publisher=Pokerworks.com}}</ref>
+|align="center"|{{cards|J♠|J♥}}
+| {{nts|210000}}
+|align="center"| {{nts|21}}
+| {{nts|266650}}
+|align="center"| 2
+|align="center"| Bob Hooks 
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=18104&pagecolor=FFFFFF |work=World Series of Poker|title=Brian Roberts |access-date=2009-01-21|publisher=Harrahs' Casino}}</ref>
+|-
+| [[Image:Doyle Brunson.jpg|75px]]
+|align="center"| [[1976 World Series of Poker|1976]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Doyle|Brunson}}†
+|align="center"| Texas Dolly{{efn|name=Brunson|Doyle Brunson obtained the nickname of Texas Dolly when Jimmy The Greek mispronounced his name.<ref name = "brunsonname">{{cite web|url=http://www.professional-poker.com/poker-players/doyle-brunson.htm |archive-url=https://web.archive.org/web/20091122214201/http://www.professional-poker.com/poker-players/doyle-brunson.htm |url-status=dead |archive-date=2009-11-22 |title=Doyle Brunson|work=Professional-poker.com|last=McGuire |first=Paul |access-date=2009-11-29|publisher=Professional-Poker Online}}</ref>}}
+|align="center"|{{cards|10♠|2♠}}
+| {{nts|220000}}
+|align="center"| {{nts|22}}
+| {{nts|2808945}}
+|align="center"| 10
+|align="center"| {{sortname|Jesse|Alto}}†
+|align="center"|<ref name = "brunson">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=162&pagecolor=FFFFFF|work=World Series of Poker|title=Doyle Brunson |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Doyle Brunson.jpg|75px]]
+|align="center"| [[1977 World Series of Poker|1977]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Doyle|Brunson}}†
+|align="center"| Texas Dolly
+|align="center"|{{cards|10♠|2♥}}
+| {{nts|340000}}
+|align="center"| {{nts|34}}
+| {{nts|2808945}}
+|align="center"| 10
+|align="center"| {{sortname|Gary|Berland}}†
+|align="center"| <ref name = "brunson" />
+|-
+| [[Image:Bobby Baldwin 2010.jpg|75px]]
+|align="center"| [[1978 World Series of Poker|1978]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Bobby|Baldwin}}
+|align="center"| The Owl<ref>{{cite web|url=http://www.pokerplayerpress.com/Gallery-BobbyBaldwin.html|archive-url=https://web.archive.org/web/20061117053810/http://www.pokerplayerpress.com/Gallery-BobbyBaldwin.html|url-status=dead|archive-date=2006-11-17|title=Bobby "The Owl" Baldwin|work=PokerPlayerPress.com|access-date=2009-01-16|publisher=PokerPlayerPress}}</ref>
+|align="center"|{{cards|Q♦|Q♣}}
+| {{nts|210000}}
+|align="center"| {{nts|42}}
+| {{nts|604900}}
+|align="center"| 4
+|align="center" bgcolor="#FFFF99"| {{sortname|Crandell|Addington}}†
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=241&pagecolor=FFFFFF |work=World Series of Poker|title= Bobby Baldwin |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:HalFowler.jpg|75px]]
+|align="center"| [[1979 World Series of Poker|1979]]
+|align="center"| {{sortname|Hal|Fowler}}†
+|align="center"| —
+|align="center"|{{cards|7♠|6♦}}
+| {{nts|270000}}
+|align="center"| {{nts|54}}
+| {{nts|270000}}
+|align="center"| 1
+|align="center"| {{sortname|Bobby|Hoff}}†
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=18165&pagecolor=FFFFFF|work=World Series of Poker|title=Hal Fowler |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| 
+|align="center"| [[1980 World Series of Poker|1980]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Stu|Ungar}}†
+|align="center"| Stuey<br>or<br>The Kid<ref>{{cite news|url=http://tv.nytimes.com/show/163049/High-Roller-The-Stu-Ungar-Story/overview |title=High Roller: The Stu Ungar Story |work=New York Times|access-date=2009-01-16| first=Alessandra | last=Stanley}}</ref>
+|align="center"|{{cards|5♠|4♠}}
+| {{nts|365000}}
+|align="center"| {{nts|73}}
+| {{nts|2078838}}
+|align="center"| 5
+|align="center" bgcolor="#FFFF99"| {{sortname|Doyle|Brunson}}†
+|align="center"|<ref name = "stu">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17296&pagecolor=FFFFFF|work=World Series of Poker|title= Stu Unger |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| 
+|align="center"| [[1981 World Series of Poker|1981]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Stu|Ungar}}†
+|align="center"| Stuey<br>or<br>The Kid
+|align="center"|{{cards|A♥|Q♥}}
+| {{nts|375000}}
+|align="center"| {{nts|75}}
+| {{nts|2078838}}
+|align="center"| 5
+|align="center"| {{sortname|Perry|Green|Perry Green (poker player)}} 
+|align="center"| <ref name = "stu" />
+|-
+| [[Image:JackStraus.jpg|75px]]
+|align="center"| [[1982 World Series of Poker|1982]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Jack|Straus}}{{efn|name=JackStraus|Jack Straus' 1982 WSOP tournament victory is considered to be one of the greatest comebacks in poker history.  At one point, Straus was down to one chip, and he came back to win.  This victory is considered the origin of the poker saying, "A chip and a chair."  A saying that means that as long as you have a chip and a chair you have a chance.  Modern lore indicates that this happened at the final table, but the 1983 book ''The Biggest Game in Town'' implies this occurred on the first day of the tournament.<ref>{{cite web|url=http://betting.betfair.com/wsop/news/a-chip-and-a-chair-170708.html/|title=A chip and a chair!|work=betfair.com|access-date=2009-01-20|publisher=Betfair|url-status=dead|archive-url=https://web.archive.org/web/20080811003218/http://betting.betfair.com/wsop/news/a-chip-and-a-chair-170708.html|archive-date=2008-08-11}}</ref>}}†
+|align="center"| Treetop<ref>{{cite web|url=http://www.ajlmagazine.com/content/052006/poker/jackstraus.html|title=Poker Pro: Jack "Treetop" Straus|date=May–June 2006|access-date=2009-01-16|work=American Jewish Life Magazine|publisher=Leader Publishing|url-status=dead|archive-url=https://web.archive.org/web/20090203202056/http://www.ajlmagazine.com/content/052006/poker/jackstraus.html|archive-date=2009-02-03}}</ref>
+|align="center"|{{cards|A♥|10♠}}
+| {{nts|520000}}
+|align="center"| {{nts|104}}
+| {{nts|555000}}
+|align="center"| 2
+|align="center" bgcolor="#FFFF99"| {{sortname|Dewey|Tomko}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=18101&pagecolor=FFFFFF|work=World Series of Poker|title=Jack Straus |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Tom McEvoy 2010.jpg|75px]]
+|align="center"| [[1983 World Series of Poker|1983]]
+|align="center" bgcolor="#FFFF99" |{{sortname|Tom|McEvoy}}
+|align="center"|  Grand Rapids Tom
+|align="center"|{{cards|Q♦|Q♠}}
+| {{nts|540000}}
+|align="center"| {{nts|108}}
+| {{nts|1291031}}
+|align="center"| 4
+|align="center"| {{sortname|Rod|Peate}}
+|align="center"|<ref name = "mcevoyname">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=238&pagecolor=FFFFFF |work=World Series of Poker|title=Tom McEvoy |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+|{{N/A}}
+|align="center"| [[1984 World Series of Poker|1984]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Jack|Keller|Jack Keller (poker player)}}†
+|align="center"| Gentleman<ref name = "kellername" />
+|align="center"|{{cards|10♥|10♠}}
+| {{nts|660000}}
+|align="center"| {{nts|132}}
+| {{nts|2048763}}
+|align="center"| 3
+|align="center"| {{sortname|Byron|Wolford}}†
+|align="center"| <ref name = "kellername">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17008&pagecolor=FFFFFF|work=World Series of Poker|title=Jack Keller |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+|{{N/A}}
+|align="center"| [[1985 World Series of Poker|1985]]
+|align="center"| {{sortname|Bill|Smith|Bill Smith (poker player)}}†
+|align="center"| —
+|align="center"|{{cards|3♠|3♥}}
+| {{nts|700000}}
+|align="center"| {{nts|140}}
+| {{nts|788000}}
+|align="center"| 1
+|align="center" bgcolor="#FFFF99"| {{sortname|T.J.|Cloutier}}
+|align="center"| <ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17982&pagecolor=FFFFFF |work=World Series of Poker|title=Bill Smith |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Berry Johnston 2007 cropped.jpg|75px]]
+|align="center"| [[1986 World Series of Poker|1986]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Berry|Johnston}}
+|align="center"| —
+|align="center"|{{cards|A♠|10♥}}
+| {{nts|570000}}
+|align="center"| {{nts|141}}
+| {{nts|2265523}}
+|align="center"| 5
+|align="center"| {{sortname|Mike|Harthcock|Mike Hart (poker player)}} 
+|align="center"| <ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=172&pagecolor=FFFFFF |work=World Series of Poker|title=Berry Johnston |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Johnny Chan.jpg|75px]]
+|align="center"| [[1987 World Series of Poker|1987]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Johnny|Chan}}
+|align="center"| Orient Express<ref>{{cite web|url=http://www.pokernews.com/news/2005/07/legends-poker-johnny-orient-express-chan.htm |title=Legends of Poker&nbsp;— Johnny "The Orient Express" Chan |last=Moe|first=Al|date= July 5, 2005|access-date=2009-01-16|publisher=Poker News}}</ref>
+|align="center"|{{cards|A♠|9♣}}
+| {{nts|625000}}
+|align="center"| {{nts|152}}
+| {{nts|4397749}}
+|align="center"| 10
+|align="center"| {{sortname|Frank|Henderson|Frank Henderson (poker player)}}
+|align="center"| <ref name = "chan">{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=262&pagecolor=FFFFFF|work=World Series of Poker|title=Johnny Chan |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Johnny Chan.jpg|75px]]
+|align="center"| [[1988 World Series of Poker|1988]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Johnny|Chan}}
+|align="center"| Orient Express
+|align="center"|{{cards|J♣|9♣}}
+| {{nts|700000}}
+|align="center"| {{nts|167}}
+| {{nts|4397749}}
+|align="center"| 10
+|align="center" bgcolor="#FFFF99"| {{sortname|Erik|Seidel}}
+|align="center"| <ref name = "chan" />
+|-
+| [[Image:Phil Hellmuth.jpg|75px]]
+|align="center"| [[1989 World Series of Poker|1989]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Phil|Hellmuth}}
+|align="center"| The Poker Brat<ref>{{cite web|url=http://www.bluffmagazine.com/poker-news/Hellmuth-Appearing-on-Best-Damn-Sports-Show-Wednesday-1720.htm/ |title=Hellmuth Appearing on Best Damn Sports Show Wednesday |work=Bluff Magazine |last=Bradley |first=Lance |date=January 14, 2009 |access-date=2009-01-16 |publisher=Bluff Media |url-status=dead|archive-url=https://web.archive.org/web/20090117082005/http://www.bluffmagazine.com/poker-news/Hellmuth-Appearing-on-Best-Damn-Sports-Show-Wednesday-1720.htm |archive-date=January 17, 2009 }}</ref>
+|align="center"|{{cards|9♠|9♣}}
+| {{nts|755000}}
+|align="center"| {{nts|178}}
+| {{nts|14612213}}
+|align="center"| 17
+|align="center" bgcolor="#FFFF99"| {{sortname|Johnny|Chan}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerprofile.asp?playerID=271|work=World Series of Poker|title=Phil Hellmuth|access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+|{{N/A}}
+|align="center"| [[1990 World Series of Poker|1990]]
+|align="center"| {{sortname|Mansour|Matloubi}}
+|align="center"|  —
+|align="center"|{{cards|6♥|6♠}}
+| {{nts|835000}}
+|align="center"| {{nts|194}}
+| {{nts|6019630}}
+|align="center"| 1
+|align="center"| {{sortname|Hans|Lund}}†
+|align="center"|<ref>{{cite web|url=http://www.pokerpages.com/players/profiles/5465/mansour-matloubi.htm |title=Mansour Matloubi |access-date=2009-01-17 |publisher=PokerPages.com |url-status=dead|archive-url=https://web.archive.org/web/20081204102717/http://www.pokerpages.com/players/profiles/5465/mansour-matloubi.htm |archive-date=2008-12-04 }}</ref>
+|-
+|[[Image:Brad Daugherty.jpg|75px]]
+|align="center"| [[1991 World Series of Poker|1991]]
+|align="center"| {{sortname|Brad|Daugherty|Brad Daugherty (poker player)}}
+|align="center"| —
+|align="center"|{{cards|K♠|J♠}}
+| {{nts|1000000}}
+|align="center"| {{nts|215}}
+| {{nts|1165170}}
+|align="center"| 1
+|align="center"| {{sortname|Don|Holt}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=423&pagecolor=FFFFFF |work=World Series of Poker|title=Brad Daugherty|access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:HamidDastmalchi.jpg|75px]]
+|align="center"| [[1992 World Series of Poker|1992]]
+|align="center"| {{sortname|Hamid|Dastmalchi}}
+|align="center"|  —
+|align="center"|{{cards|8♥|4♣}}
+| {{nts|1000000}}
+|align="center"| {{nts|201}}
+| {{nts|1642463}}
+|align="center"| 3
+|align="center"| Tom Jacobs
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=17442&pagecolor=FFFFFF|work=World Series of Poker|title=Hamid Dastmalchi|access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Jim Bechtel.jpg|75px]]
+|align="center"| [[1993 World Series of Poker|1993]]
+|align="center"| {{sortname|Jim|Bechtel}}
+|align="center"| —
+|align="center"|{{cards|Js|6s}}
+| {{nts|1000000}}
+|align="center"| {{nts|231}}
+| {{nts|1944623}}
+|align="center"| 2
+|align="center"| {{sortname|Glenn|Cozen}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=142&pagecolor=FFFFFF|work=World Series of Poker|title= Jim Bechtel|access-date=2009-01-21|publisher=Harrah's Casino}}</ref><ref>{{cite web | url = http://www.cardplayer.com/poker-news/4558-wsop-history-1993-recap | title = WSOP: History -- 1993 Recap | access-date = April 17, 2013 | last = Lucchesi | first = Ryan | date = June 8, 2008 | work = CardPlayer.com }}</ref>
+|-
+| [[Image:Russ Hamilton.jpg|75px]]
+|align="center"| [[1994 World Series of Poker|1994]]
+|align="center"| {{sortname|Russ|Hamilton|Russ Hamilton (poker player)}}
+|align="center"| —
+|align="center"|{{cards|K♠|8♥}}
+| {{nts|1000000}}
+|align="center"| {{nts|268}}
+| {{nts|1261940}}
+|align="center"| 1
+|align="center"| Hugh Vincent
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=859&pagecolor=FFFFFF|work= World Series of Poker|title= Russ Hamilton |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Dan-HarringtonWSOP.jpg|75px]]
+|align="center"| [[1995 World Series of Poker|1995]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Dan|Harrington}}
+|align="center"| Action Dan<ref>{{cite web|url=http://allinmag.com/index.php/online-poker/poker-features/poker-instructionals/action-dan-harrington-bullying-the-bully/ |title=Action Dan Harrington&nbsp;— Bullying The Bully |last=Harrington |first='Action' Dan |work=All In Magazine |date=April 18, 2008 |access-date=2009-01-13 |url-status=dead|archive-url=https://web.archive.org/web/20090106014526/http://allinmag.com/index.php/online-poker/poker-features/poker-instructionals/action-dan-harrington-bullying-the-bully |archive-date=2009-01-06 }}</ref>
+|align="center"|{{cards|9♦|8♦}}
+| {{nts|1000000}}
+|align="center"| {{nts|273}}
+| {{nts|3491513}}
+|align="center"| 2
+|align="center"| {{sortname|Howard|Goldfarb}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=218&pagecolor=FFFFFF|work=World Series of Poker|title = Dan Harrington |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Huck seed.jpg|75px]]
+|align="center"| [[1996 World Series of Poker|1996]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Huck|Seed}}
+|align="center"| —
+|align="center"|{{cards|9♦|8♦}}
+| {{nts|1000000}}
+|align="center"| {{nts|295}}
+| {{nts|2426842}}
+|align="center"| 4
+|align="center"| {{sortname|Bruce|Van Horn}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=245&pagecolor=FFFFFF|work=World Series of Poker|title=Huck Seed |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| 
+|align="center"| [[1997 World Series of Poker|1997]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Stu|Ungar}}†
+|align="center"| Stuey<br>or<br>The Kid
+|align="center"|{{cards|A♥|4♣}}
+| {{nts|1000000}}
+|align="center"| {{nts|312}}
+| {{nts|2078838}}
+|align="center"| 5
+|align="center"| {{sortname|John|Strzemp}}
+|align="center"|<ref>{{cite web|url=http://www.pokerpages.com/players/profiles/62350/stu-ungar.htm |title=Stu Unger. |work=PokerPages.com |access-date=2009-01-13 |publisher=PokerPage |url-status=dead|archive-url=https://web.archive.org/web/20090105125852/http://www.pokerpages.com/players/profiles/62350/stu-ungar.htm |archive-date=2009-01-05 }}</ref>
+|-
+| [[Image:Scotty Nguyen.jpg|75px]]
+|align="center"| [[1998 World Series of Poker|1998]]
+|align="center" bgcolor="#FFFF99"|{{sortname|Scotty|Nguyen}}
+|align="center"| The Train<br>or<br> The Prince of Poker<ref>{{cite web|url=http://www.cardplayer.com/magazine/article/15300|title=Poker's Prince is Back 'On Track' |last= Marchand |first=Justin |date=March 1, 2006 |access-date=2009-01-16 |work=Card Player Magazine|publisher=Card Player Media |url-access=subscription  |archive-url=https://web.archive.org/web/20120806012248/http://www.cardplayer.com/cardplayer-magazines/65584-scotty-nguyen-19-4/articles/15300-poker-39-s-prince-is-back-39-on-track-39 |archive-date=2012-08-06}}</ref>
+|align="center"|{{cards|J♦|9♣}}
+| {{nts|1000000}}
+|align="center"| {{nts|350}}
+| {{nts|5895732}}
+|align="center"| 5
+|align="center"| Kevin McBride
+|align="center"| <ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=266&pagecolor=FFFFFF|work=World Series of Poker|title=Scotty Nguyen  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Noel Furlong.jpg|75px]]
+|align="center"| [[1999 World Series of Poker|1999]]
+|align="center"| {{sortname|Noel|Furlong}}†
+|align="center"| —
+|align="center"|{{cards|5♣|5♦}}
+| {{nts|1000000}}
+|align="center"| {{nts|393}}
+| {{nts|1070785}}
+|align="center"| 1
+|align="center"| {{sortname|Alan|Goehring}}
+|align="center"| <ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=120&pagecolor=FFFFFF |work=World Series of Poker|title=Noel Furlong  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Chris Ferguson.jpg|75px]]
+|align="center"| [[2000 World Series of Poker|2000]]
+|align="center"| {{sortname|Chris|Ferguson}}
+| align="center"|Jesus<ref name = "Jesus">{{cite web|url=http://www.worldseriesofpoker.com/players/playerprofile.asp?playerID=201 |work=World Series of Poker|title=Chris "Jesus" Ferguson |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|align="center"|{{cards|A♠|9♣}}
+| {{nts|1500000}}
+|align="center"| {{nts|512}}
+| {{nts|5033593}}
+|align="center"| 6
+|align="center" bgcolor="#FFFF99"| {{sortname|T.J.|Cloutier}}
+|align="center"|<ref name = "Jesus"/>
+|-
+| [[Image:Carlos Mortensen 2007.jpg|75px]]
+|align="center"| [[2001 World Series of Poker|2001]]
+|align="center" bgcolor="FFFF99"| {{sortname|Carlos|Mortensen}}
+|align="center"| El Matador<ref>{{cite web|url=http://www.cardplayer.com/magazine/article/14433 |title=Juan Carlos Mortensen: El Matador! |last=Shulman|first=Allyn|date=December 31, 2004 |access-date=2009-01-16|work=Card Player Magazine|publisher=Card Player Media}}</ref>
+|align="center"|{{cards|K♣|Q♣}}
+| {{nts|1500000}}
+|align="center"| {{nts|613}}
+| {{nts|3168216}}
+|align="center"| 2
+|align="center" bgcolor="#FFFF99"| {{sortname|Dewey|Tomko}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=497&pagecolor=FFFFFF|work=World Series of Poker|title=Carlos Mortensen|access-date=2009-01-21|publisher=Harrah's Casino|url-status=dead|archive-url=https://web.archive.org/web/20090205212603/http://www.worldseriesofpoker.com/players/playerprofile.asp?playerID=497|archive-date=2009-02-05}}</ref>
+|-
+| [[Image:Robert Varkonyi.jpg|75px]]
+|align="center"| [[2002 World Series of Poker|2002]]
+|align="center"| {{sortname|Robert|Varkonyi}}
+|align="center"| —
+|align="center"|{{cards|Q♦|10♠}}
+| {{nts|2000000}}
+|align="center"| {{nts|631}}
+| {{nts|2110212}}
+|align="center"| 1
+|align="center"| {{sortname|Julian|Gardner|Julian Gardner (poker player)}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=122&pagecolor=FFFFFF |work=World Series of Poker|title=Robert Varkonyi  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Chris Moneymaker.jpg|75px]]
+|align="center"| [[2003 World Series of Poker|2003]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Chris|Moneymaker}}{{efn|name=Moneymaker|Chris Moneymaker won the entry into the WSOP Main Event via a $86 online satellite.<ref>{{cite web|url=https://www.ESPN.com/poker/story/_/id/23594337/world-series-poker-life-legacy-chris-moneymaker-15-years-2003-wsop-main-event-win-changed-world-poker |title=Life and legacy of Chris Moneymaker, 15 years after his WSOP main event win changed poker forever |last=Lee |first=Bernard |work=ESPN.com |date=May 24, 2018 |access-date=2024-12-19 |publisher=ESPN Internet Ventures, LLC.}}</ref>}}
+|align="center"| —
+|align="center"|{{cards|5♦|4♠}}
+| {{nts|2500000}}
+|align="center"| {{nts|839}}
+| {{nts|2532041}}
+|align="center"| 1
+|align="center"| {{sortname|Sam|Farha}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=129&pagecolor=FFFFFF |work=World Series of Poker|title=Chris Moneymaker  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Greg Raymer.jpg|75px]]
+|align="center"| [[2004 World Series of Poker|2004]]
+|align="center"| {{sortname|Greg|Raymer}}
+|align="center"|Fossilman
+|align="center"|{{cards|8♠|8♦}}
+| {{nts|5000000}}
+|align="center"| {{nts|2576}}
+| {{nts|6669417}}
+|align="center"| 1
+|align="center"| {{sortname|David|Williams|David Williams (card game player)}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=275&pagecolor=FFFFFF|work=World Series of Poker|title=Greg Raymer  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Joe Hachem 2008.jpg|75px]]
+|align="center"| [[2005 World Series of Poker|2005]]
+|align="center"| {{sortname|Joe|Hachem}}{{efn|name=RecentYears|In recent years, the prize pool for the WSOP Main Event has become so large that the winner instantly becomes one of the top money winners in tournament poker.  Jamie Gold (2006) is number eight on that list, Joe Hachem (2005) is number ten, and Peter Eastgate (2008) is number eleven.<ref>{{cite web|url=http://www.pokerpages.com/players/lists/worlds-top-players.htm |title=All Time Money List |access-date=2009-01-17 |work=PokerPages.com |url-status=dead|archive-url=https://web.archive.org/web/20090117074127/http://www.pokerpages.com/players/lists/worlds-top-players.htm |archive-date=2009-01-17 }}</ref>}}
+| align="center"|—
+|align="center"|{{cards|7♣|3♠}}
+| {{nts|7500000}}
+|align="center"| {{nts|5619}}
+| {{nts|8261859}}
+|align="center"| 1
+|align="center"| {{sortname|Steve|Dannenmann}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=3426&pagecolor=FFFFFF|work=World Series of Poker|title=Joe Hachem  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Jamie Gold WSOP 2006.jpg|75px]]
+|align="center"| [[2006 World Series of Poker|2006]]
+|align="center"| {{sortname|Jamie|Gold}}{{efn|name=RecentYears}}
+|align="center"| —
+|align="center"|{{cards|Q♠|9♣}}
+| {{nts|12000000}}
+|align="center"| {{nts|8773}}
+| {{nts|12067292}}
+|align="center"| 1
+|align="center"| {{sortname|Paul|Wasicka}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=14271&pagecolor=FFFFFF |work=World Series of Poker|title=Jamie Gold  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Jerry Yang 2008.jpg|75px]]
+|align="center"| [[2007 World Series of Poker|2007]]
+|align="center"| {{sortname|Jerry|Yang|Jerry Yang (poker player)}}
+|align="center"| The Shadow<ref>{{cite web|url=https://orbassano.net/|title=WSOP Circuit - Harrah's New Orleans Pt. 2|date=May 19, 2008|access-date=2009-01-16|work=All In Magazine}}{{dead link|date=September 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+|align="center"|{{cards|8♦|8♣}}
+| {{nts|8250000}}
+|align="center"| {{nts|6358}}
+| {{nts|8280913}}
+|align="center"| 1
+|align="center"| {{sortname|Tuan|Lam}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=13044&pagecolor=FFFFFF|work=World Series of Poker|title=Jerry Yang  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Peter Eastgate.jpg|75px]]
+|align="center"| [[2008 World Series of Poker|2008]]
+|align="center"| {{sortname|Peter|Eastgate}}{{efn|name=RecentYears}}
+|align="center"| Isser<ref name = "petername">{{cite web|url=http://www.pokerlistings.com/poker-player_peter-eastgate |title=Peter Eastgate |access-date=2009-01-16|work=Poker Listing}}</ref>
+|align="center"|{{cards|A♦|5♠}}
+| {{nts|9152416}}
+|align="center"| {{nts|6844}}
+| {{nts|9430506}}
+|align="center"| 1
+|align="center"| {{sortname|Ivan|Demidov|Ivan Demidov (poker player)}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=44509&pagecolor=FFFFFF|work=World Series of Poker|title=Peter Eastgate  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Joseph Cada at the WSOP 2009 Main Event.jpg|75px]]
+|align="center"| [[2009 World Series of Poker|2009]]
+|align="center"| {{sortname|Joe|Cada|}}{{efn|name=Cada|Joe Cada is the youngest person to have won the WSOP Main Event.<ref name = "petername" />}}
+|align="center"| —
+|align="center"|{{cards|9♦|9♣}}
+| {{nts|8547044}}
+|align="center"| {{nts|6494}}
+| {{nts|10339448}}
+|align="center"| 4
+|align="center"| {{sortname|Darvin|Moon}}†
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=61471&pagecolor=FFFFFF|work=World Series of Poker|title=Joe Cada  |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Jonathan Duhamel.jpg|75px]]
+|align="center"| [[2010 World Series of Poker|2010]]
+|align="center"| [[Jonathan Duhamel]]
+|align="center"| —
+|align="center"|{{cards|As|Jh}}
+| {{nts|8944310}}
+|align="center"| {{nts|7319}}
+| {{nts|14612213}}
+|align="center"| 3
+|align="center"| {{sortname|John|Racener}}
+|align="center"|<ref>{{cite web | url = http://www.pokernews.com/news/2010/11/2010-world-series-of-poker-jonathan-duhamel-wins-2010-wsop-m-9297.htm | title = 2010 World Series of Poker: Jonathan Duhamel Wins 2010 WSOP Main Event! | access-date = November 9, 2010 | last = Peters | first = Donnie | date = November 9, 2010 | work = PokerNews.com}}</ref>
+|-
+| [[Image:Pius Heinz.jpg|75px]]
+|align="center"| [[2011 World Series of Poker|2011]]
+|align="center"| {{sortname|Pius|Heinz}}
+|align="center"| MastaP89
+|align="center"|{{cards|As|Kc}}
+| {{nts|8715638}}
+|align="center"| {{nts|6865}}
+| {{nts|8821056}}
+|align="center"| 1
+|align="center"| {{sortname|Martin|Staszko}}
+|align="center"|<ref>{{cite web | url = http://www.wsop.com/players/playerprofile.asp?playerID=121170 | title = Pius Heinz | access-date = November 9, 2011 | publisher=[[World Series of Poker]]}}</ref>
+|-
+| [[Image:Greg Merson 2015.jpg|75px]]
+|align="center"| [[2012 World Series of Poker|2012]]
+|align="center"| {{sortname|Greg|Merson}}
+|align="center"| —
+|align="center"|{{cards|Kd|5d}}
+| {{nts|8531853}}
+|align="center"| {{nts|6598}}
+| {{nts|10174029}}
+|align="center"| 2
+|align="center"| Jesse Sylvia
+|align="center"|<ref>{{cite web | url = http://www.wsop.com/players/playerProfile.asp?playerID=38984 | title = Greg Merson | access-date = October 31, 2012 | publisher=[[World Series of Poker]]}}</ref>
+|-
+| [[File:Ryan Riess 2017.jpg|75px]]
+|align="center"| [[2013 World Series of Poker|2013]]
+|align="center"| {{sortname|Ryan|Riess}}
+|align="center"| Riess the Beast
+|align="center"|{{cards|Ah|Kh}}
+| {{nts|8361570}}
+|align="center"| {{nts|6352}}
+| {{nts|8920672}}
+|align="center"| 1
+|align="center"| Jay Farber
+|align="center"|<ref>{{cite web | url = http://www.wsop.com/players/playerProfile.asp?playerID=159541&pagecolor=FFFFFF | title = Ryan Riess | access-date = October 31, 2012 | publisher=[[World Series of Poker]]}}</ref>
+|-
+| [[File:Martin Jacobson 2015.jpg|75px]]
+|align="center"| [[2014 World Series of Poker|2014]]
+|align="center"| {{sortname|Martin|Jacobson}}
+|align="center"| NosbocajM
+|align="center"|{{cards|10h|10d}}
+| {{nts|10000000}}
+|align="center"| {{nts|6683}}
+| {{nts|12102232}}
+|align="center"| 1
+|align="center"| {{sortname|Felix|Stephensen}}
+|align="center"|<ref>{{cite web | url = http://www.wsop.com/players/playerprofile.asp?playerID=52681&pagecolor=FFFFFF | title = Martin Jacobson | access-date = November 12, 2014 | publisher=[[World Series of Poker]]}}</ref>
+|-
+| [[File:Joe McKeehen 2015.jpg|75px]]
+|align="center"| [[2015 World Series of Poker|2015]]
+|align="center"| {{sortname|Joe|McKeehen}}
+|align="center"| —
+|align="center"|{{cards|Ah|10d}}
+| {{nts|7683346}}
+|align="center"| {{nts|6420}}
+| {{nts|10480861}}
+|align="center"| 3
+|align="center"| Joshua Beckley
+|align="center"|<ref>{{cite web | url = http://www.wsop.com/players/playerprofile.asp?playerID=153786&pagecolor=FFFFFF | title = Joe McKeehen | access-date = November 12, 2014 | publisher=[[World Series of Poker]]}}</ref>
+|-
+|[[File:Qui_Nguyen_2016.jpg|75px]]
+|align="center"|[[2016 World Series of Poker|2016]]
+|align="center"| {{sortname|Qui|Nguyen|Qui Nguyen (poker player)}}
+|align="center"| Tommy Gun
+|align="center"|{{cards|Kc|10c}}
+| {{nts|8005310}}
+|align="center"|{{nts|6737}}
+|{{nts|8022287}}
+|align="center"|1
+|align="center"| Gordon Vayo
+|align="center"|<ref>{{cite web|url=http://www.wsop.com/players/playerprofile.asp?playerID=38973|title=Qui Nguyen|access-date=2016-11-02|publisher=World Series of Poker}}</ref>
+|-
+| [[File:Scott Blumstein 2017.jpg|75px]]
+|align="center"|[[2017 World Series of Poker|2017]]
+|align="center"| {{sortname|Scott|Blumstein|Scott Blumstein}}
+|align="center"| —
+|align="center"|{{cards|Ah|2d}}
+| {{nts|8150000}}
+|align="center"|{{nts|7221}}
+|{{nts|8155227}}
+|align="center"|1
+|align="center"| Dan Ott
+|align="center"|<ref>{{cite web|url=http://www.wsop.com/players/profile/?playerID=203486|title=Scott Blumstein|access-date=2017-07-23|publisher=World Series of Poker}}</ref>
+|-
+| [[File:John Cynn 2018.jpg|75px]]
+|align="center"|[[2018 World Series of Poker|2018]]
+|align="center"| {{sortname|John|Cynn|John Cynn}}
+|align="center"| —
+|align="center"|{{cards|Kc|Jc}}
+| {{nts|8800000}}
+|align="center"|{{nts|7874}}
+|{{nts|9513071}}
+|align="center"|1
+|align="center"|{{sortname|Tony|Miles|Tony Miles (poker player)}}
+|align="center"|<ref>{{cite web|url=http://www.wsop.com/players/profile/?playerid=110670|title=John Cynn|access-date=2018-07-15|publisher=World Series of Poker}}</ref>
+|-
+|{{N/A}}
+|align="center"|[[2019 World Series of Poker|2019]]
+|align="center"| {{sortname|Hossein|Ensan|Hossein Ensan}}
+|align="center"| —
+|align="center"|{{cards|Kh|Kc}}
+| {{nts|10000000}}
+|align="center"|{{nts|8569}}
+|{{nts|10233973}}
+|align="center"|1
+|align="center"|{{sortname|Dario|Sammartino|Dario Sammartino}}
+|align="center"|<ref name="Hossein Ensan">{{cite web|url=http://www.wsop.com/players/profile/?playerid=208587|title=Hossein Ensan|access-date=2019-07-17|publisher=World Series of Poker}}</ref>
+|-
+|[[File:Damian Salas 2018.jpg|75px]]
+|align="center"|[[2020 World Series of Poker|2020]]
+|align="center"| {{sortname|Damian|Salas|Damian Salas}}
+|align="center"| —
+|align="center"|{{cards|Kd|Js}}
+| {{nts|2,550,969}}
+|align="center"|{{nts|1,379}}
+|{{nts|5,553,433}}
+|align="center"|1
+|align="center"| Brunno Botteon
+|align="center"|<ref>{{cite web|url=https://www.wsop.com/players/profile/?playerID=62822|title=Damian Salas|access-date=2021-01-04|publisher=World Series of Poker}}</ref>
+|-
+|[[File:Koray_Aldemir_2017.jpg|75px]]
+|align="center"|[[2021 World Series of Poker|2021]]
+|align="center"| {{sortname|Koray|Aldemir|Koray Aldemir}}
+|align="center"| —
+|align="center"|{{cards|Td|7d}}
+| {{nts|8,000,000}}
+|align="center"|{{nts|6,650}}
+|{{nts|20,334,110}}
+|align="center"|1
+|align="center"| George Holmes
+|align="center"|<ref>{{cite web|url=https://www.wsop.com/players/profile/?playerid=190290|title=Koray Aldemir|access-date=2021-11-21|publisher=World Series of Poker. 2022 - ESPEN JORSTAD }}</ref>
+|-
+|{{N/A}}
+|align="center"|[[2022 World Series of Poker|2022]]
+|align="center"| {{sortname|Espen|Jørstad|Espen Jørstad}}
+|align="center"| —
+|align="center"|{{cards|Qd|2s}}
+| {{nts|10,000,000}}
+|align="center"|{{nts|8,663}}
+|{{nts|10,271,872}}
+|align="center"|2
+|align="center"| Adrian Attenborough
+|align="center"|<ref>{{cite web|url=https://www.wsop.com/players/profile/?playerID=294565|title=Espen Jorstad|access-date=2022-07-17|publisher=World Series of Poker}}</ref>
+|-
+|[[File:Daniel Weinman WPT Tournament of Champions 2017.jpg|75px]]
+|align="center"|[[2023 World Series of Poker|2023]]
+|align="center"| {{sortname|Daniel|Weinman|Daniel Weinman}}
+|align="center"| —
+|align="center"|{{cards|Kc|Jd}}
+| {{nts|12,100,000}}
+|align="center"|{{nts|10,043}}
+|{{nts|11,478,432}}
+|align="center"|2
+|align="center"|{{sortname|Steven|Jones|Steven Jones (poker player)}}
+|align="center"|<ref>{{cite web|title=Daniel Jay Weinman &#124; USA |url=https://www.wsop.com/players/profile/?playerid=100002|access-date=2022-07-17|publisher=World Series of Poker}}</ref>
+|-
+|{{N/A}}
+|align="center"|[[2024 World Series of Poker|2024]]
+|align="center"| {{sortname|Jonathan|Tamayo|Jonathan Tamayo}}
+|align="center"| The Wizard
+|align="center"|{{cards|8d|3s}}
+| {{nts|10,000,000}}
+|align="center"|{{nts|10,112}}
+|{{nts|14,255,111}}
+|align="center"|1
+|align="center"| Jordan Griff
+|align="center"|<ref>{{cite web|title=Jonathan Tamayo &#124; USA |url=https://www.wsop.com/players/profile/?playerid=24011|access-date=2022-07-17|publisher=World Series of Poker}}</ref>
+|-
+|[[File:Michael Mizrachi 2025 2.jpg|75px]]
+|align="center"|[[2025 World Series of Poker|2025]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Michael|Mizrachi|Michael Mizrachi}}
+|align="center"| The Grinder
+|align="center"|{{cards|10c|3c}}
+| {{nts|10,000,000}}
+|align="center"|{{nts|9,735}}
+|{{nts|29,013,562}}
+|align="center"|8
+|align="center"| John Wasnock
+|align="center"|<ref>{{cite web|title=Michael "The Grinder" Mizrachi Ascends to Legendary Status with 2025 WSOP Main Event Title |date=July 16, 2025 |url=https://www.pokernews.com/news/2025/07/michael-mizrachi-wins-2025-wsop-main-event-49219.htm|access-date=2025-07-17|publisher=PokerNews}} }}</ref>
+
+|-
+
+|{{N/A}}
+
+|align="center"|[[2026 World Series of Poker|2026]]
+
+|align="center"|{{sortname|Lucas|Jumalon}}
+|align="center"|—
+|align="center"|{{cards|Ks|6d}}
+|{{nts|10,000,000}}
+|align="center"|{{nts|9,208}}
+|{{nts|10,180,888}}
+|align="center"|1
+|align="center"|{{sortname|Lauri|Sääskilahti}}
+|align="center"|<ref>{{cite news
+|title=Lucas Jumalon
+|url=
+<!--|access-date=2026-08-05-->
+|publisher=World Series of Poker
+}}</ref>
+
+|}
+
+===World Series of Poker Europe Main Event===
+The [[World Series of Poker Europe]] (WSOPE) is the first expansion effort of [[World Series of Poker]]-branded [[poker]] [[poker tournament|tournaments]] outside the United States. Since 1970, the bracelet events have occurred every year in [[Las Vegas Valley|Las Vegas]]. The inaugural WSOPE, held in 2007, marked the first time that a [[World Series of Poker bracelet|WSOP bracelet]] was awarded outside Las Vegas.<ref name = "Gaming">{{cite web|url=http://www.igamingbusiness.com/article-detail.php?articleID=12961 |title=Harrah's Set to Launch World Series of Poker Europe|date = February 27, 2007 |access-date=2007-07-25|work=Gaming Business|publisher=iGamingBusiness.com |archive-url = https://web.archive.org/web/20070930055513/http://www.igamingbusiness.com/article-detail.php?articleID=12961 <!-- Bot retrieved archive --> |archive-date = 2007-09-30}}</ref> The 2007 Main Event, a [[pound sterling|GBP]] 10,000 buy-in no-limit hold 'em tournament, was won by [[Norway|Norwegian]] player [[Annette Obrestad]] on the day before her 19th birthday. This made her the youngest person to win a WSOP bracelet, a record that cannot be broken in the Las Vegas WSOP under current laws because the minimum legal age for casino gaming in [[Nevada]] is 21. Obrestad could play in the WSOPE because the minimum age for casino gaming in the [[United Kingdom]] is 18. The World Series of Poker [[Europe]] has a unique identity from the Las Vegas WSOP, but according to Harrah's will remain true to the traditions and heritage.<ref name = "Gaming" /> The 2011 WSOP Europe main event was an 8-handed event.<ref>{{cite web|url=http://www.wsop.com/tournaments/results.asp?grid=827&tid=11617|title=2011 World Series of Poker Europe: Saturday, October 15, 2011 to Wednesday, October 19, 2011: Event #7: WSOPE Main Event Championship|access-date=2011-10-21|date=October 20, 2011|publisher=[[World Series of Poker]]}}</ref>
+
+{| class="wikitable sortable" width="100%"s style="font-size: 95%"
+! class="unsortable"| Image
+! Year
+! Winner
+! class="unsortable"| Nickname
+! class="unsortable"| Hand
+! Prize
+! Entrants<ref name = "bracelet" />
+! Total tournament<br />earnings
+! [[World Series of Poker bracelet|WSOP bracelets]]
+! Runner-up
+! class="unsortable"| Ref.
+|-
+| [[Image:Annette Obrestad1 EPT.jpg|75px]]
+|align="center"| [[2007 World Series of Poker Europe results|2007]]
+|align="center"|{{sortname|Annette|Obrestad}}{{efn|name=Annette|Annette Obrestad won the WSOPE at the age of {{age in years and days|1988|9|18|2007|9|17}}, making her the youngest person to have won a WSOP bracelet.  She is also the first woman to have won a Main Event tournament and in 2007 was considered to be one of the best online multi-table tournament players in the world.<ref name = "annettename">{{cite web|url=http://www.worldseriesofpoker.com/tourney/updates_pn.asp?tourneyID=3572&groupid=316|title=World Series of Poker Live Results Reporting|work=WSOP|access-date=2007-07-17|publisher=Harrah's Casino|archive-url=https://web.archive.org/web/20080417044214/http://www.worldseriesofpoker.com/tourney/updates_pn.asp?tourneyID=3572&groupid=316|archive-date=2008-04-17|url-status=dead}}</ref>}}
+|align="center"| Annette_15<ref name = "annettename" />
+|align="center"|{{cards|7h|7s}}
+| £{{nts|1000000}}
+|align="center"| 362
+| ${{nts|2086437}}
+|align="center"| 1
+|align="center"| {{sortname|John|Tabatabai}}
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=34486&pagecolor=FFFFFF|work=World Series of Poker|title=Annette Obrestad|access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:John Juanda 2008.jpg|75px]]
+|align="center"| [[2008 World Series of Poker Europe Results|2008]]{{efn|name=WSOPE08|The final table at the 2008 WSOPE Main Event was the longest final table in the WSOP history. It lasted 22 hours (a WSOP record) and 434 hands (a WSOP record).<ref>{{cite web|url=http://betting.betfair.com/poker/wsop-europe/john-juanda-wins-wsope-2008-main-event-031008.html|archive-url=https://web.archive.org/web/20081006031149/http://betting.betfair.com/poker/wsop-europe/john-juanda-wins-wsope-2008-main-event-031008.html|url-status=dead|archive-date=2008-10-06|title=John Juanda wins WSOPE 2008 Main Event|work=betfair.com|access-date=2009-01-17|publisher=Betfair}}</ref>}}
+|align="center" bgcolor="FFFF99"| {{sortname|John|Juanda}}
+|align="center"| JJ<br>or<br>Luckbox
+|align="center"|{{cards|Ks|6c}}
+| £{{nts|868800}}
+|align="center"| 362
+| ${{nts|4825816 }}
+| align="center" | 5
+|align="center"| Stanislav Alekhin
+|align="center"|<ref>{{cite web|url=http://www.worldseriesofpoker.com/players/playerProfile.asp?playerID=261&pagecolor=FFFFFF |work=World Series of Poker|title=John Juanda |access-date=2009-01-21|publisher=Harrah's Casino}}</ref>
+|-
+| [[Image:Barry Shulman.jpg|75px]]
+|align="center"| [[2009 World Series of Poker Europe|2009]]
+|align="center"| {{sortname|Barry|Shulman}}
+|align="center"| —
+|align="center"|{{cards|10s|10c}}
+| £{{nts|801603}}
+|align="center"| 334
+| —
+|align="center"| 2
+|align="center" bgcolor="#FFFF99"| {{sortname|Daniel|Negreanu}}
+|align="center"|
+|-
+|{{N/A}} 
+|align="center"| [[2010 World Series of Poker Europe|2010]]
+|align="center"| {{sortname|James|Bord}}
+|align="center"| —
+|align="center"|{{cards|10d|10h}}
+| £{{nts|830401}}
+|align="center"| 346
+| —
+|align="center"| 1
+|align="center"| Fabrizio Baldassari
+|align="center"|
+|-
+| [[Image:Elio Fox 2019.jpg|75px]]
+|align="center"| [[2011 World Series of Poker Europe|2011]]
+|align="center"| {{sortname|Elio|Fox}}
+|align="center"| smokrockflock
+|align="center"|{{cards|Ad|10s}}
+| €{{nts|1400000}}
+|align="center"| 593
+| —
+|align="center"| 1
+|align="center"| {{sortname|Chris|Moorman}}
+|align="center"|
+|-
+| [[Image:Phil Hellmuth.jpg|75px]]
+|align="center"| [[2012 World Series of Poker Europe|2012]]
+|align="center" bgcolor="#FFFF99"| {{sortname|Phil|Hellmuth}}{{efn|name=Hellmuth|At the [[2012 World Series of Poker Europe]] Main Event, Hellmuth won his record-breaking 13th bracelet. This also made him the first player ever to win the Main Events at both the WSOP and WSOPE.<ref name="PNWSOPE13"/> Hellmuth also holds the records for most WSOP cashes (100) and most WSOP final tables (53).<ref name = "Espnrecords">{{cite web|url=https://www.espn.com/espn/poker/columns/story?columnist=wise_gary&id=3629313|title=Hellmuth's legacy?|work=espn.com|date=October 6, 2008 |access-date= January 20, 2009|publisher=ESPN}}</ref>}}
+|align="center"| The Poker Brat
+|align="center"|{{cards|Ah|10d}}
+| €{{nts|1022376}}
+|align="center"| {{nts|420}}
+| ${{nts|14026167}}
+|align="center"| 17
+|align="center"| Sergii Baranov
+|align="center"|<ref name="PNWSOPE13">{{cite web | url = http://www.pokernews.com/news/2012/10/phil-hellmuth-wins-2012-world-series-of-poker-europe-13546.htm | title = Phil Hellmuth Wins 2012 World Series of Poker Europe Main Event; Watson Wins High Roller | access-date = October 5, 2012 | last = Cahlik | first = Josh |author2=Donnie Peters  | date = October 4, 2012 | work = PokerNews.com}}</ref>
+|-
+| [[Image:Adrián Mateos 2019.jpg|75px]]
+|align="center"| [[2013 World Series of Poker Europe results|2013]]
+|align="center"| {{sortname|Adrián|Mateos}}
+|align="center"| Amadi_017
+|align="center"|{{cards|As|Kc}}
+| £{{nts|1000000}}
+|align="center"| 375
+| ${{nts|5,010,189}}
+| align="center" | 1
+|align="center"| {{sortname|Fabrice|Soulier}}
+|align="center"|<ref>{{cite web|title=The Official WSOP Live Updates: Main Event – No-Limit Hold'em |url=http://www.wsop.com/tournaments/results.asp?tid=12994&grid=1046}}</ref>
+|-
+|{{N/A}}
+|align="center"| [[2015 World Series of Poker Europe results|2015]]
+|align="center"| {{sortname|Kevin|MacPhee}}
+|align="center"|ImaLuckSac
+|align="center"|{{cards|Ad|4d}}
+| £{{nts|883000}}
+|align="center"|313
+|${{nts|5456298}}
+|align="center"|2
+|align="center"| David Lopez
+|align="center"|<ref>{{cite web|url=http://www.wsop.com/players/playerProfile.asp?playerID=35474|title=Kevin MacPhee|access-date=2016-11-02|publisher=World Series of Poker}}</ref>
+|-
+| [[Image:Martí Roca de Torres 2017.jpg|75px]]
+|align="center"| [[2017 World Series of Poker Europe results|2017]]
+|align="center"| {{sortname|Marti Roca|de Torres}}
+|align="center"| Iquinze
+|align="center"|{{cards|Qh|5d}}
+| €{{nts|1115207}}
+|align="center"| 529
+| ${{nts|1295566 }}
+| align="center" | 1
+|align="center"| Gianluca Speranza
+|
+|-
+|{{N/A}}
+|align="center"| [[2018 World Series of Poker Europe results|2018]]
+|align="center"| {{sortname|Jack|Sinclair|Jack Sinclair (poker player)}}
+|align="center"| Swaggersorus
+|align="center"|{{cards|Qh|9c}}
+| €{{nts|1122239}}
+|align="center"| 534
+| ${{nts|3393632}}
+| align="center" | 1
+|align="center"| Laszlo Bujtas
+|
+|-
+| [[Image:Alexandros Kolonias 2019.jpg|75px]]
+|align="center"| [[2019 World Series of Poker Europe results|2019]]
+|align="center"| Alexandros Kolonias
+|align="center"| mexican222
+|align="center"|{{cards|As|Ks}}
+| €{{nts|1,133,678}}
+|align="center"| 541
+| ${{nts|1469612}}
+| align="center" | 1
+|align="center"| Claas Segebrecht
+|
+|-
+| {{N/A}}
+|align="center"| [[2021 World Series of Poker Europe results|2021]]
+|align="center"| Josef Gulas Jr
+|align="center"| 
+|align="center"|{{cards|Ad|8s}}
+| €{{nts|1,276,712}} 
+|align="center"| 688
+|
+|
+|align="center" | {{sortname|Johan|Guilbert}}
+|align="center"| 
+|-
+| {{N/A}}
+|align="center"| [[2022 World Series of Poker Europe results|2022]]
+|align="center"| Omar Eljach
+|align="center"| 
+|align="center"|{{cards|Qs|Qd}}
+| €{{nts|1,380,128}} 
+|align="center"| 763
+|
+|
+|align="center" | Jonathan Pastore
+|align="center"| 
+|-
+| {{N/A}}
+|align="center"| [[2023 World Series of Poker Europe results|2023]]
+|align="center"| Max Neugebauer
+|align="center"| 
+|align="center"|{{cards|Js|8c}}
+| €{{nts|1,500,000}} 
+|align="center"| 817
+|
+|
+|align="center" | Eric Tsai
+|align="center"| 
+|-
+| {{N/A}}
+|align="center"| [[2024 World Series of Poker Europe results|2024]]
+|align="center"| Simone Andrian
+|align="center"| 
+|align="center"|{{cards|10h|10c}}
+| €{{nts|1,300,000}} 
+|align="center"| 768
+|
+|
+|align="center" | Urmo Velvelt
+|
+|-
+| {{N/A}}
+|align="center"| [[2025 World Series of Poker Europe results|2025]]
+|align="center"| Daniel Pidun
+|align="center"| 
+|align="center"|{{cards|Ac|Ah}}
+| €{{nts|1,140,000}} 
+|align="center"| 659
+|
+|align="center"|
+|align="center"| Gerald Karlic
+|align="center"|<ref>{{cite web |last1=Salituro |first1=David |title=Daniel Pidun Closes Book on Rozvadov With 2025 WSOP Europe Main Event Title |url=https://www.pokernews.com/news/2025/10/daniel-pidun-wins-2025-wsop-europe-main-event-49824.htm |website=PokerNews.com |access-date=23 April 2026}}</ref>
+|-
+| {{N/A}}
+|align="center"| [[2026 World Series of Poker Europe results|2026]]
+|align="center"| Marius Kudzmanas
+|align="center"|
+|align="center"|{{cards|7d|6c}}
+| €{{nts|2,000,000}}
+|align="center"| 2,617
+|
+|align="center"|
+|align="center"| Akihiro Konishi
+|align="center"|<ref>{{cite web |last=Grant |first=Calum |title=Marius Kudzmanas Cracks Kings With 6-7 to Win Historic WSOPE Main Event |url=https://www.pokernews.com/news/2026/04/marius-kudzmanas-wins-wsop-europe-main-event-51022.htm?utm_source=search&utm_medium=hub |website=PokerNews.com |access-date=23 April 2026}}</ref>
+|}
+
+===World Series of Poker Asia Pacific Main Event===
+The [[World Series of Poker Asia Pacific]] (WSOP APAC) is the most recent expansion of World Series of Poker-branded tournaments outside the United States. On April 30, 2012, WSOP owner [[Caesars Entertainment Corporation|Caesars Entertainment]] and [[Australia]]n casino [[Crown Casino and Entertainment Complex|Crown Melbourne]] announced that the first WSOP APAC would be launched with five bracelet events in April 2013.<ref name="WSOP APAC">{{cite press release|url=http://www.wsop.com/news/2012/May/3761/WSOP-ANNOUNCES-PARTNERSHIP-WITH-CROWN-FOR-APRIL-2013-EVENT-IN-MELBOURNE-AUSTRALIA.html |title=WSOP Announces Partnership With Crown for April 2013 Event in Melbourne, Australia |publisher=World Series of Poker |date=April 30, 2012 |access-date=May 10, 2012}}</ref>
+
+{| class="wikitable sortable" width="100%"s style="font-size: 95%"
+! class="unsortable"| Image
+! Year
+! Winner
+! class="unsortable"| Nickname
+! class="unsortable"| Hand
+! Prize ([[Australian dollar|A$]])
+! Entrants
+! Total tournament<br />earnings ([[United States dollar|US$]])
+! [[World Series of Poker bracelet|WSOP bracelets]]
+! Runner-up
+! class="unsortable"| Ref.
+|-
+| [[File:Daniel Negreanu 2007.jpg|75px]]
+|align="center"| [[2013 World Series of Poker Asia Pacific|2013]]
+|align="center" bgcolor="FFFF99"|{{sortname|Daniel|Negreanu}}
+|align="center"| Kid Poker<ref>{{cite web |url=http://www.unknownpoker.com/players/daniel-negreanu.htm |title=How Daniel Negreanu Became "Kid Poker" |publisher=UnknownPoker.com |date=January 7, 2006 |access-date=June 10, 2013 |url-status=dead|archive-url=https://web.archive.org/web/20130618191322/http://www.unknownpoker.com/players/daniel-negreanu.htm |archive-date=June 18, 2013 }}</ref>
+|align="center"| {{cards|2s|2h}}
+| {{nts|1038825}}
+|align="center"| 405<ref name="Feldman 2013-04-15">{{cite web|url=https://www.espn.com/poker/story/_/id/9173209/wsop-asia-pacific-2013-daniel-negreanu-wins-main-event |title=Negreanu wins APAC main event |first=Andrew |last=Feldman |work=[[ESPN.com]] |date=April 15, 2013 |access-date=June 10, 2013}}</ref>
+| {{nts|16346486}}
+|align="center"| 6
+|align="center"| Daniel Marton
+|align="center"|<ref name="Feldman 2013-04-15"/><ref>{{cite web|url=http://www.pokerstarsblog.com/2013/daniel-negreanu-wins-wsop-apac-1m-and-br-132273.html |title=Daniel Negreanu wins WSOP APAC, $1m and bracelet number five |first=Rick |last=Dacey |publisher=[[PokerStars|PokerStars Blog]] |date=April 15, 2013 |access-date=June 10, 2013}}</ref>
+|-
+| [[Image:Scott Davies 2017.jpg|75px]]
+|align="center"| [[2014 World Series of Poker Asia Pacific|2014]]
+|align="center"|Scott Davies
+|align="center"| Big Papi
+|align="center"|{{cards|6d|6s}}
+| {{nts|850136}}
+|align="center"|329
+| {{nts|1653593}}
+|align="center"|1
+|align="center"| Jack Salter
+|align="center"|<ref>{{cite web|url=http://www.wsop.com/players/playerprofile.asp?playerID=88198|title=Scott Davies|access-date=2016-11-02|publisher=World Series of Poker}}</ref>
+|}
+
+===World Series of Poker Online Main Event===
+
+Due to the [[COVID-19 pandemic]], in 2020 the World Series of Poker held an online poker series.
+
+{| class="wikitable sortable" width="100%"s  style="font-size: 95%"
+! class="unsortable"| Image
+! Year
+! Winner
+! class="unsortable"| Nickname
+! class="unsortable"| Hand
+! Prize (US$)
+! Entrants<ref name="bracelet"/>
+! Total tournament<br />earnings (US$)
+! [[World Series of Poker bracelet|WSOP bracelets]]
+! Runner-up
+! class="unsortable"| Ref.
+|-
+|
+|align="center"|[[2020 World Series of Poker Online|2020]]{{efn|name=GamblingAct|The [[Unlawful Internet Gambling Enforcement Act of 2006]] curtailed online gambling in the United States.<ref>{{cite web|url=http://www.nbcnews.com/id/15240569|archive-url=https://web.archive.org/web/20130608230026/http://www.nbcnews.com/id/15240569|url-status=dead|archive-date=June 8, 2013|title=Will ban end Internet gambling? Don't bet on it|work=NBC News|last=Brunker|first=Mike|access-date=2009-01-20|date=October 17, 2006}}</ref>}}
+|align="center"| Stoyan Madanzhiev
+|align="center"| —
+|align="center"|{{cards|7d|6h}}
+| {{nts|3,904,686}}
+|align="center"|{{nts|5,802}}
+|{{nts|3,935,954}}
+|align="center"|1
+|align="center"| Wenling Gao
+|align="center"|<ref name="Hossein Ensan"/>
+|-
+|
+|align="center"|[[2021 World Series of Poker Online|2021]]
+|align="center"| Aleksei Vandyshev
+|align="center"| —
+|align="center"|
+| {{nts|2,543,073}}
+|align="center"|{{nts|4,092}}
+|
+|align="center"|
+|align="center"| Edson Tsutsumi
+|align="center"|
+|-
+|
+|align="center"|[[2022 World Series of Poker Online|2022]]
+|align="center"| Simon Eric Mattsson
+|align="center"| —
+|align="center"|
+| {{nts|2,793,574}}
+|align="center"|{{nts|4,984}}
+|
+|align="center"|
+|align="center"| Kannapong Thanarattrakul
+|align="center"|
+|-
+|
+|align="center"|[[2023 World Series of Poker Online|2023]]
+|align="center"| Bert Stevens
+|align="center"| Girafganger7
+|align="center"|
+| {{nts|2,783,433}}
+|align="center"|{{nts|5,742}}
+|
+|align="center"|
+|align="center"| Yagen Li
+|align="center"|
+|-
+|
+|align="center"|[[2024 World Series of Poker Online|2024]]
+|align="center"| Moritz Dietrich
+|align="center"| 
+|align="center"|
+| {{nts|4,021,012}}
+|align="center"|{{nts|6,146}}
+|
+|align="center"|
+|align="center"| Evgenii Akimov
+|align="center"|
+|-
+|
+|align="center"|[[2025 World Series of Poker Online|2025]]
+|align="center"| Benjamin Rolle
+|align="center"| 
+|align="center"|
+| {{nts|3,900,707}}
+|align="center"|{{nts|5,961}}
+|
+|align="center"|
+|align="center"| Anatoly Zlotnikov
+|align="center"|
+|}<ref>{{cite web |last=Boyer |first=Tyler |title=Redemption for Benjamin Rolle in WSOP Online Main Event Win for $3.9 Million |url=https://www.pokernews.com/news/2025/09/redemption-for-benjamin-rolle-in-wsop-online-main-event-49718.htm |website=PokerNews |date=September 23, 2025 |access-date=June 17, 2026}}</ref>
+
+==Players with multiple WSOP Main Event Final Table appearances==
+This is a list of players who have reached the Final Table at the WSOP Main Event at least twice. Does not include results from WSOP Europe, WSOP Asia Pacific or WSOP Online.
+{|class="wikitable"
+|style="background-color:#FFFF99; width:6em;"|
+|Elected to the [[Poker Hall of Fame]].
+|}
+{| class="wikitable sortable"
+! Player
+! Championships
+! Final Tables
+! Years/Finish
+
+|-
+|[[Jesse Alto]]
+|align=center|0
+|align=center|8
+|align=center|1974 (4th), 1975 (6th), 1976 (2nd), 1978 (5th), 1984 (3rd), 1985 (6th), 1986 (4th), 1988 (9th)
+|-
+|style="background-color:#FFFF99"|[[Johnny Moss]]
+|align=center|3
+|align=center|7
+|align=center|'''1970''', '''1971 (1st)''', 1972 (6th), 1973 (2nd), '''1974 (1st)''', 1979 (5th), 1980 (4th), 1985 (7th) 
+|-
+|style="background-color:#FFFF99"|[[Doyle Brunson]]
+|align=center|2
+|align=center|7
+|align=center|1971 (3rd), 1972 (3rd), '''1976 (1st)''', '''1977 (1st)''', 1980 (2nd), 1982 (4th), 1983 (3rd) 
+|-
+|style="background-color:#FFFF99"|[[Crandell Addington]]
+|align=center|0
+|align=center|7
+|align=center|1972 (4th), 1973 (9th), 1974 (2nd), 1975 (3rd), 1976 (4th), 1978 (2nd), 1979 (7th)
+|-
+|style="background-color:#FFFF99"|[[Sailor Roberts]]
+|align=center|1
+|align=center|6
+|align=center|1971 (6th), 1973 (6th), 1974 (3rd), '''1975 (1st)''', 1977 (5th), 1982 (8th) 
+|-
+|style="background-color:#FFFF99"|[[Stu Ungar]]
+|align=center|3
+|align=center|4
+|align=center|'''1980 (1st)''', '''1981 (1st)''', 1990 (9th), '''1997 (1st)'''
+|-
+|style="background-color:#FFFF99"|[[Johnny Chan]]
+|align=center|2
+|align=center|4
+|align=center|'''1987 (1st)''', '''1988 (1st)''', 1989 (2nd), 1992 (7th) 
+|-
+|style="background-color:#FFFF99"|[[Dan Harrington]]
+|align=center|1
+|align=center|4
+|align=center|1987 (6th), '''1995 (1st)''', 2003 (3rd), 2004 (4th)
+|-
+|style="background-color:#FFFF99"|[[Berry Johnston]]
+|align=center|1
+|align=center|4
+|align=center|1982 (3rd), 1985 (3rd), '''1986 (1st)''', 1990 (5th) 
+|-
+|style="background-color:#FFFF99"|[[Jack Straus]]
+|align=center|1
+|align=center|4
+|align=center|1971 (2nd), 1972 (5th), 1973 (3rd),'''1982 (1st)'''  
+|-
+|style="background-color:#FFFF99"|[[T.J. Cloutier]]
+|align=center|0
+|align=center|4
+|align=center|1985 (2nd), 1988 (5th), 1998 (3rd), 2000 (2nd) 
+|-
+|Bob Hooks
+|align=center|0
+|align=center|4
+|align=center|1973 (5th), 1974 (6th), 1975 (2nd), 1976 (5th)
+|-
+|[[Hamid Dastmalchi]]
+|align=center|1
+|align=center|3
+|align=center|1985 (5th), '''1992 (1st)''', 1995 (4th)
+|-
+|style="background-color:#FFFF99"|[[Jack Keller (poker player)|Jack Keller]]
+|align=center|1
+|align=center|3
+|align=center|'''1984 (1st)''', 1987 (9th), 1992 (8th)
+|-
+|style="background-color:#FFFF99"|[[Puggy Pearson]]
+|align=center|1
+|align=center|3
+|align=center|1971 (5th), 1972 (2nd), '''1973 (1st)'''
+|-
+|[[Bill Smith (poker player)|Bill Smith]]
+|align=center|1
+|align=center|3
+|align=center|1981 (5th), '''1985 (1st)''', 1986 (5th)
+|-
+|John Bonetti
+|align=center|0
+|align=center|3
+|align=center|1990 (8th), 1990 (3rd), 1996 (3rd)
+|-
+|[[Jimmy Casella]]
+|align=center|0
+|align=center|3
+|align=center|1971 (4th), 1972 (8th), 1973 (7th)
+|-
+|[[Al Krux]]
+|align=center|0
+|align=center|3
+|align=center|1990 (6th), 1994 (5th), 2004 (6th)
+|-
+|Steve Lott
+|align=center|0
+|align=center|3
+|align=center|1986 (7th), 1989 (4th), 1994 (9th)
+|-
+|style="background-color:#FFFF99"|[[Bobby Baldwin]]
+|align=center|1
+|align=center|2
+|align=center|'''1978 (1st)''', 1981 (7th)
+|-
+|[[Jim Bechtel]]
+|align=center|1
+|align=center|2
+|align=center|1988 (6th), '''1993 (1st)''' 
+|-
+|[[Joe Cada]]
+|align=center|1
+|align=center|2
+|align=center|'''2009 (1st)''', 2018 (5th)
+|-
+|[[Brad Daugherty (poker player)|Brad Daugherty]]
+|align=center|1
+|align=center|2
+|align=center|'''1991 (1st)''', 1993 (9th)
+|-
+|[[Noel Furlong]]
+|align=center|1
+|align=center|2
+|align=center|1989 (6th), '''1999 (1st)'''  
+|-
+|style="background-color:#FFFF99"|[[Phil Hellmuth]]
+|align=center|1
+|align=center|2
+|align=center|'''1989 (1st)''', 2001 (5th)
+|-
+|[[Mansour Matloubi]]
+|align=center|1
+|align=center|2
+|align=center|'''1990 (1st)''', 1993 (4th) 
+|-
+|style="background-color:#FFFF99"|[[Michael Mizrachi]]
+|align=center|1
+|align=center|2
+|align=center|2010 (5th), '''2025 (1st)''' 
+|-
+|[[Damian Salas]]
+|align=center|1
+|align=center|2
+|align=center|2017 (7th), '''2020 (1st)''' 
+|-
+|style="background-color:#FFFF99"|[[Huck Seed]]
+|align=center|1
+|align=center|2
+|align=center|'''1996 (1st)''', 1999 (6th)
+|-
+|[[Mickey Appleman]]
+|align=center|0
+|align=center|2
+|align=center|1987 (8th), 2000 (9th) 
+|-
+|[[Gary Berland]]
+|align=center|0
+|align=center|2
+|align=center|1977 (2nd), 1986 (3rd) 
+|-
+|Dave Crunkleton
+|align=center|0
+|align=center|2
+|align=center|1990 (3rd), 1992 (5th) 
+|-
+|Fernando Fisdel
+|align=center|0
+|align=center|2
+|align=center|1989 (7th), 1996 (8th) 
+|-
+|[[Tom Franklin (poker player)|Tom Franklin]]
+|align=center|0
+|align=center|2
+|align=center|1995 (7th), 2000 (8th) 
+|-
+|[[Perry Green (poker player)|Perry Green]]
+|align=center|0
+|align=center|2
+|align=center|1981 (2nd), 1991 (5th) 
+|-
+|Kenny Hallaert
+|align=center|0
+|align=center|2
+|align=center|2016 (6th), 2025 (4th) 
+|-
+|[[Jay Heimowitz]]
+|align=center|0
+|align=center|2
+|align=center|1980 (3rd), 1981 (6th) 
+|-
+|[[Bobby Hoff]]
+|align=center|0
+|align=center|2
+|align=center|1973 (10th), 1979 (2nd) 
+|-
+|George Huber
+|align=center|0
+|align=center|2
+|align=center|1979 (3rd), 1983 (9th) 
+|-
+|Tom Jacobs
+|align=center|0
+|align=center|2
+|align=center|1986 (9th), 1992 (2nd) 
+|-
+|[[Ben Lamb (poker player)|Ben Lamb]]
+|align=center|0
+|align=center|2
+|align=center|2011 (3rd), 2017 (9th) 
+|-
+|[[Hans Lund]]
+|align=center|0
+|align=center|2
+|align=center|1990 (2nd), 1992 (3rd) 
+|-
+|[[Mike Matusow]]
+|align=center|0
+|align=center|2
+|align=center|2001 (6th), 2005 (9th) 
+|-
+|Sam Moon
+|align=center|0
+|align=center|2
+|align=center|1979 (4th), 1981 (9th) 
+|-
+|[[Mark Newhouse]]
+|align=center|0
+|align=center|2
+|align=center|2013 (9th), 2014 (9th)
+|-
+|[[Donnacha O'Dea]]
+|align=center|0
+|align=center|2
+|align=center|1983 (6th), 1991 (9th)
+|-
+|[[Rod Peate]]
+|align=center|0
+|align=center|2
+|align=center|1983 (2nd), 1990 (7th)
+|-
+|Sam Petrillo
+|align=center|0
+|align=center|2
+|align=center|1979 (8th), 1981 (8th) 
+|-
+|[[Antoine Saout]]
+|align=center|0
+|align=center|2
+|align=center|2009 (3rd), 2017 (5th) 
+|-
+|[[Jeff Shulman]]
+|align=center|0
+|align=center|2
+|align=center|2000 (7th), 2009 (5th) 
+|-
+|style="background-color:#FFFF99"|[[Erik Seidel]]
+|align=center|0
+|align=center|2
+|align=center|1988 (2nd), 1999 (4th)
+|-
+|[[Ken Smith (chess player)|Ken Smith]]
+|align=center|0
+|align=center|2
+|align=center|1978 (6th), 1981 (4th)
+|-
+|style="background-color:#FFFF99"|[[Dewey Tomko]]
+|align=center|0
+|align=center|2
+|align=center|1982 (2nd), 2001 (2nd)
+|-
+|Roger Van Ausdall
+|align=center|0
+|align=center|2
+|align=center|1972 (7th), 1973 (8th)
+|}
+
+==Notes==
+{{notelist}}
+<!-- 
+THESE NOTES HAVE BEEN COPIED UP INTO THE TABLE ABOVE AS PART OF{{efn}} TAGS AND ARE AUTOMATICALLY DISPLAYED WITH HYPERLINKS USING THE {{notelist}} TEMPLATE ABOVE. THEY ARE LEFT HERE WITHIN THESE COMMENT TAGS PURELY AS LEGACY MARK-UP FOR EASY REFERENCE:
+
+{{efn|name=firstWSOP|The first World Series of Poker was not a freeze out tournament, but rather a game with a set start and stop time.  [[Benny Binion]] took a secret ballot that asked the players who the best player was.  According to poker lore, everybody said that they were the best player.  Binion then asked who the second-best player was, and Johnny Moss won.<ref>{{cite web|url=http://www.pokerroom.com/newsroom/news/592/ |title=A History of the WSOP: The Champions |date=June 13, 2007 |access-date=2007-07-17 |work=The Poker Room |url-status=dead|archive-url=https://web.archive.org/web/20071110130623/http://www.pokerroom.com/newsroom/news/592/ |archive-date=2007-11-10 }}</ref>}}
+
+{{efn|name=JackStraus|Jack Straus' 1982 WSOP tournament victory is considered to be one of the greatest comebacks in poker history.  At one point, Straus was down to one chip, and he came back to win.  This victory is considered the origin of the poker saying, "A chip and a chair."  A saying that means that as long as you have a chip and a chair you have a chance.  Modern lore indicates that this happened at the final table, but the 1983 book ''The Biggest Game in Town'' implies this occurred on the first day of the tournament.<ref>{{cite web|url=http://betting.betfair.com/wsop/news/a-chip-and-a-chair-170708.html/|title=A chip and a chair!|work=betfair.com|access-date=2009-01-20|publisher=Betfair|url-status=dead|archive-url=https://web.archive.org/web/20080811003218/http://betting.betfair.com/wsop/news/a-chip-and-a-chair-170708.html|archive-date=2008-08-11}}</ref>}}
+
+{{efn|name=Moneymaker|Chris Moneymaker won the entry into the WSOP Main Event via a $39 online satellite.<ref>{{cite web|url=http://www.pokerstars.com/press/2006-07-24.html |title=PokerStars.com Launches Moneymaker Millionaire Tournament|work=PokerStars.com |date=July 26, 2006 |access-date=2009-01-17|publisher=Rational Enterprises}}</ref>}}
+
+{{efn|name=Cada|Joe Cada is the youngest person to have won the WSOP Main Event.<ref name = "petername" />}}
+
+{{efn|name=Annette|Annette Obrestad won the WSOPE at the age of {{age in years and days|1988|9|18|2007|9|17}}, making her the youngest person to have won a WSOP bracelet.  She is also the first woman to have won a Main Event tournament and in 2007 was considered to be one of the best online multi-table tournament players in the world.<ref name = "annettename">{{cite web|url=http://www.worldseriesofpoker.com/tourney/updates_pn.asp?tourneyID=3572&groupid=316|title=World Series of Poker Live Results Reporting|work=WSOP|access-date=2007-07-17|publisher=Harrah's Casino|archive-url=https://web.archive.org/web/20080417044214/http://www.worldseriesofpoker.com/tourney/updates_pn.asp?tourneyID=3572&groupid=316|archive-date=2008-04-17|url-status=dead}}</ref>}}
+
+{{efn|name=WSOPE08|The final table at the 2008 WSOPE Main Event was the longest final table in the WSOP history.  The tournament lasted 22&nbsp;hours (a WSOP record) and 434&nbsp;hands (a WSOP record).<ref>{{cite web|url=http://betting.betfair.com/poker/wsop-europe/john-juanda-wins-wsope-2008-main-event-031008.html|archive-url=https://web.archive.org/web/20081006031149/http://betting.betfair.com/poker/wsop-europe/john-juanda-wins-wsope-2008-main-event-031008.html|url-status=dead|archive-date=2008-10-06|title=John Juanda wins WSOPE 2008 Main Event|work=betfair.com|access-date=2009-01-17|publisher=Betfair}}</ref>}}
+
+{{efn|name=Hellmuth|At the [[2012 World Series of Poker Europe]] Main Event, Hellmuth won his record-breaking 13th bracelet. This also made him the first player ever to win the Main Events at both the WSOP and WSOPE.<ref name="PNWSOPE13"/> Hellmuth also holds the records for most WSOP cashes (100) and most WSOP final tables (53).<ref name="Espnrecords">{{Cite web |last=Wise |first=Gary |author-link=Gary Wise |date=October 6, 2008 |title=Wise: Hellmuth's Legacy? |url=https://www.espn.com/espn/poker/columns/story?columnist=wise_gary&id=3629313 |access-date=2024-11-12 |website=ESPN.com}}</ref>}}
+
+{{efn|name=Brunson|Doyle Brunson obtained the nickname of Texas Dolly when Jimmy The Greek mispronounced his name.<ref name = "brunsonname" />}}
+
+{{efn|name=RecentYears|In recent years, the prize pool for the WSOP Main Event has become so large that the winner instantly becomes one of the top money winners in tournament poker.  Jamie Gold (2006) is number eight on that list, Joe Hachem (2005) is number ten, and Peter Eastgate (2008) is number eleven.<ref>{{cite web|url=http://www.pokerpages.com/players/lists/worlds-top-players.htm |title=All Time Money List |access-date=2009-01-17 |work=PokerPages.com |url-status=dead|archive-url=https://web.archive.org/web/20090117074127/http://www.pokerpages.com/players/lists/worlds-top-players.htm |archive-date=2009-01-17 }}</ref>}}
+
+{{efn|name=GamblingAct|The [[Unlawful Internet Gambling Enforcement Act of 2006]] curtailed online gambling in the United States.<ref>{{cite web|url=http://www.nbcnews.com/id/15240569|archive-url=https://web.archive.org/web/20130608230026/http://www.nbcnews.com/id/15240569|url-status=dead|archive-date=June 8, 2013|title=Will ban end Internet gambling? Don't bet on it|work=NBC News|last=Brunker|first=Mike|access-date=2009-01-20|date=October 17, 2006|publisher=NBC News}}</ref>}}
+
+-->
+
+==References==
+{{Reflist|30em}}
+
+{{WSOP Main Event champions}}
+{{Major poker tournaments}}
+{{featured list}}
+
+[[Category:World Series of Poker]]
+[[Category:Lists of celebrities|World Series of Poker Main Event champions]]
+[[Category:Lists of sports world champions|Poker]]

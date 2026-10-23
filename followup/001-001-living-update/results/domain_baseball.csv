@@ -1,0 +1,6 @@
+domain,stat,value,ci_lo,ci_hi,n,note
+baseball,OPS_persistence_y2y,0.4932569961947976,,,23,P3 LADDER ENTRY 2000-2025
+baseball,team_winpct_y2y,0.476381869773824,,,64,secondary
+baseball,winner_skill_pct_exitvelo,1.0,0.39672273781902556,1.0,431,success=AS+awards
+baseball,winner_skill_pct_sprint,0.5011600928074246,0.15652552204176334,0.8051044083526682,431,
+baseball,salary_top20_share,0.6374614451235651,,,2224,1985-2016

@@ -1,0 +1,47 @@
+{
+  "item": "001-3 baseball P2 power/MDE",
+  "panel": {
+    "n_players": 431,
+    "skill_measure": "avg_exit_velocity",
+    "success_measure": "All-Star selections + AwardsPlayers rows 2015-2025"
+  },
+  "reproduced": {
+    "winner_skill_pct": 1.0,
+    "winner_skill_pct_CI": [
+      0.39672273781902556,
+      1.0
+    ],
+    "top10_median_skill_pct": 0.8665893271461718,
+    "bootstrap_sd": 0.13438948511794027
+  },
+  "success_panel": {
+    "max_success_count": 70.0,
+    "n_players_at_max": 1,
+    "n_players_within_2_of_max": 1,
+    "n_players_success_gt_0": 303,
+    "top_success_counts_desc": [
+      70.0,
+      59.0,
+      46.0,
+      44.0,
+      43.0,
+      40.0,
+      37.0,
+      36.0,
+      35.0,
+      29.0,
+      28.0,
+      27.0
+    ]
+  },
+  "band_boundary": 0.95,
+  "bootstrap_band_placement": {
+    "frac_talent_dominated_ge_0.95": 0.878,
+    "frac_model_band_0.55_0.95": 0.084,
+    "frac_below_model_band": 0.038,
+    "frac_at_ceiling_1.0": 0.375
+  },
+  "gaussian_mde_from_boundary_pctpts": 0.3341560762645746,
+  "model_baseline_winner_pct": 0.696,
+  "gap_baseline_to_boundary": 0.254
+}

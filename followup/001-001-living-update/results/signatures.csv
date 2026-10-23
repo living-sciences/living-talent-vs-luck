@@ -1,0 +1,46 @@
+domain,statistic,value,ci_lo,ci_hi,n,proxy_validity,note
+TvL_model_baseline,winner_skill_pct,0.696419,0.12485,0.992,1000,engine,G2 run-produced; paper-implied 0.749
+TvL_model_baseline,top10_median_skill_pct,0.68637,0.42995,0.8820999999999999,1000,engine,
+TvL_model_baseline,P_winner_top_decile,0.269,,,1000,engine,paper claim 0.03
+TvL_model_baseline,P_winner_T_gt_0.8,0.078,,,1000,engine,paper claim 0.03; QA 8%
+TvL_model_baseline,top20_capital_share,0.7706574271321297,,,1000,engine,paper claim 0.80
+TvL_model_baseline,persistence_y2y_top100,0.9590224327969361,,,1000,engine,construct-matched
+TvL_pL20,winner_skill_pct,0.67134,,,250,engine,luck ladder
+TvL_pL20,P_winner_top_decile,0.248,,,250,engine,luck ladder
+TvL_pL20,top20_capital_share,0.6535718152523041,,,250,engine,luck ladder
+TvL_pL20,persistence_y2y_top100,0.962806215419592,,,250,engine,luck ladder
+TvL_pL50,winner_skill_pct,0.68938,,,250,engine,luck ladder
+TvL_pL50,P_winner_top_decile,0.28,,,250,engine,luck ladder
+TvL_pL50,top20_capital_share,0.7730331726074219,,,250,engine,luck ladder
+TvL_pL50,persistence_y2y_top100,0.9599164363054493,,,250,engine,luck ladder
+TvL_pL80,winner_skill_pct,0.7335839999999999,,,250,engine,luck ladder
+TvL_pL80,P_winner_top_decile,0.288,,,250,engine,luck ladder
+TvL_pL80,top20_capital_share,0.8364621584415436,,,250,engine,luck ladder
+TvL_pL80,persistence_y2y_top100,0.9646021935735205,,,250,engine,luck ladder
+tennis,winner_skill_pct,0.9940119760479041,0.9835329341317365,1.0,334,PASS,titles; [PREVIEW-CALIBRATED] band
+tennis,top10_median_skill_pct,0.9805389221556886,0.9543226047904192,0.9880239520958084,334,PASS,
+tennis,P_top_decile_cond,0.6666666666666666,0.5151515151515151,0.8181818181818182,334,PASS,
+tennis,winner_skill_pct_finals_excluded,0.9940119760479041,,,334,PASS,leakage control
+tennis,titles_top20_share,0.6392324093816631,,,334,PASS,P1 [PREVIEW-CALIBRATED 0.6]
+tennis,titles_top1_share,0.12622601279317697,,,334,PASS,P1
+tennis,persistence_y2y_top100,0.6783862135811252,,,100,PASS,2011-2025
+tennis,split_half_reliability,0.9589751517537736,,,334,PASS,
+chess,persistence_y2y_top100,0.8702931737393744,,,100,N/A(Elo),skill-dominated anchor; S2 degenerate
+baseball,winner_skill_pct_exitvelo,1.0,0.39672273781902556,1.0,431,PASS,success=AS+awards
+baseball,top10_median_skill_pct_exitvelo,0.8665893271461718,,,431,PASS,
+baseball,winner_skill_pct_sprint,0.5011600928074246,0.15652552204176334,0.8051044083526682,431,PASS,
+baseball,OPS_persistence_y2y,0.4932569961947976,,,23,PASS,P3 ladder entry
+baseball,team_winpct_y2y,0.476381869773824,,,64,PASS,secondary
+baseball,salary_top20_share,0.6374614451235651,,,2224,PASS,1985-2016
+movies,winner_skill_pct,0.9993920479876789,0.9972234324970616,0.9995544218376362,49346,PASS,quality=rating
+movies,top10_median_skill_pct,0.9974060714140964,,,49346,PASS,
+movies,P_top_decile_cond,0.20445795339412362,,,49346,PASS,
+movies,votes_top20_share,0.883136834836948,,,49346,PASS,P1
+movies,votes_top1_share,0.3092878655228564,,,49346,PASS,P1
+science,citations_top20_share_2015,0.9280669913205988,,,5000,no-skill-proxy,S1 only; fat-tail success
+science,citations_top1_share_2015,0.2780283563046955,,,5000,no-skill-proxy,
+science,citations_top20_share_2010_fetched,0.95374693360766,,,5000,no-skill-proxy,cohort stability (declared fetch)
+science,citations_top20_share_2019_fetched,0.8826311104517469,,,5000,no-skill-proxy,cohort stability (declared fetch)
+poker,power_E0,0.31463187318401287,,,36,literature-anchored,no-skill null
+poker,power_E5,1.1236852613714743,,,36,literature-anchored,5x skill 10% stratum
+poker,power_observed_repeats,0.0,,,36,literature-anchored,1990-2025

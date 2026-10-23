@@ -1,0 +1,104 @@
+{
+  "panel": {
+    "filter": "titleType==movie & numVotes>=1000",
+    "n": 49346,
+    "quality_proxy": "averageRating (declared weakest proxy)",
+    "success": "numVotes"
+  },
+  "G3_validity": {
+    "within_decile_spearman": [
+      {
+        "votes_decile": 0,
+        "n": 4942,
+        "spearman_rating_votes": -0.031521905273031094,
+        "abs_rho": 0.031521905273031094
+      },
+      {
+        "votes_decile": 1,
+        "n": 4930,
+        "spearman_rating_votes": -0.005880559471212458,
+        "abs_rho": 0.005880559471212458
+      },
+      {
+        "votes_decile": 2,
+        "n": 4939,
+        "spearman_rating_votes": 0.01428363639178319,
+        "abs_rho": 0.01428363639178319
+      },
+      {
+        "votes_decile": 3,
+        "n": 4938,
+        "spearman_rating_votes": -0.003864915271818672,
+        "abs_rho": 0.003864915271818672
+      },
+      {
+        "votes_decile": 4,
+        "n": 4928,
+        "spearman_rating_votes": 0.023742966737128057,
+        "abs_rho": 0.023742966737128057
+      },
+      {
+        "votes_decile": 5,
+        "n": 4933,
+        "spearman_rating_votes": 0.023692464496862516,
+        "abs_rho": 0.023692464496862516
+      },
+      {
+        "votes_decile": 6,
+        "n": 4932,
+        "spearman_rating_votes": 0.038537802266333326,
+        "abs_rho": 0.038537802266333326
+      },
+      {
+        "votes_decile": 7,
+        "n": 4935,
+        "spearman_rating_votes": 0.02318632790452442,
+        "abs_rho": 0.02318632790452442
+      },
+      {
+        "votes_decile": 8,
+        "n": 4934,
+        "spearman_rating_votes": 0.011677224025637353,
+        "abs_rho": 0.011677224025637353
+      },
+      {
+        "votes_decile": 9,
+        "n": 4935,
+        "spearman_rating_votes": 0.340288064419199,
+        "abs_rho": 0.340288064419199
+      }
+    ],
+    "median_abs_rho": 0.02343939620069347,
+    "bulk_spearman_rating_votes": 0.20480632610811714,
+    "PASS": true,
+    "threshold_sensitive": false,
+    "rule": "PASS iff median within-decile |rho| <= 0.2 [SET AT 2b REVISION]",
+    "note_2b": "0.2 fixed before this statistic computed; only related preview was bulk Spearman(rating,votes)=0.205"
+  },
+  "S1_concentration": {
+    "top20_share": 0.883136834836948,
+    "top1_share": 0.3092878655228564,
+    "gini": 0.8307290193307925,
+    "n": 49346
+  },
+  "quality_distribution": {
+    "skew": -0.784803300931081,
+    "kurtosis_excess": 0.9179188076782085,
+    "mean": 6.231214282819276,
+    "sd": 1.1660184214533569
+  },
+  "S2": {
+    "n": 49346,
+    "winner_skill_pct": 0.9993920479876789,
+    "winner_skill_pct_CI": [
+      0.9972234324970616,
+      0.9995544218376362
+    ],
+    "top10_median_skill_pct": 0.9974060714140964,
+    "P_top_decile_cond": 0.20445795339412362,
+    "top_success_title": "The Shawshank Redemption",
+    "verdict_label": "VALID"
+  },
+  "model_ref_winner_pct": 0.696,
+  "model_P_top_decile": 0.269
+}

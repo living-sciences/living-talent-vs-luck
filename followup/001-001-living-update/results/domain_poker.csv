@@ -1,0 +1,4 @@
+domain,stat,value,ci_lo,ci_hi,n,note
+poker,power_E0,0.31463187318401287,,,36,no-skill null expected repeats
+poker,power_E5,1.1236852613714743,,,36,5x skill 10% stratum
+poker,power_observed_repeats,0.0,,,36,1990-2025 in-window

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<!DOCTYPE experiments SYSTEM "behaviorspace.dtd">
+<experiments>
+  <experiment name="single_run" repetitions="1" runMetricsEveryStep="false">
+    <setup>setup</setup>
+    <go>go</go>
+    <timeLimit steps="80"/>
+    <metric>count individuals</metric>
+    <metric>count events</metric>
+    <metric>max-pxcor</metric>
+    <metric>min-pxcor</metric>
+    <metric>max-pycor</metric>
+    <metric>([distance patch 199 199] of patch 1 1)</metric>
+    <metric>max [success] of individuals</metric>
+    <metric>min [success] of individuals</metric>
+    <enumeratedValueSet variable="number-of-individuals"><value value="1000"/></enumeratedValueSet>
+    <enumeratedValueSet variable="number-of-events"><value value="500"/></enumeratedValueSet>
+    <enumeratedValueSet variable="mean-talent"><value value="0.6"/></enumeratedValueSet>
+    <enumeratedValueSet variable="stdev-talent"><value value="0.1"/></enumeratedValueSet>
+    <enumeratedValueSet variable="%-of-lucky-events"><value value="50"/></enumeratedValueSet>
+    <enumeratedValueSet variable="initial-success"><value value="10"/></enumeratedValueSet>
+    <enumeratedValueSet variable="simulation-time"><value value="80"/></enumeratedValueSet>
+    <enumeratedValueSet variable="size-of-individuals"><value value="7"/></enumeratedValueSet>
+  </experiment>
+</experiments>

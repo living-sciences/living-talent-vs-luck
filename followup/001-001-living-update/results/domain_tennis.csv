@@ -1,0 +1,9 @@
+domain,stat,value,ci_lo,ci_hi,n,note
+tennis,winner_skill_pct,0.9940119760479041,0.9835329341317365,1.0,334,primary=titles
+tennis,top10_median_skill_pct,0.9805389221556886,0.9543226047904192,0.9880239520958084,334,
+tennis,P_top_decile_cond,0.6666666666666666,0.5151515151515151,0.8181818181818182,334,
+tennis,winner_skill_pct_finals_excluded,0.9940119760479041,,,334,leakage control
+tennis,split_half_reliability,0.9589751517537736,,,334,G3 validity
+tennis,success_persistence_y2y,0.6783862135811252,,,334,2011-2025
+tennis,top20_success_share,0.6392324093816631,,,334,titles incl zeros
+tennis,top1_success_share,0.12622601279317697,,,334,

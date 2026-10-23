@@ -1,0 +1,94 @@
+{
+  "tennis": {
+    "top20_share": {
+      "value": 0.6392324093816631,
+      "se": 0.027358556475503677,
+      "se_source": "(c) bootstrap on titles-incl-zeros vector",
+      "model_stat": "top20_capital_share"
+    },
+    "winner_skill_pct": {
+      "value": 0.9940119760479041,
+      "se": 0.004200859300040536,
+      "se_source": "(a) 001 bootstrap CI",
+      "model_stat": "winner_pct_emp"
+    },
+    "P_top_decile": {
+      "value": 0.6666666666666666,
+      "se": 0.07730506921286696,
+      "se_source": "(a) 001 bootstrap CI",
+      "model_stat": "P_winner_top_decile"
+    },
+    "y2y_persist": {
+      "value": 0.6783862135811252,
+      "se": 0.025669886569293417,
+      "se_source": "(b) bootstrap over 14 year-pair rhos",
+      "model_stat": "persist_y2y_top100"
+    }
+  },
+  "chess": {
+    "y2y_persist": {
+      "value": 0.8702931737393744,
+      "se": 0.008881491838162588,
+      "se_source": "(b) bootstrap over 11 year-pair rhos",
+      "model_stat": "persist_y2y_top100"
+    }
+  },
+  "movies": {
+    "top20_share": {
+      "value": 0.883136834836948,
+      "se": 0.0019134745695019307,
+      "se_source": "(c) bootstrap on numVotes vector",
+      "model_stat": "top20_capital_share"
+    },
+    "top1_share": {
+      "value": 0.3092878655228564,
+      "se": 0.0062514319235972985,
+      "se_source": "(c) bootstrap on numVotes vector",
+      "model_stat": "top1_capital_share"
+    },
+    "winner_skill_pct": {
+      "value": 0.9993920479876789,
+      "se": 0.0005946510646150035,
+      "se_source": "(a) 001 bootstrap CI",
+      "model_stat": "winner_pct_emp"
+    },
+    "P_top_decile": {
+      "value": 0.20445795339412362,
+      "se": 0.0057410323654969835,
+      "se_source": "(d) binomial-proportion SE sqrt(p(1-p)/k), k=decile size",
+      "model_stat": "P_winner_top_decile"
+    }
+  },
+  "baseball": {
+    "top20_share": {
+      "value": 0.6374614451235651,
+      "se": 0.0076523290666720735,
+      "se_source": "(c) bootstrap on career-salary vector",
+      "model_stat": "top20_capital_share"
+    },
+    "top1_share": {
+      "value": 0.08191348961772538,
+      "se": 0.0051873528353192176,
+      "se_source": "(c) bootstrap on career-salary vector",
+      "model_stat": "top1_capital_share"
+    },
+    "winner_skill_pct": {
+      "value": 1.0,
+      "se": 0.15390008867458208,
+      "se_source": "(a) 001 bootstrap CI (exit-velocity skill)",
+      "model_stat": "winner_pct_emp"
+    },
+    "P_top_decile": {
+      "value": 0.4186046511627907,
+      "se": 0.0752321673512361,
+      "se_source": "(d) binomial-proportion SE sqrt(p(1-p)/k), k=decile size",
+      "model_stat": "P_winner_top_decile"
+    },
+    "OPS_persist": {
+      "value": 0.4932569961947976,
+      "se": 0.017335128488775057,
+      "se_source": "(b) bootstrap over 23 OPS year-pair rhos",
+      "model_stat": "persist_y2y_top100"
+    }
+  }
+}

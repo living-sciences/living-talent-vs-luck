@@ -1,0 +1,8 @@
+"BehaviorSpace results (NetLogo 6.4.0)","Table version 2.0"
+"netlogo/TvLmodel_single.nlogo"
+"single_run"
+"10/22/2026 15:13:24:634 +0000"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"0","200","0","200"
+"[run number]","number-of-individuals","number-of-events","mean-talent","stdev-talent","%-of-lucky-events","initial-success","simulation-time","size-of-individuals","[step]","count individuals","count events","max-pxcor","min-pxcor","max-pycor","([distance patch 199 199] of patch 1 1)","max [success] of individuals","min [success] of individuals"
+"1","1000","500","0.6","0.1","50","10","80","7","80","1000","500","200","0","200","4.242640687119285","10240","0.009765625"

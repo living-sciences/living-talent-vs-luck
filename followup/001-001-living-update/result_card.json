@@ -1,0 +1,52 @@
+{
+  "schema": "sai.followup.result_card/v1",
+  "headline": "Across tennis, movies and baseball (with chess as a skill-dominated control), the model's signature finding — the most successful are almost never the most skilled — does NOT corroborate: real top performers sit at the 99th+ percentile of independently measured skill (tennis #1 at 0.994), a configuration the faithful engine produces in ≤1.3% of its baseline runs.",
+  "status": "completed",
+  "metrics": [
+    {"label": "Tennis #1-success skill percentile (titles)", "value": "0.994 [0.984, 1.000]",
+     "baseline": "0.696 (paper-implied 0.749)", "baseline_label": "TvL engine G2 (tvl_reference.csv)",
+     "note": "decoupling ABSENT: Federer is at the top of measured skill; occurs in 1.3% of model runs. P2 band [0.55,0.95]/0.95 [PREVIEW-CALIBRATED; preview 0.994]"},
+    {"label": "P(top-success in top-skill decile), tennis / movies", "value": "0.67 / 0.20 (conditional)",
+     "baseline": "0.269", "baseline_label": "TvL engine G2 (P_winner_top_decile; paper claim 0.03)",
+     "note": "paper's printed 3% is its claim for the T>0.8 cut; the faithful engine gives ~27% at the true top-decile cut (C22). [PREVIEW-CALIBRATED <25% band]"},
+    {"label": "Elite persistence ladder (y2y Spearman)", "value": "chess 0.870 > tennis 0.678 > baseball 0.493",
+     "baseline": "0.959 (model y2y)", "baseline_label": "TvL engine G2 (tvl_reference.csv)",
+     "note": "pre-declared measured ladder reproduced exactly; but decoupling does NOT order with it -> partial ordering"},
+    {"label": "Success top-20% share (fat tail / P1)", "value": "tennis 0.639* / movies 0.883 / science 0.928",
+     "baseline": "0.771 (capital; paper claim 0.80)", "baseline_label": "TvL engine G2 (tvl_reference.csv)",
+     "note": "shape present everywhere but consistent with ANY multiplicative mechanism. *tennis threshold-sensitive (0.639 vs 0.6 [PREVIEW-CALIBRATED])"},
+    {"label": "Poker Main-Event repeat-champion test (1990-2025)", "value": "E0=0.32, E5=1.12, observed=0",
+     "baseline": "E5-E0 = 0.81 expected events", "baseline_label": "no-skill vs 5x-skill null (domain_poker.json)",
+     "note": "modern fields ~8-10k -> cannot distinguish skill from luck; poker leg rests on Levitt-Miles 2014 literature"}
+  ],
+  "tables": [
+    {"title": "P2 decoupling verdicts (independent ex-ante skill proxies)",
+     "columns": ["Domain", "Proxy", "#1 skill pct (CI)", "top-10 median", "Validity", "Verdict"],
+     "rows": [
+       ["tennis", "point-share", "0.994 [0.98,1.0]", "0.981", "PASS", "decoupling ABSENT (talent-dominated corner)"],
+       ["movies", "IMDb rating", "0.999 [0.997,1.0]", "0.997", "PASS", "decoupling ABSENT (weakest proxy)"],
+       ["baseball", "exit velocity", "1.000 [0.40,1.0]", "0.867", "PASS", "uninformative (CI spans both bands)"],
+       ["chess", "Elo", "—", "—", "—", "S2 degenerate (skill = success ranking)"]
+     ],
+     "highlight_row": 0}
+  ],
+  "figures": [
+    {"file": "results/fig_decoupling.png",
+     "caption": "Skill percentile of the top-success unit (orange, 95% CI) and top-10 median (blue) per domain, against the TvL baseline winner percentile (0.70) and its model band [0.55,0.95]. Every measured domain sits in the model's talent-dominated corner (>=0.95) — decoupling absent.",
+     "alt": "Error-bar plot: tennis, movies, baseball winner skill percentiles near 1.0, far above the dashed TvL baseline at 0.70."},
+    {"file": "results/fig_ordering.png",
+     "caption": "Elite persistence (x) vs top-success decoupling (y). The pre-declared persistence ladder chess>tennis>baseball holds, but decoupling stays ~1.0 regardless of luck share — opposite the TvL p_L={20,50,80} ladder (blue), which moves winner percentile only within 0.67-0.73.",
+     "alt": "Scatter: tennis and baseball at winner-pct ~1.0 and lower persistence; TvL p_L ladder clustered near 0.7 at high persistence."},
+    {"file": "results/fig_shapes.png",
+     "caption": "Success is fat-tailed in every domain (top-20% share far above the egalitarian 0.20 line) from near-symmetric skill — the P1 shape signature, consistent with any multiplicative mechanism.",
+     "alt": "Three bar panels (tennis, movies, science) showing success top-20% shares of 0.64-0.93 versus a 0.20 reference and the TvL capital share 0.77."}
+  ],
+  "notes": [
+    "Signature finding (most successful != most skilled) does NOT corroborate in tennis/movies/baseball; shape finding (fat tail) does, but is not evidence for the model's mechanism.",
+    "C22: the paper's released engine gives P(winner talent>0.8)=7.8%, not the printed 3% — printed values treated as the paper's claims throughout.",
+    "Prior art: not the first talent-vs-luck/sports test; closest = Janosov-Battiston-Sinatra 2020, Zappala et al. 2023 (a~0.20-0.30). Biondo-Pluchino SSRN 6572147 (2026) is concurrent and NOT yet read (metadata-verified; bot-blocked) — a human should read it before external publication.",
+    "Thresholds set with Phase-2a previews in view are labelled [PREVIEW-CALIBRATED]; 'pre-registered'/'validated' are not used for them. Tennis P1 (0.639 vs 0.6) is threshold-sensitive.",
+    "Deviations: unstaged tvl-engine/qa-distcheck/recency files substituted by the faithful replication engine + spec-quoted constants; funding verdict and model-fit deferred to study 002."
+  ],
+  "report_file": "report.md"
+}

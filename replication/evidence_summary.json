@@ -1,0 +1,17 @@
+{
+  "environment": {
+    "python_version": "3.12.8",
+    "gpu_available": true,
+    "gpu_model": "NVIDIA RTX A6000",
+    "gpu_count": 4,
+    "key_packages": {
+      "torch": "2.14.1+cu130",
+      "numpy": "2.5.4",
+      "scipy": "1.18.1",
+      "pandas": "3.1.0",
+      "matplotlib": "3.11.2"
+    },
+    "netlogo": "6.4.0 (headless)",
+    "jdk": "Temurin 17.0.8.1"
+  }
+}

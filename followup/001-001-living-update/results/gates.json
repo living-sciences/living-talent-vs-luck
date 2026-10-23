@@ -1,0 +1,114 @@
+{
+  "G1_integrity": {
+    "status": "PASS",
+    "sha256": {
+      "ok": 126,
+      "mismatch": 0,
+      "missing": 0
+    },
+    "coverage_pass": true,
+    "file": "results/g1_integrity.json"
+  },
+  "G2_model_reference": {
+    "status": "PASS",
+    "integrity_bands_vs_staged_QA": {
+      "winner_T_mean": {
+        "value": 0.6696402495503425,
+        "band": {
+          "center": 0.6686,
+          "tol": 0.01
+        },
+        "pass": true
+      },
+      "winner_T_sd": {
+        "value": 0.09175527654207341,
+        "band": {
+          "center": 0.0932,
+          "tol": 0.015
+        },
+        "pass": true
+      },
+      "top20pct_share": {
+        "value": 0.7706574271321297,
+        "band": {
+          "center": 0.774,
+          "tol": 0.02
+        },
+        "pass": true
+      }
+    },
+    "run_produced_references": {
+      "winner_skill_pct": 0.696419,
+      "P_winner_top_decile": 0.269,
+      "P_winner_T_gt_0.8": 0.078,
+      "top20_capital_share": 0.7706574271321297,
+      "persistence_y2y_top100": 0.9590224327969361
+    },
+    "paper_claims_cited_beside": {
+      "P_winner_T_gt_0.8": 0.03,
+      "winner_pct": 0.749,
+      "top20_share": 0.8
+    },
+    "file": "results/tvl_reference.json"
+  },
+  "G3_proxy_validity": {
+    "tennis": {
+      "PASS": true
+    },
+    "baseball": {
+      "PASS": true
+    },
+    "movies": {
+      "PASS": true
+    },
+    "file": "results/g3_validity.json"
+  },
+  "preview_calibrated_constants": {
+    "P1_top20_cutoff": {
+      "value": 0.6,
+      "label": "[PREVIEW-CALIBRATED]",
+      "neighbouring_preview": "tennis top-20% share 0.639"
+    },
+    "P1_top1_cutoff": {
+      "value": 0.1,
+      "label": "[PREVIEW-CALIBRATED]"
+    },
+    "P2_band": {
+      "value": [
+        0.55,
+        0.95
+      ],
+      "label": "[PREVIEW-CALIBRATED]"
+    },
+    "P2_talent_dominated_cut": {
+      "value": 0.95,
+      "label": "[PREVIEW-CALIBRATED]",
+      "neighbouring_preview": "tennis winner percentile 0.994"
+    },
+    "P_top_decile_cut": {
+      "value": 0.25,
+      "label": "[PREVIEW-CALIBRATED]"
+    },
+    "movies_validity_cut": {
+      "value": 0.2,
+      "label": "[SET AT 2b REVISION; related preview bulk Spearman(rating,votes)=0.205]"
+    },
+    "banned_words": [
+      "pre-registered",
+      "validated"
+    ]
+  },
+  "threshold_sensitive_verdicts": {
+    "tennis_P1_top20": {
+      "raw": 0.639,
+      "threshold": 0.6,
+      "within_0.05": true,
+      "flag": "threshold-sensitive"
+    },
+    "tennis_P2_winner_pct": {
+      "raw": 0.994,
+      "threshold": 0.95,
+      "spec_predeclared": "headline-eligible (CI lower bound 0.984 well above 0.95)"
+    }
+  }
+}

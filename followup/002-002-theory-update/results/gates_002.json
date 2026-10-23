@@ -1,0 +1,124 @@
+{
+  "gate1_001_completed_and_gated": {
+    "pass": true,
+    "detail": {
+      "status": "completed",
+      "G1": "PASS",
+      "G2": "PASS",
+      "G3": {
+        "tennis": true,
+        "baseball": true,
+        "movies": true
+      }
+    }
+  },
+  "gate2_anchor_reproduces_tvl_reference": {
+    "pass": true,
+    "bit_identical_1000run_reproduction": {
+      "winner_pct_emp": {
+        "reproduced_mean": 0.696419,
+        "reproduced_mcse": 0.007866737761105426,
+        "ref_001": 0.696419,
+        "abs_diff": 0.0,
+        "within_3_mcse": true
+      },
+      "P_winner_top_decile": {
+        "reproduced_mean": 0.269,
+        "reproduced_mcse": 0.014029819522568201,
+        "ref_001": 0.269,
+        "abs_diff": 0.0,
+        "within_3_mcse": true
+      },
+      "top20_share": {
+        "reproduced_mean": 0.7706574271321297,
+        "reproduced_mcse": 0.0016110156833165994,
+        "ref_001": 0.7706574271321297,
+        "abs_diff": 0.0,
+        "within_3_mcse": true
+      },
+      "persist_y2y_top100": {
+        "reproduced_mean": 0.9590224327969361,
+        "reproduced_mcse": 0.00020978239411188423,
+        "ref_001": 0.9590224327969361,
+        "abs_diff": 0.0,
+        "within_3_mcse": true
+      }
+    },
+    "independent_grid_cell_alpha1_pL50": {
+      "top20_capital_share": 0.7716879606246948,
+      "winner_pct_emp": 0.6774199999999998,
+      "P_winner_top_decile": 0.25,
+      "persist_y2y_top100": 0.9577184219926329
+    },
+    "note": "1000-run reproduction uses alpha=1 (bit-identical path) with 001's seed/chunk recipe (seeds 1..10, chunk 100); agreement is to Monte-Carlo noise."
+  },
+  "gate3_literature_traceable": {
+    "pass": true,
+    "traces": {
+      "zappala2023": {
+        "level": "staged-PDF",
+        "in_provenance": true,
+        "pdf_present": true
+      },
+      "janosov2020": {
+        "level": "staged-PDF",
+        "in_provenance": true,
+        "pdf_present": true
+      },
+      "sobkowicz2020": {
+        "level": "staged-PDF",
+        "in_provenance": true,
+        "pdf_present": true
+      },
+      "liu2020_hrcnz": {
+        "level": "staged-PDF",
+        "in_provenance": true,
+        "pdf_present": true
+      },
+      "heyard2022_snsf": {
+        "level": "staged-PDF",
+        "in_provenance": true,
+        "pdf_present": true
+      },
+      "Bol2018": {
+        "level": "abstract-verified (dagger)",
+        "in_provenance": true,
+        "pdf_present": false
+      },
+      "LevittMiles2014": {
+        "level": "abstract-verified (dagger)",
+        "in_provenance": true,
+        "pdf_present": false
+      },
+      "Csurilla2023": {
+        "level": "NOT in staged PROVENANCE.md",
+        "in_provenance": false,
+        "pdf_present": false,
+        "handling": "direction-only qualitative note; no number cited (gate-3 compliant: no untraceable number used)"
+      }
+    }
+  },
+  "gate4_alpha1_bit_identical": {
+    "pass": true,
+    "detail": {
+      "talent": {
+        "bit_identical": true,
+        "max_abs_diff": 0.0
+      },
+      "success": {
+        "bit_identical": true,
+        "max_abs_diff": 0.0
+      },
+      "nlucky": {
+        "bit_identical": true,
+        "max_abs_diff": 0.0
+      },
+      "nunlucky": {
+        "bit_identical": true,
+        "max_abs_diff": 0.0
+      },
+      "ALL_BIT_IDENTICAL": true
+    }
+  },
+  "ALL_GATES_PASS": true
+}

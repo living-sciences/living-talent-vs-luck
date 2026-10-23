@@ -1,0 +1,31 @@
+{
+  "persistence": {
+    "chess": 0.8702931737393744,
+    "tennis": 0.6783862135811252,
+    "baseball": 0.4932569961947976
+  },
+  "pre_declared_order": [
+    "chess",
+    "tennis",
+    "baseball"
+  ],
+  "measured_order": [
+    "chess",
+    "tennis",
+    "baseball"
+  ],
+  "persistence_order_reproduced": true,
+  "decoupling_winner_skill_pct": {
+    "tennis": 0.9940119760479041,
+    "baseball": 1.0,
+    "movies": 0.9993920479876789
+  },
+  "concentration_top20_share": {
+    "tennis": 0.6392324093816631,
+    "baseball": 0.6374614451235651,
+    "movies": 0.883136834836948
+  },
+  "decoupling_orders_with_persistence": false,
+  "interpretation": "Persistence ladder reproduced exactly (chess>tennis>baseball). But decoupling does NOT order with persistence/luck: winner-skill percentile is ~0.99-1.0 in ALL measured P2 domains (tennis 0.994, baseball 1.0 [CI-wide], movies 0.999), i.e. all sit in the model's talent-dominated corner regardless of luck share, the opposite of the model's prediction that higher-luck domains should show MORE top-level decoupling. Per the pre-declared vocabulary this is a PARTIAL ordering.",
+  "verdict": "partial ordering: persistence ladder holds; decoupling/concentration do not order with it"
+}

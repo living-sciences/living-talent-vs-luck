@@ -1,0 +1,89 @@
+{
+  "tennis": {
+    "split_half_spearman": 0.9589751517537736,
+    "split_half_pearson": 0.9712264802604552,
+    "n": 334,
+    "success_persistence_y2y": 0.6783862135811252,
+    "PASS": true,
+    "rule": "PASS iff split-half r >= y2y top-100 points-rank Spearman (2011-2025)"
+  },
+  "baseball": {
+    "exitvelo_y2y_spearman": 0.7564870499295405,
+    "sprint_y2y_spearman": 0.9323507760810507,
+    "n_pairs_ev": 11,
+    "n_pairs_sp": 11,
+    "success_persistence_OPS": 0.4932569961947976,
+    "PASS": true,
+    "rule": "PASS iff both exitvelo & sprint y2y r >= OPS y2y Spearman"
+  },
+  "movies": {
+    "within_decile_spearman": [
+      {
+        "votes_decile": 0,
+        "n": 4942,
+        "spearman_rating_votes": -0.031521905273031094,
+        "abs_rho": 0.031521905273031094
+      },
+      {
+        "votes_decile": 1,
+        "n": 4930,
+        "spearman_rating_votes": -0.005880559471212458,
+        "abs_rho": 0.005880559471212458
+      },
+      {
+        "votes_decile": 2,
+        "n": 4939,
+        "spearman_rating_votes": 0.01428363639178319,
+        "abs_rho": 0.01428363639178319
+      },
+      {
+        "votes_decile": 3,
+        "n": 4938,
+        "spearman_rating_votes": -0.003864915271818672,
+        "abs_rho": 0.003864915271818672
+      },
+      {
+        "votes_decile": 4,
+        "n": 4928,
+        "spearman_rating_votes": 0.023742966737128057,
+        "abs_rho": 0.023742966737128057
+      },
+      {
+        "votes_decile": 5,
+        "n": 4933,
+        "spearman_rating_votes": 0.023692464496862516,
+        "abs_rho": 0.023692464496862516
+      },
+      {
+        "votes_decile": 6,
+        "n": 4932,
+        "spearman_rating_votes": 0.038537802266333326,
+        "abs_rho": 0.038537802266333326
+      },
+      {
+        "votes_decile": 7,
+        "n": 4935,
+        "spearman_rating_votes": 0.02318632790452442,
+        "abs_rho": 0.02318632790452442
+      },
+      {
+        "votes_decile": 8,
+        "n": 4934,
+        "spearman_rating_votes": 0.011677224025637353,
+        "abs_rho": 0.011677224025637353
+      },
+      {
+        "votes_decile": 9,
+        "n": 4935,
+        "spearman_rating_votes": 0.340288064419199,
+        "abs_rho": 0.340288064419199
+      }
+    ],
+    "median_abs_rho": 0.02343939620069347,
+    "bulk_spearman_rating_votes": 0.20480632610811714,
+    "PASS": true,
+    "threshold_sensitive": false,
+    "rule": "PASS iff median within-decile |rho| <= 0.2 [SET AT 2b REVISION]",
+    "note_2b": "0.2 fixed before this statistic computed; only related preview was bulk Spearman(rating,votes)=0.205"
+  }
+}

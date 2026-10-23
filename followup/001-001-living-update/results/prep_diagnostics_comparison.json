@@ -1,0 +1,65 @@
+{
+  "note": "Embargo lifted after B-block estimates written. Preview = Phase 2a prep-diagnostics; Study = this run.",
+  "comparisons": [
+    {
+      "quantity": "tennis #1-success skill percentile",
+      "preview": 0.994,
+      "study": 0.9940119760479041
+    },
+    {
+      "quantity": "tennis titles top-20% share",
+      "preview": 0.639,
+      "study": 0.6392324093816631
+    },
+    {
+      "quantity": "tennis titles top-1% share",
+      "preview": 0.126,
+      "study": 0.12622601279317697
+    },
+    {
+      "quantity": "tennis top-100 y2y Spearman 2011-2025",
+      "preview": 0.645,
+      "study": 0.6783862135811252
+    },
+    {
+      "quantity": "chess top-100 y2y jan25->jan26",
+      "preview": 0.886,
+      "study": 0.8638347682209386
+    },
+    {
+      "quantity": "baseball team wpct y2y",
+      "preview": 0.5,
+      "study": 0.476381869773824
+    },
+    {
+      "quantity": "baseball season luck share",
+      "preview": 0.236,
+      "study": 0.24801211017494443
+    },
+    {
+      "quantity": "science citations top-20% (2015)",
+      "preview": 0.928,
+      "study": 0.9280669913205988
+    },
+    {
+      "quantity": "movies votes top-20% share",
+      "preview": 0.883,
+      "study": 0.883136834836948
+    },
+    {
+      "quantity": "movies most-voted quality percentile",
+      "preview": 0.999,
+      "study": 0.9993920479876789
+    },
+    {
+      "quantity": "model winner-talent mean (paper claim vs G2)",
+      "preview": 0.667,
+      "study": 0.6696402495503425
+    },
+    {
+      "quantity": "model P(winner T>0.8) (paper claim vs G2)",
+      "preview": 0.03,
+      "study": 0.078
+    }
+  ]
+}

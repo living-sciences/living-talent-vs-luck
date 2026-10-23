@@ -1,0 +1,124 @@
+{
+  "status": "PASS",
+  "engine": "/workspace/eval/replication/codebase/reimpl/tvl.py (faithful; shared-data/tvl-engine not staged)",
+  "config": {
+    "N": 1000,
+    "NE": 500,
+    "I": 80,
+    "C0": 10.0,
+    "mT": 0.6,
+    "sigmaT": 0.1,
+    "pL_baseline": 50,
+    "top_decile_cut_T": 0.7281551565544601
+  },
+  "baseline": {
+    "winner_T_mean": 0.6696402495503425,
+    "winner_T_sd": 0.09175527654207341,
+    "winner_pct_emp_mean": 0.696419,
+    "winner_pct_emp_p2.5": 0.12485,
+    "winner_pct_emp_p97.5": 0.992,
+    "winner_pct_theo_mean": 0.6966862147682259,
+    "P_winner_top_decile": 0.269,
+    "P_winner_T_gt_0.8": 0.078,
+    "top10_median_T_pct_emp_mean": 0.68637,
+    "top10_median_T_pct_emp_p2.5": 0.42995,
+    "top10_median_T_pct_emp_p97.5": 0.8820999999999999,
+    "top20_share_mean": 0.7706574271321297,
+    "gini_mean": 0.7426672397708223,
+    "persist_splithalf_all_mean": 0.7286429980128174,
+    "persist_splithalf_top100_mean": 0.5629540526269984,
+    "persist_y2y_top100_mean": 0.9590224327969361,
+    "n_runs": 1000
+  },
+  "ladder": {
+    "20": {
+      "winner_T_mean": 0.6621371936798096,
+      "winner_T_sd": 0.09153607859884774,
+      "winner_pct_emp_mean": 0.67134,
+      "winner_pct_emp_p2.5": 0.12307500000000002,
+      "winner_pct_emp_p97.5": 0.994775,
+      "winner_pct_theo_mean": 0.671975481455227,
+      "P_winner_top_decile": 0.248,
+      "P_winner_T_gt_0.8": 0.072,
+      "top10_median_T_pct_emp_mean": 0.632308,
+      "top10_median_T_pct_emp_p2.5": 0.372,
+      "top10_median_T_pct_emp_p97.5": 0.843,
+      "top20_share_mean": 0.6535718152523041,
+      "gini_mean": 0.6584901856042396,
+      "persist_splithalf_all_mean": 0.7343999987103056,
+      "persist_splithalf_top100_mean": 0.5395232615386004,
+      "persist_y2y_top100_mean": 0.962806215419592,
+      "n_runs": 250
+    },
+    "50": {
+      "winner_T_mean": 0.6678914978504181,
+      "winner_T_sd": 0.09734415807763744,
+      "winner_pct_emp_mean": 0.68938,
+      "winner_pct_emp_p2.5": 0.10967500000000001,
+      "winner_pct_emp_p97.5": 0.99255,
+      "winner_pct_theo_mean": 0.6895566623264775,
+      "P_winner_top_decile": 0.28,
+      "P_winner_T_gt_0.8": 0.084,
+      "top10_median_T_pct_emp_mean": 0.670444,
+      "top10_median_T_pct_emp_p2.5": 0.393,
+      "top10_median_T_pct_emp_p97.5": 0.881,
+      "top20_share_mean": 0.7730331726074219,
+      "gini_mean": 0.7448722482758404,
+      "persist_splithalf_all_mean": 0.7297955716776401,
+      "persist_splithalf_top100_mean": 0.5686320211583815,
+      "persist_y2y_top100_mean": 0.9599164363054493,
+      "n_runs": 250
+    },
+    "80": {
+      "winner_T_mean": 0.6861798827648162,
+      "winner_T_sd": 0.08960943684554461,
+      "winner_pct_emp_mean": 0.7335839999999999,
+      "winner_pct_emp_p2.5": 0.265575,
+      "winner_pct_emp_p97.5": 0.996775,
+      "winner_pct_theo_mean": 0.7342379008009339,
+      "P_winner_top_decile": 0.288,
+      "P_winner_T_gt_0.8": 0.12,
+      "top10_median_T_pct_emp_mean": 0.711076,
+      "top10_median_T_pct_emp_p2.5": 0.468225,
+      "top10_median_T_pct_emp_p97.5": 0.901325,
+      "top20_share_mean": 0.8364621584415436,
+      "gini_mean": 0.8003299385131069,
+      "persist_splithalf_all_mean": 0.7251860215703668,
+      "persist_splithalf_top100_mean": 0.612084043773197,
+      "persist_y2y_top100_mean": 0.9646021935735205,
+      "n_runs": 250
+    }
+  },
+  "integrity_gate_vs_staged_QA_bands": {
+    "winner_T_mean": {
+      "value": 0.6696402495503425,
+      "band": {
+        "center": 0.6686,
+        "tol": 0.01
+      },
+      "pass": true
+    },
+    "winner_T_sd": {
+      "value": 0.09175527654207341,
+      "band": {
+        "center": 0.0932,
+        "tol": 0.015
+      },
+      "pass": true
+    },
+    "top20pct_share": {
+      "value": 0.7706574271321297,
+      "band": {
+        "center": 0.774,
+        "tol": 0.02
+      },
+      "pass": true
+    }
+  },
+  "paper_claims_for_reference": {
+    "P_winner_T_gt_0.8_paper": 0.03,
+    "winner_pct_paper_implied": 0.749,
+    "top20_share_paper": 0.8
+  },
+  "runtime_sec": 122.70812106132507
+}

@@ -1,0 +1,405 @@
+{
+  "fetches": [
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=1&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:21Z",
+      "year": 2010,
+      "page": 1,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=2&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:22Z",
+      "year": 2010,
+      "page": 2,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=3&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:22Z",
+      "year": 2010,
+      "page": 3,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=4&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:23Z",
+      "year": 2010,
+      "page": 4,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=5&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:23Z",
+      "year": 2010,
+      "page": 5,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=6&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:24Z",
+      "year": 2010,
+      "page": 6,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=7&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:24Z",
+      "year": 2010,
+      "page": 7,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=8&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:25Z",
+      "year": 2010,
+      "page": 8,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=9&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:25Z",
+      "year": 2010,
+      "page": 9,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=10&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:25Z",
+      "year": 2010,
+      "page": 10,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=11&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:26Z",
+      "year": 2010,
+      "page": 11,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=12&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:26Z",
+      "year": 2010,
+      "page": 12,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=13&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:27Z",
+      "year": 2010,
+      "page": 13,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=14&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:27Z",
+      "year": 2010,
+      "page": 14,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=15&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:28Z",
+      "year": 2010,
+      "page": 15,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=16&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:28Z",
+      "year": 2010,
+      "page": 16,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=17&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:29Z",
+      "year": 2010,
+      "page": 17,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=18&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:29Z",
+      "year": 2010,
+      "page": 18,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=19&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:30Z",
+      "year": 2010,
+      "page": 19,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=20&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:30Z",
+      "year": 2010,
+      "page": 20,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=21&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:31Z",
+      "year": 2010,
+      "page": 21,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=22&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:31Z",
+      "year": 2010,
+      "page": 22,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=23&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:32Z",
+      "year": 2010,
+      "page": 23,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=24&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:32Z",
+      "year": 2010,
+      "page": 24,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2010&sample=10000&seed=42&per-page=200&page=25&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:32Z",
+      "year": 2010,
+      "page": 25,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=1&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:33Z",
+      "year": 2019,
+      "page": 1,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=2&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:33Z",
+      "year": 2019,
+      "page": 2,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=3&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:34Z",
+      "year": 2019,
+      "page": 3,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=4&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:34Z",
+      "year": 2019,
+      "page": 4,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=5&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:35Z",
+      "year": 2019,
+      "page": 5,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=6&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:35Z",
+      "year": 2019,
+      "page": 6,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=7&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:36Z",
+      "year": 2019,
+      "page": 7,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=8&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:36Z",
+      "year": 2019,
+      "page": 8,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=9&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:37Z",
+      "year": 2019,
+      "page": 9,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=10&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:37Z",
+      "year": 2019,
+      "page": 10,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=11&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:38Z",
+      "year": 2019,
+      "page": 11,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=12&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:38Z",
+      "year": 2019,
+      "page": 12,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=13&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:38Z",
+      "year": 2019,
+      "page": 13,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=14&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:39Z",
+      "year": 2019,
+      "page": 14,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=15&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:39Z",
+      "year": 2019,
+      "page": 15,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=16&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:40Z",
+      "year": 2019,
+      "page": 16,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=17&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:40Z",
+      "year": 2019,
+      "page": 17,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=18&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:41Z",
+      "year": 2019,
+      "page": 18,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=19&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:41Z",
+      "year": 2019,
+      "page": 19,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=20&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:42Z",
+      "year": 2019,
+      "page": 20,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=21&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:42Z",
+      "year": 2019,
+      "page": 21,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=22&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:43Z",
+      "year": 2019,
+      "page": 22,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=23&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:43Z",
+      "year": 2019,
+      "page": 23,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=24&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:44Z",
+      "year": 2019,
+      "page": 24,
+      "status": "ok",
+      "n": 200
+    },
+    {
+      "query": "https://api.openalex.org/works?filter=type:article,publication_year:2019&sample=10000&seed=42&per-page=200&page=25&select=id,cited_by_count",
+      "timestamp": "2026-10-22T18:49:44Z",
+      "year": 2019,
+      "page": 25,
+      "status": "ok",
+      "n": 200
+    }
+  ],
+  "note": "OpenAlex in-run pulls (declared exception, spec section 0)"
+}

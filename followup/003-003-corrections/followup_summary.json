@@ -1,0 +1,49 @@
+{
+  "instruction_summary": "Apply exactly the seven audit-conformance corrections to follow-up studies 001 (five labelling/reporting fixes) and 002 (two cosmetic notes), computing the two missing pre-declared elements (baseball P2 MDE and long-tennis persistence mean), with no verdict or estimate changes, and record every old->new change.",
+  "completed": true,
+  "steps": [
+    {"description": "Read replication/001/002 artifacts; located the §6 MDE template, §5 Block A G2 'no truncation' text, and each target file/line", "command": "Read findings.md, gates.json, domain_tennis.json, domain_baseball.json, domain_chess.json, predictions.json, report.md, followup_summary.json (001 & 002); 001 instruction.md", "exit_code": 0, "outputs": []},
+    {"description": "Rebuilt venv (numpy/pandas/scipy/matplotlib/pyreadr); venv was gone", "command": "uv venv /workspace/.venv && uv pip install numpy==2.5.4 pandas==3.1.0 scipy==1.18.1 matplotlib==3.11.2 pyreadr", "exit_code": 0, "outputs": ["/workspace/.venv"]},
+    {"description": "001-3: reconstructed baseball P2 panel with 001's b3 loaders+seed; reproduced winner_skill_pct=1.0 and CI [0.397,1.0] exactly; computed MDE ~0.33 (Gaussian, 80% power, bootstrap SD 0.134) > 0.25-pt gap; filed", "command": "python -I workspace/code/baseball_mde.py", "exit_code": 0, "outputs": ["results/baseball_mde.json"]},
+    {"description": "001-4: computed tennis 1992-2025 non-NaN-pair persistence mean = 0.6219 over 29 valid pairs (4 pre-1996 NaN pairs excluded); filed", "command": "python -I (inline)", "exit_code": 0, "outputs": ["results/tennis_long_persistence.json"]},
+    {"description": "001-1: added exact 2b-revision provenance sentence to the movies P2 validity row", "command": "Edit 001/results/findings.md", "exit_code": 0, "outputs": ["followup/001-001-living-update/results/findings.md"]},
+    {"description": "001-2: declared the G2 truncation deviation in findings.md Deviations paragraph and followup_summary.json", "command": "Edit 001 findings.md + followup_summary.json", "exit_code": 0, "outputs": ["followup/001-001-living-update/results/findings.md", "followup/001-001-living-update/followup_summary.json"]},
+    {"description": "001-3: filled the §6 (power: [MDE]) clause in the baseball P2 verdict row (verdict unchanged)", "command": "Edit 001 findings.md", "exit_code": 0, "outputs": ["followup/001-001-living-update/results/findings.md"]},
+    {"description": "001-4: added non-NaN mean + exclusion rule to domain_tennis.json and an erratum item to findings.md", "command": "Edit 001 domain_tennis.json + findings.md", "exit_code": 0, "outputs": ["followup/001-001-living-update/results/domain_tennis.json", "followup/001-001-living-update/results/findings.md"]},
+    {"description": "001-5: added erratum appendix (a pooled/per-domain, b 4-of-4 vs k=3, c OPS COVID gap, e S4 raw concentration) to findings.md; fixed d (chess prose 2015-2023->2015-2026)", "command": "Edit 001 findings.md + domain_chess.json", "exit_code": 0, "outputs": ["followup/001-001-living-update/results/findings.md", "followup/001-001-living-update/results/domain_chess.json"]},
+    {"description": "002-1a: inherited the 001-2 truncation note into 002's deviations list (report.md + followup_summary.json)", "command": "Edit 002 report.md + followup_summary.json", "exit_code": 0, "outputs": ["followup/002-002-theory-update/report.md", "followup/002-002-theory-update/followup_summary.json"]},
+    {"description": "002-1b: cleaned the two np.float64(...) repr strings in predictions.json prediction-text fields (values unchanged)", "command": "Edit 002 predictions.json (replace_all)", "exit_code": 0, "outputs": ["followup/002-002-theory-update/results/predictions.json"]},
+    {"description": "Recorded all 14 file-level old->new changes (7 items) in card_corrections.csv; validated all edited JSON", "command": "write card_corrections.csv; python -I json.load checks", "exit_code": 0, "outputs": ["results/card_corrections.csv"]},
+    {"description": "Built two canvas figures (baseball MDE bootstrap; tennis long-persistence series)", "command": "python -I workspace/code/make_figs.py", "exit_code": 0, "outputs": ["results/fig1_baseball_mde.png", "results/fig2_tennis_long_persistence.png"]}
+  ],
+  "key_results": {
+    "corrections_applied": "7 of 7 (001-1..001-5, 002-1a, 002-1b)",
+    "verdict_changes": "none",
+    "estimate_changes": "none",
+    "baseball_P2_MDE": "~0.33 skill-percentile points (80% power, alpha=0.05 one-sided; bootstrap SD 0.134) > 0.25-pt baseline-to-boundary gap -> uninformative; MDE is a lower bound (single order statistic piled at 1.0 ceiling in 37.5% of resamples)",
+    "baseball_P2_point_estimate_reproduced": "winner_skill_pct=1.0, CI [0.397,1.0] (bit-for-bit match to 001)",
+    "tennis_1992_2025_nonNaN_mean": 0.6219047055592811,
+    "tennis_1992_2025_nonNaN_n_pairs": 29,
+    "tennis_1992_2025_NaN_pairs": 4,
+    "chess_prose_fix": "2015-2023 -> 2015-2026",
+    "predictions_json_repr_cleaned": "[np.float64(0.962), np.float64(0.964)] -> [0.962, 0.964]"
+  },
+  "comparison_to_original": [
+    {"quantity": "baseball P2 winner_skill_pct + CI", "original": "1.0, CI [0.39672273781902556, 1.0]", "followup": "1.0, CI [0.39672273781902556, 1.0] (reproduced); + MDE ~0.33", "source_file": "followup/001-001-living-update/results/domain_baseball.json", "note": "reproduced exactly; the §6 (power: [MDE]) clause was missing and is now computed/filed. Verdict unchanged."},
+    {"quantity": "tennis 1992-2025 top-100 persistence mean", "original": "NaN (unreported)", "followup": "0.6219 over 29 non-NaN pairs", "source_file": "followup/001-001-living-update/results/domain_tennis.json", "note": "raw 33-pair mean is NaN (4 pre-1996 no-point-data pairs); exclusion rule declared, gap not imputed"},
+    {"quantity": "movies P2 validity 0.2 cut provenance", "original": "cut quoted without provenance sentence", "followup": "exact 2b-revision provenance sentence added (0.2 cut distinct from 0.205 bulk-Spearman preview)", "source_file": "followup/001-001-living-update/results/findings.md", "note": "labelling only"},
+    {"quantity": "002 predictions.json P1 model band text", "original": "[np.float64(0.962), np.float64(0.964)]", "followup": "[0.962, 0.964]", "source_file": "followup/002-002-theory-update/results/predictions.json", "note": "repr formatting only; values unchanged"}
+  ],
+  "artifacts": [
+    "/workspace/eval/followup/003-003-corrections/results/card_corrections.csv",
+    "/workspace/eval/followup/003-003-corrections/results/baseball_mde.json",
+    "/workspace/eval/followup/003-003-corrections/results/tennis_long_persistence.json",
+    "/workspace/eval/followup/003-003-corrections/results/fig1_baseball_mde.png",
+    "/workspace/eval/followup/003-003-corrections/results/fig2_tennis_long_persistence.png"
+  ],
+  "deviations": [
+    "Baseball MDE reported as a finite lower bound (~0.33) plus the single-order-statistic caveat, rather than a clean 'ill-defined' branch: this is the data-supported reading (a computable but too-large MDE), consistent with the instruction's either/or.",
+    "New computation files are filed under 003's results/ (write-scope rule); 001's findings.md references them. 001/002 content files are edited in place as the corrective instruction directs."
+  ],
+  "remaining": []
+}

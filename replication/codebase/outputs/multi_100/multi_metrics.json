@@ -1,0 +1,22 @@
+{
+  "powerlaw_slope": -1.0763709621068167,
+  "global_max_capital": 655360.0,
+  "T_best": 0.7680662870407104,
+  "C_best": 655360.0,
+  "T_max_among_best": 0.8874470591545105,
+  "C_at_T_max_among_best": 1280.0,
+  "ratio_to_Cbest": 0.001953125,
+  "T_av_best": 0.6677862405776978,
+  "frac_best_talent_gt_0p8": 0.08,
+  "max_capital_ratio_talent_gt_0p8": 0.03125,
+  "C_mt": 61.64890670776367,
+  "C_at": 23.872314453125,
+  "P_T0": 31.624581632226686,
+  "_defs": {
+    "most_talented": "T>0.800 (mT+2sigmaT)",
+    "near_mean": "0.550<=T<=0.650 (mT+-0.5sigmaT)",
+    "talented_PT": "T>0.700 (mT+sigmaT)",
+    "powerlaw": "regress log10(pdf) on log10(C) for C>=C0=10 over pooled runs"
+  },
+  "n_runs": 100
+}

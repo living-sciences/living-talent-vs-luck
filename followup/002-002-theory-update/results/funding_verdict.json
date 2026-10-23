@@ -1,0 +1,16 @@
+{
+  "flip_alpha": null,
+  "egalitarian_beats_elitarian_at_alpha0": true,
+  "egal_minus_elit_E_range": [
+    0.004348,
+    0.004661
+  ],
+  "fitted_tennis_alpha": 1.0,
+  "fitted_movies_alpha": 1.0,
+  "career_max_fitted_alpha": 1.0,
+  "model_internal_robustness": "robust (no flip in [0,1])",
+  "verdict_word": "untested but consistent",
+  "no_flip_card_note": "no flip",
+  "falsifier_of_C5": "A lottery-vs-panel OUTCOME comparison at equal budget (e.g. a future HRC NZ or SNSF cohort study tracking later research success) that showed merit-selected cohorts outperforming lottery cohorts would contradict C5; no such outcome study exists in the staged record through 2026.",
+  "paper_caveat_verbatim": "the paper's unreleased experiment code evidently differed from the released demo; one F_T cell is an arithmetic error (70000->50000)"
+}

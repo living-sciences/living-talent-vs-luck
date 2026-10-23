@@ -1,0 +1,44 @@
+{
+  "schema": "sai.followup.result_card/v1",
+  "headline": "Applied all 7 audit-conformance corrections to studies 001/002 with no verdict or estimate changes; filed the two missing pre-declared numbers — baseball P2 MDE ≈ 0.33 skill-pct pts (test underpowered) and the tennis 1992–2025 non-NaN persistence mean 0.622.",
+  "status": "completed",
+  "metrics": [
+    {"label": "Corrections applied", "value": "7 / 7", "baseline": "0 (pre-audit)",
+     "baseline_label": "studies 001 & 002 as filed", "note": "001-1..001-5, 002-1a, 002-1b; no verdict/estimate changed"},
+    {"label": "Baseball P2 MDE", "value": "≈ 0.33 pct-pts", "baseline": "missing (power clause absent)",
+     "baseline_label": "001 findings.md §6 verdict", "note": "> 0.25-pt baseline→boundary gap ⇒ uninformative; lower bound (ceiling-piled order statistic)"},
+    {"label": "Tennis 1992–2025 persistence mean", "value": "0.622 (29 pairs)", "baseline": "NaN (unreported)",
+     "baseline_label": "001 domain_tennis.json", "note": "4 pre-1996 no-point-data pairs excluded; gap declared, not imputed"},
+    {"label": "Baseball P2 point estimate", "value": "1.0, CI [0.40, 1.00]", "baseline": "1.0, CI [0.40, 1.00]",
+     "baseline_label": "001 domain_baseball.json", "note": "reproduced bit-for-bit before deriving the MDE"}
+  ],
+  "tables": [
+    {"title": "The seven corrections",
+     "columns": ["Item", "File", "Change", "Estimate moved?"],
+     "rows": [
+       ["001-1", "findings.md", "add 2b-revision provenance sentence to movies 0.2 cut", "no"],
+       ["001-2", "findings.md / summary", "declare G2 truncation deviation (anchor-consistent)", "no"],
+       ["001-3", "findings.md / baseball_mde.json", "fill §6 (power: MDE≈0.33) clause", "no"],
+       ["001-4", "domain_tennis.json / findings.md", "report non-NaN mean 0.622, declare gap", "no"],
+       ["001-5", "findings.md / domain_chess.json", "declare a/b/c/e gaps; fix chess prose 2015-2023→2015-2026 (d)", "no"],
+       ["002-1a", "report.md / summary", "inherit 001-2 truncation note", "no"],
+       ["002-1b", "predictions.json", "clean np.float64(...) → plain floats", "no"]
+     ],
+     "highlight_row": 2}
+  ],
+  "figures": [
+    {"file": "results/fig1_baseball_mde.png",
+     "caption": "Baseball P2 winner-skill-percentile bootstrap: mass piles at the 1.0 ceiling but the 95% CI reaches 0.40, spanning both bands; MDE ≈ 0.33 > the 0.25-pt gap ⇒ uninformative (item 001-3).",
+     "alt": "Histogram of bootstrap winner-skill-percentile values concentrated near 1.0 with a small cluster near 0.4, model band and talent-dominated band shaded, baseline at 0.696 and boundary at 0.95 marked."},
+    {"file": "results/fig2_tennis_long_persistence.png",
+     "caption": "Tennis 1992–2025 top-100 y2y persistence: the 1992–1996 no-point-data gap (4 NaN pairs excluded), the non-NaN-pair mean 0.622, and the headline 2011–2025 mean 0.678 (item 001-4).",
+     "alt": "Line plot of year-to-year Spearman persistence from 1996 to 2024 with a shaded pre-1996 gap band and two horizontal mean lines at 0.622 and 0.678."}
+  ],
+  "notes": [
+    "Scope is exactly the seven audited corrections; no signature verdict and no estimate was changed.",
+    "The two computed numbers fill pre-declared elements that were missing/unreported (MDE; long-tennis mean), per the binding framing rules.",
+    "Baseball MDE is reported as a finite lower bound (≈0.33) with the single-order-statistic caveat rather than a clean 'ill-defined' — the data support a computable but too-large MDE.",
+    "No engine run, no fetch, no new package; computation files filed under 003/results/, 001&002 content edited in place."
+  ],
+  "report_file": "report.md"
+}

@@ -1,0 +1,23 @@
+{
+  "item": "001-4 long tennis secondary: 1992-2025 top-100 points-rank y2y persistence",
+  "source": "/workspace/eval/followup/001-001-living-update/results/domain_tennis.json",
+  "raw_mean_rho_33pairs": null,
+  "raw_mean_is_nan": true,
+  "n_pairs_total": 33,
+  "nan_pairs": [
+    "1992->1993",
+    "1993->1994",
+    "1994->1995",
+    "1995->1996"
+  ],
+  "nan_reason": "1992-1996 seasons carry no point-level statistics (ATP point data begins 1996 in staged feed)",
+  "n_pairs_nonNaN": 29,
+  "mean_rho_nonNaN": 0.6219047055592811,
+  "first_valid_pair": "1996->1997",
+  "nonNaN_range": [
+    0.354404150934131,
+    0.8305540660226245
+  ],
+  "exclusion_rule": "pairs where either season lacks point-level statistics are excluded; gap declared not imputed",
+  "reference_2011_2025_mean": 0.6783862135811252
+}

@@ -1,0 +1,51 @@
+{
+  "schema": "sai.followup.result_card/v1",
+  "headline": "No single parameterization of the TvL engine — even with a pre-declared talent-leverage dial swept from pure luck to the paper's model — can jointly reproduce any real domain's signature triple: the model's winner is structurally too mediocre (reachable skill percentile ≤0.73 vs real ≥0.99) and its year-to-year ranks too sticky (~0.96 vs real 0.49–0.87).",
+  "status": "completed",
+  "metrics": [
+    {"label": "T1 joint 3-SE fit (tennis / chess / movies / baseball)", "value": "FAILS in all 4",
+     "baseline": "model baseline already rejected by 001", "baseline_label": "study 001 (signatures.csv)",
+     "note": "fitted nearest cells tennis (α1.0,p_L65), movies (α1.0,p_L65), chess (α0.4,p_L50), baseball (α0.3,p_L20) — all fail the pre-declared falsification test"},
+    {"label": "Fitted α vs Zappalà 2023 tennis a", "value": "tennis α=1.0 (career-level)",
+     "baseline": "a ≈ 0.20–0.30 (per point)", "baseline_label": "Zappalà 2023 (staged PDF)",
+     "note": "different construct — points luck-dominated yet careers aggregate skill (aggregation paradox); not the same parameter"},
+    {"label": "Funding flip-α (egalitarian vs elitarian)", "value": "no flip in [0,1]",
+     "baseline": "egalitarian wins (paper C5)", "baseline_label": "paper §3 (engine-vs-engine only; TvL-B3)",
+     "note": "egalitarian efficiency ≈9× elitarian at every α; fitted career α's (1.0) on the egalitarian-wins side"},
+    {"label": "Strongest next-tick prediction", "value": "tennis 2026 persistence ≈0.68, not model's 0.96",
+     "baseline": "model band [0.962, 0.964]", "baseline_label": "T1 fitted cell (calibration_grid.csv)",
+     "note": "model over-predicts by ~0.28; testable on ATP year-end-2026 top-100 rankings"},
+    {"label": "P4 funding-claim verdict", "value": "untested but consistent",
+     "baseline": "real funding is Matthew/elitarian (Bol 2018†)", "baseline_label": "literature/PROVENANCE.md",
+     "note": "ordering robust across fitted α (M3: no flip); no lottery-vs-panel outcome RCT exists through 2026"}
+  ],
+  "tables": [
+    {"title": "What the model can reach vs what the data show (study 001 measurements)",
+     "columns": ["Statistic", "Model reachable (all α, p_L)", "Real domains (001)", "Verdict"],
+     "rows": [
+       ["winner skill percentile", "0.485 – 0.727", "tennis 0.994 / movies 0.999 / baseball 1.0", "unreachable"],
+       ["y2y top-100 persistence", "0.957 – 0.964", "chess 0.870 / tennis 0.678 / baseball 0.493", "unreachable"],
+       ["success top-20% share", "0.647 – 0.832", "movies 0.883 / tennis 0.639 / baseball 0.637", "movies unreachable"],
+       ["success top-1% share", "0.217 – 0.425", "movies 0.309 / baseball 0.082", "baseball unreachable"]
+     ],
+     "highlight_row": 0}
+  ],
+  "figures": [
+    {"file": "results/fig_structural_gap.png",
+     "caption": "The two structural failures: (a) the engine's top-capital agent never exceeds the 0.73 talent percentile (blue band = reachable over all 55 grid cells) while tennis/movies winners sit at ~0.99; (b) model y2y persistence is pinned at ~0.96 while real domains fall at 0.49–0.87 and order chess>tennis>baseball. Error bars are ±2 SE.",
+     "alt": "Two panels. Left: tennis, movies dots near 1.0 far above a shaded model band 0.49-0.73; baseball dot at 1.0 with a wide error bar reaching the band. Right: chess, tennis, baseball dots descending from 0.87 to 0.49, all below a thin model band near 0.96."},
+    {"file": "results/fig_fit_map.png",
+     "caption": "T1 fit map on the α×p_L plane: each domain's nearest grid cell (marker) and 1-SE neighbourhood (dashed). Every joint 3-SE fit FAILS. Zappalà's per-point tennis band a=0.20–0.30 (orange) is overlaid but is a different construct from our career-level α.",
+     "alt": "Scatter on alpha (x) vs p_L (y): tennis and movies at (1.0,65), chess at (0.4,50), baseball at (0.3,20); a vertical orange band at alpha 0.2-0.3; all labelled fit FAILS."},
+    {"file": "results/fig_funding_frontier.png",
+     "caption": "T3 funding frontier: egalitarian (ALL-EQUAL-1u) vs elitarian (25%-BEST-10u) funding efficiency E=ΔP_T/F_T across the talent-leverage dial. Egalitarian wins by ~9× at every α — no flip in [0,1]. Engine-vs-engine only (no paper §3 value used as a reference band).",
+     "alt": "Two near-flat curves vs alpha: egalitarian around 0.005 well above elitarian around 0.0005 across the whole range; shaded gap between them; dotted line at alpha=1 marking fitted career alphas."}
+  ],
+  "notes": [
+    "T1 failure is the pre-declared falsification outcome (no cell fits all a domain's statistics within 3 SE), a finding against the TvL family's sufficiency — not an execution failure. Fitted α's are nearest cells of failed fits, not calibrated parameters.",
+    "All four validation gates pass: 001 completed & G1–G3 passed; the (α=1,p_L=50) anchor reproduces 001's tvl_reference.csv exactly (diff 0.00e+00, bit-identical α=1 path); literature traces to PROVENANCE.md (abstract-verified carry †); α=1 bit-identical to the staged engine.",
+    "Paper §3 funding caveat (travels with every citation): the paper's unreleased experiment code evidently differed from the released demo; one F_T cell is an arithmetic error (70000→50000).",
+    "Poker & MusicLab excluded from the T1 fit (TvL-A5 demotion; 001 gated ELSE branch). Csurilla et al. 2023 (named in T2) is absent from the staged PROVENANCE.md; recorded direction-only with no cited number."
+  ],
+  "report_file": "report.md"
+}

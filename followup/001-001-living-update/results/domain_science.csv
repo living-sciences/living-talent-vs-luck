@@ -1,0 +1,7 @@
+domain,stat,value,ci_lo,ci_hi,n,note
+science,top20_share_2015_staged,0.9280669913205988,,,5000,citation concentration
+science,frac_uncited_2015_staged,0.573,,,5000,
+science,top20_share_2010_fetched,0.95374693360766,,,5000,citation concentration
+science,frac_uncited_2010_fetched,0.6034,,,5000,
+science,top20_share_2019_fetched,0.8826311104517469,,,5000,citation concentration
+science,frac_uncited_2019_fetched,0.4964,,,5000,

@@ -1,0 +1,22 @@
+{
+  "tennis_winner": {
+    "value": 0.9940119760479041,
+    "P_model_winner_pct_ge": 0.013
+  },
+  "tennis_top10": {
+    "value": 0.9805389221556886,
+    "P_model_top10_median_ge": 0.0
+  },
+  "movies_winner": {
+    "value": 0.9993920479876789,
+    "P_model_winner_pct_ge": 0.0
+  },
+  "movies_top10": {
+    "value": 0.9974060714140964,
+    "P_model_top10_median_ge": 0.0
+  },
+  "baseball_exitvelo_winner": {
+    "value": 1.0,
+    "P_model_winner_pct_ge": 0.0
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pL=80": {
+    "C_best": 327680.0,
+    "T_at_C_best": 0.5892430543899536,
+    "next_best": [
+      {
+        "talent": 0.5892430543899536,
+        "capital": 327680.0
+      },
+      {
+        "talent": 0.7293928861618042,
+        "capital": 163840.0
+      },
+      {
+        "talent": 0.6554680466651917,
+        "capital": 163840.0
+      },
+      {
+        "talent": 0.6270356178283691,
+        "capital": 81920.0
+      }
+    ],
+    "C_mt": 180.0362091064453,
+    "C_mt_def": "mean final capital of 'most talented' = agents with T>mT+2sigmaT=0.80 (paper's relative cut)",
+    "C_mt_n_per_run": 21.9,
+    "C_mt_absolute_gt_0p8": 180.0362091064453,
+    "P_T": 59.121891021728516,
+    "P_T_threshold": 0.7
+  },
+  "pL=20": {
+    "C_best": 2560.0,
+    "T_at_C_best": 0.5807386636734009,
+    "next_best": [
+      {
+        "talent": 0.5807386636734009,
+        "capital": 2560.0
+      },
+      {
+        "talent": 0.5816587209701538,
+        "capital": 2560.0
+      },
+      {
+        "talent": 0.6715112328529358,
+        "capital": 1280.0
+      },
+      {
+        "talent": 0.6900476217269897,
+        "capital": 1280.0
+      }
+    ],
+    "C_mt": 9.57876205444336,
+    "C_mt_def": "mean final capital of 'most talented' = agents with T>mT+2sigmaT=0.80 (paper's relative cut)",
+    "C_mt_n_per_run": 22.72,
+    "C_mt_absolute_gt_0p8": 9.57876205444336,
+    "P_T": 9.684249877929688,
+    "P_T_threshold": 0.7
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "n_events_parsed": 57,
+  "year_range": [
+    1970,
+    2026
+  ],
+  "spot_check_rows": [
+    {
+      "year": 1972,
+      "champion": "Thomas Preston",
+      "runner_up": "Walter Pearson",
+      "entrants": 8,
+      "prize": 80000.0
+    },
+    {
+      "year": 1988,
+      "champion": "Johnny Chan",
+      "runner_up": "Erik Seidel",
+      "entrants": 167,
+      "prize": 700000.0
+    },
+    {
+      "year": 2003,
+      "champion": "Chris Moneymaker",
+      "runner_up": "Sam Farha",
+      "entrants": 839,
+      "prize": 2500000.0
+    },
+    {
+      "year": 2006,
+      "champion": "Jamie Gold",
+      "runner_up": "Paul Wasicka",
+      "entrants": 8773,
+      "prize": 12000000.0
+    },
+    {
+      "year": 2019,
+      "champion": "Hossein Ensan",
+      "runner_up": "Dario Sammartino",
+      "entrants": 8569,
+      "prize": 10000000.0
+    }
+  ],
+  "power_statement": {
+    "statement": "Under a no-skill null with field sizes n_t, the expected number of repeat Main-Event champions 1990-2025 is E_0 = 0.315; under a uniform 5x skill multiple for a 10% skilled stratum it is E_5 = 1.124. The observed count is 0. With E_5 - E_0 = 0.809 expected events, this comparison cannot distinguish the hypotheses.",
+    "E0": 0.31463187318401287,
+    "E5": 1.1236852613714743,
+    "observed": 0,
+    "E5_minus_E0": 0.8090533881874614,
+    "n_years": 36,
+    "field_range": [
+      194,
+      10112
+    ],
+    "model_detail": "E0=sum_t D_{t-1}/n_t; E5=sum_t D_{t-1}*5/(1.4 n_t); D=distinct prior in-window winners; prior winners assumed in skilled stratum"
+  },
+  "bracelet_descriptive_ONLY": {
+    "multi_bracelet_counts_truncated": [
+      {
+        "player": "Phil Hellmuth",
+        "bracelets": 17
+      },
+      {
+        "player": "Phil Ivey",
+        "bracelets": 11
+      },
+      {
+        "player": "Doyle Brunson",
+        "bracelets": 10
+      },
+      {
+        "player": "Johnny Chan",
+        "bracelets": 10
+      },
+      {
+        "player": "Erik Seidel",
+        "bracelets": 10
+      },
+      {
+        "player": "Shaun Deeb",
+        "bracelets": 9
+      },
+      {
+        "player": "Benny Glaser",
+        "bracelets": 9
+      },
+      {
+        "player": "Michael Mizrachi",
+        "bracelets": 9
+      },
+      {
+        "player": "Johnny Moss",
+        "bracelets": 9
+      },
+      {
+        "player": "Daniel Negreanu",
+        "bracelets": 9
+      },
+      {
+        "player": "Nick Schulman",
+        "bracelets": 9
+      }
+    ],
+    "caveat": "top-truncated list (table starts at 17,11,10,9...); concentration on a top-truncated list is selection-biased and lower-bound-style descriptive only \u2014 NO verdict weight, NO null comparison (demoted at 2b revision, TvL-A5). A proper multi-event concentration test is a next-tick item behind the Hendon Mob human gate."
+  },
+  "literature_anchor": "Levitt & Miles 2014 (WSOP 2010): a-priori high-skill players' ROI +30.5% vs -15.6% for others \u2014 the poker leg's informative weight rests on this labelled literature rung.",
+  "P3_placement": "luck-end placement is LITERATURE-BASED only (Levitt-Miles 2014), reported as a labelled literature rung, NOT a measured/confirmed rung; staged poker data has no persistence series."
+}

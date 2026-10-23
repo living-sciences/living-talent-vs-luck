@@ -1,0 +1,41 @@
+{
+  "source": "OpenAlex (staged 2015 sample + declared in-run 2010/2019 pulls)",
+  "S1_concentration_by_cohort": {
+    "2015_staged": {
+      "n": 5000,
+      "total_citations": 55649.0,
+      "top20_share": 0.9280669913205988,
+      "top1_share": 0.2780283563046955,
+      "frac_uncited": 0.573,
+      "gini": 0.872466743337706,
+      "mean": 11.1298,
+      "median": 0.0
+    },
+    "2010_fetched": {
+      "n": 5000,
+      "total_citations": 75822.0,
+      "top20_share": 0.95374693360766,
+      "top1_share": 0.35477829653662524,
+      "frac_uncited": 0.6034,
+      "gini": 0.8969369628867611,
+      "mean": 15.1644,
+      "median": 0.0
+    },
+    "2019_fetched": {
+      "n": 5000,
+      "total_citations": 53924.0,
+      "top20_share": 0.8826311104517469,
+      "top1_share": 0.2426934203694088,
+      "frac_uncited": 0.4964,
+      "gini": 0.8383816853349159,
+      "mean": 10.7848,
+      "median": 1.0
+    }
+  },
+  "fetch_status": {
+    "2010": "ok n=5000",
+    "2019": "ok n=5000"
+  },
+  "declared_fetch_exception": "spec section 0/4.6 permits OpenAlex keyless CC0 queries; logged to fetch_log.json",
+  "preview_stated_in_provenance": "2015: top20=92.8%, uncited=57.3% (for cross-check)"
+}
